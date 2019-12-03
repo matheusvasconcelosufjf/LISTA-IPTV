@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="SD", ESPN BRASIL
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://raw.githubusercontent.com/matheusvasconcelosufjf/LISTA-IPTV/master/Logo_espnbrasil.png" group-title="SD", ESPN BRASIL
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="HD", ESPN EXTRA
