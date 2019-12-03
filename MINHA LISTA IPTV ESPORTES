@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logo_espnbrasil.png" group-title="HD", ESPN BRASIL
-http://tv.factoryiptv.com:80/987654/987654/36978
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logo_espnbrasil.png" group-title="SD", ESPN BRASIL
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="HD", ESPN EXTRA
 http://us.cdniptv.com:9088/hls/ms_espn_extra.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
@@ -29,3 +29,13 @@ http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expire
 
 #EXTINF:-1 tvg-id="PREMIERE FUTEBOL CLUBE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="HD", PREMIERE FUTEBOL CLUBE 4
 http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="HD", SPORTV 2
+http://us.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
+
+
+
+
+#EXTINF:-1 tvg-id="PREMIERE FUTEBOL CLUBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE FUTEBOL CLUBE
+http://51.15.144.221:25461/123456789/123456789/502
