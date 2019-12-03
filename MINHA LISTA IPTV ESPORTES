@@ -37,5 +37,5 @@ http://us.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&exp
 
 
 
-#EXTINF:-1 tvg-id="PREMIERE FUTEBOL CLUBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE FUTEBOL CLUBE
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE CLUBES
 http://51.15.144.221:25461/123456789/123456789/502
