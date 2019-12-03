@@ -30,6 +30,10 @@ http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expire
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="HD", PREMIERE 4
 http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
 
+#EXTINF:0 tvg-id="SPORTV " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="HD", SPORTV
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/987654/987654/51270
+
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="HD", SPORTV 2
 http://us.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
 
