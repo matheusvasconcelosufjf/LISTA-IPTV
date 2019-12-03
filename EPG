@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 
- <channel id="ESPNInternational.br">
+ <channel id="ESPN">
     <display-name lang="pt">ESPN</display-name>
     <icon src="http://www.brstugatutoriais.tk/canais/espn.gif" />
     <url>http://www.brstugatutoriais.tk</url>
   </channel>
-  <channel id="ESPN+.br">
+  <channel id="ESPN 2">
     <display-name lang="pt">ESPN 2</display-name>
     <icon src="http://www.brstugatutoriais.tk/canais/espn2.gif" />
     <url>http://www.brstugatutoriais.tk</url>
   </channel>
-  <channel id="Espnbrasil.br">
-    <display-name lang="pt">ESPN Brasil</display-name>
+  <channel id="ESPN BRASIL">
+    <display-name lang="pt">ESPN BRASIL</display-name>
     <icon src="http://www.brstugatutoriais.tk/canais/espnbrasil.gif" />
     <url>http://www.brstugatutoriais.tk</url>
   </channel>
-  <channel id="Espnextra.br">
-    <display-name lang="pt">ESPN Extra</display-name>
+  <channel id="ESPN EXTRA">
+    <display-name lang="pt">ESPN EXTRA</display-name>
     <icon src="http://www.brstugatutoriais.tk/canais/espnextra.gif" />
     <url>http://www.brstugatutoriais.tk</url>
   </channel>
