@@ -11,8 +11,8 @@
     <icon src="http://www.brstugatutoriais.tk/canais/espn2.gif" />
     <url>http://www.brstugatutoriais.tk</url>
   </channel>
-  <channel id="ESPN BRASIL">
-    <display-name lang="pt">ESPN BRASIL</display-name>
+  <channel id="Espnbrasil.br">
+    <display-name lang="pt">ESPN Brasil</display-name>
     <icon src="http://www.brstugatutoriais.tk/canais/espnbrasil.gif" />
     <url>http://www.brstugatutoriais.tk</url>
   </channel>
