@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="HD", ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="HD", BAND SPORTS
+http://maxptv.ddns.net:25461/live/jairo/1234/221.ts
+
 #EXTINF:-1 tvg-id="EI PLUS" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="HD", EI PLUS
 http://psrv.io:80/02259157325/coreurl.me/22978
 
@@ -55,7 +58,7 @@ http://psrv.io:80/02259157325/coreurl.me/18536
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-121824-banners-pacotes-combate.png" group-title="HD", COMBATE
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/combate_ac3478d6_5c09926f358393e112ce6581d3c7245c2dab0c58.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-121824-banners-pacotes-combate.png" group-title="HD", GLOBO RJ
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="HD", GLOBO RJ
 http://us.cdniptv.com:9088/hls/ms_globopr.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
 
 #EXTINF:-1 tvg-id="FOX SPORTS ARG" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="HD", FOX SPORTS ARG
@@ -97,14 +100,41 @@ http://psrv.io:80/02259157325/coreurl.me/18588
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE CLUBES
 http://us.cdniptv.com:9088/ms_premier_club.m3u8?md5=lcWqxso7-VJiCq2LwINTZA&expires=1569325534&dd=3844886&ip=191.242.113.179&devicetype=android&u=3844886&p=3614453
 
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE 2
+http://us.cdniptv.com:9088/ms_premier_2hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE 3
+http://us.cdniptv.com:9088/ms_premier_3hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="FHD", PREMIERE 4
+http://us.cdniptv.com:9088/ms_premier_4hd.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
+#EXTINF:-1 tvg-id="SPORTV " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="FHD", SPORTV
+http://us.cdniptv.com:9088/hls/ms_sport_tv_1.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logodix.com/logo/313657.png" group-title="FHD", ESPN 2
+http://us.cdniptv.com:9088/hls/ms_espn_plus.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+
 
 
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE CLUBES
-http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1601.ts?token=TxAMVEBeQwMQBQ8PUAADVgAFBVEEWAEHV1oKUwNUBAANBlNUCg9UAFcUGxoRRRBRV1hpXFYbDwIHUgNOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVVtTGBAUXFcUWxsAAwMKVRNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwMHAQwXTg==
+http://maxptv.ddns.net:25461/live/jairo/1234/85.ts
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE CLUBES
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_304c2a28e3ed4e6b621b255334185aa77ee5b53d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE 2
+http://maxptv.ddns.net:25461/live/jairo/1234/84.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE 3
+http://maxptv.ddns.net:25461/live/jairo/1234/82.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE 4
+http://maxptv.ddns.net:25461/live/jairo/1234/80.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE 5
+http://maxptv.ddns.net:25461/live/jairo/1234/78.ts
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://raw.githubusercontent.com/matheusvasconcelosufjf/LISTA-IPTV/master/Logo_espnbrasil.png" group-title="SD", ESPN BRASIL
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_159a53783963a8a102a6e201608ea1ea75f8dd40/playlist.m3u8
