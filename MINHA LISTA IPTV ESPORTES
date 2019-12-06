@@ -193,3 +193,5 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_40235b820326bbc
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="EM TESTE", SPORTV 3
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/sportv3_e1a864f0_371947530ff6b3847adc67339261340f4ef7b577.m3u8
 
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="EM TESTE", SPORTV 3
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_ff1bfcdab9c9ec662a8d670c7e27214dc9788689.m3u8
