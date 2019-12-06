@@ -195,3 +195,22 @@ http://edge-aws.aovivo.club/hls/s:78.47.3.135/sportv3_e1a864f0_371947530ff6b3847
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="EM TESTE", SPORTV 3
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_ff1bfcdab9c9ec662a8d670c7e27214dc9788689.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="EM TESTE", ESPN
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer3.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logodix.com/logo/313657.png" group-title="EM TESTE", ESPN 2
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer3.m3u8
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="EM TESTE", ESPN EXTRA
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer3.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://raw.githubusercontent.com/matheusvasconcelosufjf/LISTA-IPTV/master/Logo_espnbrasil.png" group-title="EM TESTE", ESPN BRASIL
+https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="EM TESTE", PREMIERE CLUBES
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/playlist.m3u8?hdnts=st=1566768827~exp=1666768817~acl=/*~id=l1s1cmra7kad0hj4smq32cb1b5~hmac=bfe594668c2834779468741c1d4e2a73ba8fee82725ceb065186abb59cb14139
+
+#EXTINF:-1 tvg-id="TV MAX" tvg-logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png" group-title="EM TESTE", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
