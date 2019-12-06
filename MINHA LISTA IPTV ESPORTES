@@ -128,7 +128,7 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxsportshd_98fbc42f_880d97a0497
 http://maxptv.ddns.net:25461/live/jairo/1234/85.ts
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE CLUBES
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_304c2a28e3ed4e6b621b255334185aa77ee5b53d/playlist.m3u8
+http://tvnanet.xyz:25461/live/palmeiras2021/verdao2021/199.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="SD", PREMIERE 2
 http://maxptv.ddns.net:25461/live/jairo/1234/84.ts
@@ -147,4 +147,49 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-p.m3u8?sd=
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="SD", FOX SPORTS
 http://tvnanet.xyz:25461/live/palmeiras2021/verdao2021/90.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="EM TESTE", PREMIERE CLUBES
+http://tvnanet.xyz:25461/live/palmeiras2021/verdao2021/199.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="EM TESTE", PREMIERE CLUBES
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_166f3277abddedccf09aed67ad8c7ab34fd8bdc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="EM TESTE", PREMIERE 2
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere2_f5b68d74_bdd7bb60e652544c0b79a9bf0604687e50687a7d.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="EM TESTE", PREMIERE 2
+ttp://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere2_f5b68d74_bdd7bb60e652544c0b79a9bf0604687e50687a7d-999.ts
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png" group-title="EM TESTE", PREMIERE 5
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere5_0486ffb0_a069cd8fdf631b37dc88d851c1a94349283f254d.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="EM TESTE", GLOBO SP
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/globosp_cfe21c68_8c7cc3d58c521d756a6023af2709ad8167ee048b.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="EM TESTE", FOX SPORTS
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_40875a7cf814a91c820c1e48f19ec77029b968b6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="EM TESTE", GLOBO RJ
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/globorj_bc15c774_5221656180a9002f5bfe4f376a15d03e06f537e7.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://raw.githubusercontent.com/matheusvasconcelosufjf/LISTA-IPTV/master/Logo_espnbrasil.png" group-title="EM TESTE", ESPN BRASIL
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espnbrasil_2a459380_b6f4c90569a62bc88df13318671fd73806b843de/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="EM TESTE", TNT
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/tnt_9109c85a_6d2a39fa8de57a962d11d14b1660cfc417485bfc.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="EM TESTE", FOX SPORTS 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_c2d23474605aa50ce30cd3b58879034a35d3a28b.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png" group-title="HD", SPACE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_40235b820326bbc932b55fcaceb2b771a13dc61b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="EM TESTE", SPORTV 3
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/sportv3_e1a864f0_371947530ff6b3847adc67339261340f4ef7b577.m3u8
 
