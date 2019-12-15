@@ -4,7 +4,7 @@
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="HD", BAND SPORTS
-http://maxptv.ddns.net:25461/live/jairo/1234/221.ts
+http://thefastconection.com:80/zaqueu/zaqueu123/295
 
 #EXTINF:-1 tvg-id="EI PLUS" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="HD", EI PLUS
 http://psrv.io:80/02259157325/coreurl.me/22978
@@ -214,3 +214,20 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/playlist.m3u8?hdnts=st=
 #EXTINF:-1 tvg-id="TV MAX" tvg-logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png" group-title="EM TESTE", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="EM TESTE", ESPN
+http://thefastconection.com:80/zaqueu/zaqueu123/282
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="EM TESTE", ESPN
+http://thefastconection.com:80/zaqueu/zaqueu123/49406
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logodix.com/logo/313657.png" group-title="EM TESTE", ESPN 2
+http://thefastconection.com:80/zaqueu/zaqueu123/30716
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://raw.githubusercontent.com/matheusvasconcelosufjf/LISTA-IPTV/master/Logo_espnbrasil.png" group-title="EM TESTE", ESPN BRASIL
+http://thefastconection.com:80/zaqueu/zaqueu123/283
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="EM TESTE", FOX SPORTS
+http://thefastconection.com:80/zaqueu/zaqueu123/28024
+
+#EXTINF:0 tvg-id="SPORTV " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="EM TESTE", SPORTV
+http://thefastconection.com:80/zaqueu/zaqueu123/246
