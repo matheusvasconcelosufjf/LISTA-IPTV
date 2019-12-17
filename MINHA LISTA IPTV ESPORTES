@@ -6,6 +6,9 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="HD", BAND SPORTS
 http://thefastconection.com:80/zaqueu/zaqueu123/295
 
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="HD", COMBATE
+http://world-iptv.net:8080/andrew/andrew123/19479
+
 #EXTINF:-1 tvg-id="EI PLUS" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="HD", EI PLUS
 http://psrv.io:80/02259157325/coreurl.me/22978
 
@@ -25,7 +28,7 @@ http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN/master_Layer1.m3u8
 http://us.cdniptv.com:9088/hls/ms_espn_plus.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="HD", FOX SPORTS
-http://us.cdniptv.com:9088/hls/ms_fox_sport_1.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
+http://u9in.club:8080/live/12345678/12345678/8101.ts
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="https://1.bp.blogspot.com/-qYwWIJ7BERY/Xbnj89VzQ3I/AAAAAAABcuA/TavZv8yMJK456E-0KJptTMB0VKXnj9BywCLcBGAsYHQ/s640/foxsports2.png" group-title="HD", FOX SPORTS 2
 http://us.cdniptv.com:9088/hls/ms_fox_sport_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
@@ -47,7 +50,7 @@ http://psrv.io:80/02259157325/coreurl.me/18564
 
 #EXTINF:0 tvg-id="SPORTV " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="HD", SPORTV
 #EXTVLCOPT:network-caching=1000
-http://psrv.io:80/02259157325/coreurl.me/18558
+http://u9in.club:8080/live/12345678/12345678/8012.ts
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="HD", SPORTV 2
 http://us.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=yrn-PyTQjTR_toxSumsM9g&expires=1572349859&dd=3844886&ip=177.86.149.149&devicetype=android&u=3844886&p=3614453
@@ -218,7 +221,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 http://thefastconection.com:80/zaqueu/zaqueu123/282
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="EM TESTE", ESPN
-http://thefastconection.com:80/zaqueu/zaqueu123/49406
+http://u9in.club:8080/live/12345678/12345678/8119.ts
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logodix.com/logo/313657.png" group-title="EM TESTE", ESPN 2
 http://thefastconection.com:80/zaqueu/zaqueu123/30716
@@ -231,3 +234,56 @@ http://thefastconection.com:80/zaqueu/zaqueu123/28024
 
 #EXTINF:0 tvg-id="SPORTV " tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="EM TESTE", SPORTV
 http://thefastconection.com:80/zaqueu/zaqueu123/246
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SOUTH PARK 24hrs" tvg-logo="https://img.favpng.com/19/3/10/eric-cartman-kenny-mccormick-stan-marsh-kyle-broflovski-south-park-png-favpng-ZcnXYT8Wu3q7wupXC5fYWAwcB.jpg" group-title="OUTROS", SOUTH PARK 24hrs
+http://u9in.club:8080/live/pitbull/pitbull/30158.ts
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="OUTROS", TELECINE ACTION
+http://u9in.club:8080/live/pitbull/pitbull/28151.ts
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="OUTROS", TELECINE CULT
+http://u9in.club:8080/live/pitbull/pitbull/51947.ts
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="OUTROS", TELECINE FUN
+http://u9in.club:8080/live/pitbull/pitbull/28150.ts
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="OUTROS", TELECINE PIPOCA
+http://u9in.club:8080/live/pitbull/pitbull/28149.ts
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="OUTROS", TELECINE TOUCH
+http://u9in.club:8080/live/pitbull/pitbull/28147.ts
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="OUTROS", HBO
+http://u9in.club:8080/live/pitbull/pitbull/28164.ts
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="OUTROS", CARTOON NETWORK
+http://u9in.club:8080/live/pitbull/pitbull/28240.ts
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="OUTROS", MULTISHOW
+http://u9in.club:8080/live/pitbull/pitbull/28204.ts
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="OUTROS", MTV
+http://u9in.club:8080/live/pitbull/pitbull/28205.ts
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png" group-title="OUTROS", MEGAPIX
+http://u9in.club:8080/live/pitbull/pitbull/28207.ts
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="OUTROS", MAX UP
+http://u9in.club:8080/live/pitbull/pitbull/28208.ts
