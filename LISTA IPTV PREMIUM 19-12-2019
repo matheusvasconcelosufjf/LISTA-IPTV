@@ -152,6 +152,9 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/6854.ts
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil HD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/6853.ts
 
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil SD
+http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5644.m3u8
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="ESPORTE",ESPN Extra 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/2003.m3u8
 
@@ -352,6 +355,9 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/231.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV 
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5665.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV SD
+http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5665.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV 
 http://cerbot.kastream.biz:8081/edge/verb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=58009&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAxOSAyOjI1OjA1IEFNJmhhc2hfdmFsdWU9K0puVmdIbzI3ek9FQU5ROGNFV0RCQT09JnZhbGlkbWludXRlcz0xMjA=
