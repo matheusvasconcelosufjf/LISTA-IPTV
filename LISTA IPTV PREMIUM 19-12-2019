@@ -359,8 +359,14 @@ http://cerbot.kastream.biz:8081/edge/verb73bc4850c6bdbae7e8012a8aef49dda/chunks.
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV FHD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/47.ts
 
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV FHD2
+http://viptv3.dyndns.tv:2086/live/issa01/issa01/47.ts
+
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV HD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/46.ts
+
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV HD2
+http://viptv3.dyndns.tv:2086/live/issa01/issa01/46.ts
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Tn0" group-title="Filmes e Séries",Studio Universal 
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5668.m3u8
