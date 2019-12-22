@@ -176,6 +176,9 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_b0c8514bc
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="Esportes",FOX Sports
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5647.m3u8
 
+#EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="Esportes",FOX Sports FHD
+http://viptv3.dyndns.tv:2086/live/moises01/moises01/142.ts
+
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="Esportes",FOX Sports
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_baa98d5ab498b0df86a573ee5e1def51f64cf3af/playlist.m3u8
 
