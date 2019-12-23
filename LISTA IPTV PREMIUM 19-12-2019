@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5599.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E FHD
+http://list.deeplist.nl/live/jcantel/cantel123/52645.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
 http://list.deeplist.nl/live/jcantel/cantel123/15406.m3u8
