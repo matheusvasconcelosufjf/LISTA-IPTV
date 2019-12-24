@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E HD
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E FHD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/215.ts
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
