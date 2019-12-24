@@ -326,6 +326,9 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/73.ts
 #EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes HD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/72.ts
 
+#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
 #EXTINF:-1 tvg-logo="http://iv.pe/OYM" group-title="Variedades",Prime Box Brasil 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1971.m3u8
 
