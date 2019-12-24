@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E FHD
-http://list.deeplist.nl/live/jcantel/cantel321/1120.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/aie.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
 https://d3vgf6qih0jwkx.cloudfront.net/hls1/amc.m3u8
@@ -19,10 +19,10 @@ https://d3vgf6qih0jwkx.cloudfront.net/hls1/axn.m3u8
 https://d3vgf6qih0jwkx.cloudfront.net/hls1/band.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="Notícias",BandNews 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5602.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/bandnews.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="ESPORTE",BandSports 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5603.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/bandsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/24.m3u8
