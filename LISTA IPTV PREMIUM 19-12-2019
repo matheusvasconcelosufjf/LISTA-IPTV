@@ -4,10 +4,7 @@
 http://list.deeplist.nl/live/jcantel/cantel321/1120.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
-http://list.deeplist.nl/live/jcantel/cantel123/15406.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
-http://list.deeplist.nl/live/jcantel/cantel123/52646.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/amc.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="Documentários",Animal Planet
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5600.m3u8
@@ -16,10 +13,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5600.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/10.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Filmes e Séries",AXN 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/12.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="Filmes e Séries",AXN
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5601.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/axn.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="Abertos",Band
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/19.m3u8
@@ -33,50 +27,38 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5602.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="ESPORTE",BandSports 
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5603.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis 
+#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/24.m3u8
 
+#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="Variedades",Bis
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/bis.m3u8
+
 #EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5604.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/boomerang.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Infantis",Boomerang
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/26.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Filmes e Séries",Sony 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/223.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="Filmes e Séries",Sony 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5605.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/sony.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Infantis",Cartoon Network 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5616.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Infantis",Cartoon Network 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5606.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="Filmes e Séries",Cinemax 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/31.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="Filmes e Séries",Cinemax 
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_df1005319b92d86a4f164df73e1adb291bda31a1/playlist.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="ESPORTE",Combate 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/34.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="ESPORTE",Combate 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5608.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/combate.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="Variedades",Comedy Central 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/36.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="Variedades",Comedy Central
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_3bc08f84f62d835a21233367eb10b438f1ac0da8/playlist.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/comedycentral.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/40.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Documentários",Curta 
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/canalcurta_9d6ad3cc_3302407c90ea3085b6e12ecc3255f128f5e3af84/playlist.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/curta.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="ESPORTE",DAZN
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/41.m3u8
@@ -95,6 +77,9 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5614.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Infantis",Discovery Kids 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/49.m3u8
 
+#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Infantis",Discovery Kids
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/discoverykids.m3u8
+
 #EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="Documentários",Discovery Science 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/51.m3u8
 
@@ -111,19 +96,19 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/59.m3u8
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryworld_68b79337_8e5da1b60c67c12b29773136474a74d29c9b7185/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Infantis",Disney Channel 
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_c97d5fbdb95e3d5dde06196b1822c537340131a1/playlist.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/disney.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Infantis",Disney Channel
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5614.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Infantis",Disney Jr 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5615.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="Infantis",Disney XD 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/65.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="Infantis",Disney XD 
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/disneyxd_d094700e_68dc7600dbf8ee99ea173fa4c856ede6f4a37f0a/playlist.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/disneyxd.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Variedades",E! 
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/67.m3u8
@@ -207,7 +192,7 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_baa98d5ab49
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1997.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title="Filmes e Séries",FX 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1996.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/fx.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="Globo",Globo
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5671.m3u8
@@ -216,7 +201,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5671.m3u8
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5650.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9Yr" group-title="Infantis",Gloob 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1942.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/gloob.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/FFX" group-title="Infantis",Gloobinho 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1995.m3u8
@@ -282,7 +267,7 @@ http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1979.m3u8
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5625.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Seh" group-title="Infantis",NatGeo Kids 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1977.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/natgeokids.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/t8l" group-title="Documentários",NatGeo Wild 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1976.m3u8
@@ -345,7 +330,7 @@ http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1918.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1737.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="Filmes e Séries",Space 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5626.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/space.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8xl" group-title="ESPORTE",SporTV 2
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5666.m3u8
@@ -378,7 +363,7 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/46.ts
 http://viptv3.dyndns.tv:2086/live/issa01/issa01/46.ts
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Tn0" group-title="Filmes e Séries",Studio Universal 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5668.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/studiouniversal.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4mR" group-title="Filmes e Séries",SyFy 
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5627.m3u8
@@ -387,43 +372,37 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5627.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1966.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="Filmes e Séries",TCM 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5629.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="Filmes e Séries",TCM 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5628.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/E3y" group-title="Telecine",Telecine Action 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1927.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/telecineaction.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="Telecine",Telecine Cult 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1965.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/telecinecult.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/WiL" group-title="Telecine",Telecine Fun 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1926.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/telecinefun.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/NUS" group-title="Telecine",Telecine Pipoca 
 https://d3vgf6qih0jwkx.cloudfront.net/hls1/telecinepipoca.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ewn" group-title="Telecine",Telecine Premium 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1924.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/telecinepremium.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sUe" group-title="Telecine",Telecine Touch 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5635.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/telecinetouch.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/RAK" group-title="Variedades",TLC 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1964.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dlK" group-title="Filmes e Séries",TNT 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5636.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/tnt.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/T8d" group-title="Filmes e Séries",TNT Series 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1962.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/tntseries.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/JTf" group-title="Filmes e Séries",Universal Channel 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5673.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/JTf" group-title="Filmes e Séries",Universal Channel
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5638.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/universal.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vwN" group-title="Variedades",VH1 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1958.m3u8
@@ -432,25 +411,12 @@ http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1958.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1922.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kuW" group-title="Filmes e Séries",Warner Channel 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5639.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/warner.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/bXo" group-title="Variedades",WooHoo 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1956.m3u8
 
 
-#EXTM3U
-
-#IPTV Brasil 2019 Lista Playlist pessoal sinta-se a vontade para atualizá-la
-#Canais de TV aberta e cabo por assinatura online em 02/12/2019
-#Links em maioria são direto da source (fonte)
-#Lista é grátis. Quem ama, compartilha, Tenham um Feliz Natal e Feliz Ano Novo
-
-################################################################################# A Fazenda 11
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MuQCW3Q.png" group-title="Reality",A Fazenda 11 HD
-http://amd01eng.akamaized.net/hls/live/2008102/fazenda11/master_720.m3u8
-
-################################################################################# Religiosos
 
 #EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-logo="https://i.imgur.com/dLsBZa0.png" group-title="Religiosos",TVCI / RCI (TV PAI ETERNO)
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
