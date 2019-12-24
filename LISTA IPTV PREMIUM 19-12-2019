@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E HD
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E FHD
 http://list.deeplist.nl/live/jcantel/cantel321/1120.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
@@ -144,7 +144,7 @@ http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/72.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5644.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/espnbrasil.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil FHD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/6854.ts
@@ -159,7 +159,7 @@ http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5644.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/2003.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5645.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/espn.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN HD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/158.ts
@@ -180,7 +180,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5618.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1999.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="ESPORTE",FOX Sports 2
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5648.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/foxsports2.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="ESPORTE",FOX Sports 2 FHD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/144.ts
@@ -195,7 +195,7 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/141.ts
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5647.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/foxsports1.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports FHD
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/142.ts
@@ -290,8 +290,8 @@ http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1976.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/hrs" group-title="Infantis",Nick Jr 
 http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5660.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/NRu" group-title="Infantis",Nickelodeon 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5659.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/NRu" group-title="Infantis",Nickelodeon SD
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/nick.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/KNa" group-title="Variedades",OFF 
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1973.m3u8
@@ -357,7 +357,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5662.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/231.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV 
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5665.m3u8
+https://d3vgf6qih0jwkx.cloudfront.net/hls1/sportv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV SD
 http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5665.m3u8
