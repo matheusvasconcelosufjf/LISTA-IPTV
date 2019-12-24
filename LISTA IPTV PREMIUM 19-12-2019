@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E FHD
-http://list.deeplist.nl/live/jcantel/cantel123/52645.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES",A&E
+http://list.deeplist.nl/live/jcantel/cantel321/1120.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES",AMC 
 http://list.deeplist.nl/live/jcantel/cantel123/15406.m3u8
@@ -908,24 +908,3 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&ex
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://i.imgur.com/RXSXBqY.png" group-title="Internacional",Food Network
 http://95.86.32.7:999/food
 
-
-
-################################################################################# Canais 18+ Adultos XXX
-
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-logo="https://i.imgur.com/5P8DvFg.png" group-title="18+ XXX",18+ Sexy Hot HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
-#EXTINF:-1 tvg-id="SUPERONE" tvg-logo="https://i.imgur.com/AK3dnHu.jpg" group-title="18+ XXX",18+ SuperOne HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/206_.m3u8
-
-#EXTINF:-1 tvg-id="BRAZZERS EUROPE" tvg-logo="https://i.imgur.com/yz960Co.jpg" group-title="18+ XXX",18+ Brazzers Europe
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18428_.m3u8
-
-#EXTINF:-1 tvg-id="EROXXX" tvg-logo="https://i.imgur.com/uHjW9IT.jpg" group-title="18+ XXX",18+ EroXXX HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/210_.m3u8
-
-#EXTINF:-1 tvg-id="HOT TV" tvg-logo="https://i.imgur.com/Egzsb2o.jpg" group-title="18+ XXX",18+ HOT TV HD (Portugal)
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18424_.m3u8
-
-#EXTINF:-1 tvg-id="XY MAX" tvg-logo="https://i.imgur.com/60DXnZQ.png" group-title="18+ XXX",18+ XY Max HD
-http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/2766_.m3u8
