@@ -7,7 +7,7 @@ https://d2b8g5kuusn7xk.cloudfront.net/hls1/aie.m3u8
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/amc.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u4P" group-title="DOCUMENTÁRIOS",Animal Planet
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5600.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/animalplanet.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="DOCUMENTÁRIOS",Arte 1
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/10.m3u8
@@ -60,7 +60,7 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/41.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HGTV_2010.png" group-title="DOCUMENTÁRIOS",HGTV
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title="DOCUMENTÁRIOS",Discovery Channel
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5610.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title="VARIEDADES",Discovery Home&amp;Health
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/47.m3u8
@@ -78,7 +78,7 @@ http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/51.m3u8
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/53.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="VARIEDADES",Discovery Turbo
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5614.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iva" group-title="DOCUMENTÁRIOS",Discovery World
 http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/59.m3u8
@@ -108,7 +108,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5641.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/29887.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="ESPORTE",ESPN 2
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/2004.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
@@ -129,7 +129,7 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/6853.ts
 http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5644.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="ESPORTE",ESPN Extra
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/2003.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/espn.m3u8
@@ -198,7 +198,7 @@ http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1995.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1994.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BwS" group-title="DOCUMENTÁRIOS",H2
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5619.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/history2.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Kcx" group-title="FILMES E SÉRIES",HBO 2
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/hbo2.m3u8
