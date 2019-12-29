@@ -10,7 +10,7 @@ https://d2b8g5kuusn7xk.cloudfront.net/hls1/amc.m3u8
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/animalplanet.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="DOCUMENTÁRIOS",Arte 1
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/10.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/arte1.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/NWV" group-title="FILMES E SÉRIES",AXN
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/axn.m3u8
@@ -23,9 +23,6 @@ https://d2b8g5kuusn7xk.cloudfront.net/hls1/bandnews.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="ESPORTE",BandSports 
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/bandsports.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="VARIEDADES",BIS
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/24.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="VARIEDADES",Bis
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/bis.m3u8
@@ -41,9 +38,6 @@ https://d2b8g5kuusn7xk.cloudfront.net/hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="FILMES E SÉRIES",Cinemax 
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/cinemax.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="ESPORTE",Combate
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/34.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="ESPORTE",Combate
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/combate.m3u8
@@ -114,9 +108,6 @@ https://d2b8g5kuusn7xk.cloudfront.net/hls1/espn2.m3u8
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer1.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/72.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/espnbrasil.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
@@ -141,7 +132,7 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/158.ts
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/161.ts
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title="VARIEDADES",Food Network
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/2001.m3u8
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/foodnetwork.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/x4P" group-title="FILMES E SÉRIES",FOX
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/fox.m3u8
