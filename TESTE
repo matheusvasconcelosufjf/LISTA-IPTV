@@ -38,3 +38,21 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="ABERTOS",TV Brasil
 http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/E3y" group-title="FILMES E SÉRIES",Telecine Action
+https://d3m4uoez6geori.cloudfront.net/hls1/telecineaction.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="FILMES E SÉRIES",Telecine Cult
+https://d3m4uoez6geori.cloudfront.net/hls1/telecinecult.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/WiL" group-title="FILMES E SÉRIES",Telecine Fun
+https://d3m4uoez6geori.cloudfront.net/hls1/telecinefun.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/NUS" group-title="FILMES E SÉRIES",Telecine Pipoca
+https://d3m4uoez6geori.cloudfront.net/hls1/telecinepipoca.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/ewn" group-title="FILMES E SÉRIES",Telecine Premium
+https://d3m4uoez6geori.cloudfront.net/hls1/telecinepremium.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/sUe" group-title="FILMES E SÉRIES",Telecine Touch
+https://d3m4uoez6geori.cloudfront.net/hls1/telecinetouch.m3u8
