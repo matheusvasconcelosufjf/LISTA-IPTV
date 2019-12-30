@@ -240,20 +240,14 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/72.ts
 #EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
 https://d3m4uoez6geori.cloudfront.net/hls1/premiereclubes.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/OYM" group-title="VARIEDADES",Prime Box Brazil
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1971.m3u8
-
 #EXTINF:-1 tvg-logo="http://iv.pe/iRz" group-title="NOTÍCIAS",Record News
 https://d3m4uoez6geori.cloudfront.net/hls1/recordnews.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/QFa" group-title="ABERTOS",Record
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1932.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/Amp" group-title="ABERTOS",Rede TV
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1918.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/recordsp.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/doO" group-title="ABERTOS",SBT
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1737.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/sbt.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="FILMES E SÉRIES",Space
 https://d3m4uoez6geori.cloudfront.net/hls1/space.m3u8
@@ -271,16 +265,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5662.m3u8
 https://d3m4uoez6geori.cloudfront.net/hls1/sportv3.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV 
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/231.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV 
 https://d3m4uoez6geori.cloudfront.net/hls1/sportv1.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
-http://iptv.deluxeplay.live:80/live/W3U4y3p5u/Y0tQv889do/5665.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
-http://cerbot.kastream.biz:8081/edge/verb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=58009&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAxOSAyOjI1OjA1IEFNJmhhc2hfdmFsdWU9K0puVmdIbzI3ek9FQU5ROGNFV0RCQT09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/47.ts
@@ -291,17 +276,11 @@ http://viptv3.dyndns.tv:2086/live/issa01/issa01/47.ts
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/46.ts
 
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
-http://viptv3.dyndns.tv:2086/live/issa01/issa01/46.ts
-
 #EXTINF:-1 tvg-logo="http://iv.pe/Tn0" group-title="FILMES E SÉRIES",Studio Universal
 https://d3m4uoez6geori.cloudfront.net/hls1/studiouniversal.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4mR" group-title="FILMES E SÉRIES",SyFy
 https://d3m4uoez6geori.cloudfront.net/hls1/syfy.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/a6P" group-title="FILMES E SÉRIES",TBS
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1966.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="FILMES E SÉRIES",TCM
 https://d3m4uoez6geori.cloudfront.net/hls1/tcm.m3u8
@@ -336,17 +315,14 @@ https://d3m4uoez6geori.cloudfront.net/hls1/tntseries.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/JTf" group-title="FILMES E SÉRIES",Universal
 https://d3m4uoez6geori.cloudfront.net/hls1/universal.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/vwN" group-title="VARIEDADES",VH1 HD
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1958.m3u8
-
 #EXTINF:-1 tvg-logo="http://iv.pe/g8Y" group-title="VARIEDADES",Viva
 https://d3m4uoez6geori.cloudfront.net/hls1/viva.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kuW" group-title="FILMES E SÉRIES",Warner
 https://d3m4uoez6geori.cloudfront.net/hls1/warner.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/bXo" group-title="VARIEDADES",Woohoo
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1956.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoomoo.tv.br/wp-content/themes/kids-world/images/logo.png" group-title="INFANTIL",Zoomoo
+https://d3m4uoez6geori.cloudfront.net/hls1/zoomoo.m3u8
 
 
 
@@ -404,9 +380,6 @@ http://evpp.mm.uol.com.br:1935/canal_rural/aovivo.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="ABERTOS",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="ABERTOS",TV Gazeta
-http://177.20.215.3:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo RJ
 https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
@@ -794,4 +767,3 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&ex
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://i.imgur.com/RXSXBqY.png" group-title="INTERNACIONAIS",Food Network
 http://95.86.32.7:999/food
-
