@@ -18,6 +18,24 @@ https://d2b8g5kuusn7xk.cloudfront.net/hls1/boborj.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="FILMES E SÉRIES",HBO
 https://d2b8g5kuusn7xk.cloudfront.net/hls1/hbo.m3u8
 
+#EXTINF:-1 tvg-logo="http://iv.pe/E3y" group-title="FILMES E SÉRIES",Telecine Action
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/telecineaction.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="FILMES E SÉRIES",Telecine Cult
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/telecinecult.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/WiL" group-title="FILMES E SÉRIES",Telecine Fun
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/telecinefun.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/NUS" group-title="FILMES E SÉRIES",Telecine Pipoca
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/telecinepipoca.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/ewn" group-title="FILMES E SÉRIES",Telecine Premium
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/telecinepremium.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/sUe" group-title="FILMES E SÉRIES",Telecine Touch
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/telecinetouch.m3u8
+
 #EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="ABERTOS",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
