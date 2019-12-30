@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES E SÉRIES",AMC
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/amc.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="INFANTIL",Cartoon Network
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/cartoon.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="FILMES E SÉRIES",Cinemax 
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="INFANTIL",Disney Junior
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="ABERTOS",Globo SP
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/boborj.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="FILMES E SÉRIES",HBO
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/hbo.m3u8
+
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="ABERTOS",TV Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="ABERTOS",TV Gazeta
+http://177.20.215.3:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="ABERTOS",Band SP
+http://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://i.imgur.com/Wajw4nv.png" group-title="ABERTOS", SBT SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="ABERTOS",Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV BRASIL" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="ABERTOS",TV Brasil
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8
