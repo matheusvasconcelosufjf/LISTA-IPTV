@@ -48,58 +48,38 @@ https://d3m4uoez6geori.cloudfront.net/hls1/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="DOCUMENTÁRIOS",Curta!
 https://d3m4uoez6geori.cloudfront.net/hls1/curta.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/7TG" group-title="ESPORTE",DAZN
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/41.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HGTV_2010.png" group-title="DOCUMENTÁRIOS",HGTV
-
 #EXTINF:-1 tvg-logo="http://iv.pe/pK5" group-title="DOCUMENTÁRIOS",Discovery Channel
 https://d3m4uoez6geori.cloudfront.net/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title="VARIEDADES",Discovery Home&amp;Health
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/47.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/N8F" group-title="VARIEDADES",Discovery Home&amp;Health
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5614.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/discoveryhomeihealth.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="INFANTIL",Discovery Kids
 https://d3m4uoez6geori.cloudfront.net/hls1/discoverykids.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="DOCUMENTÁRIOS",Discovery Science
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/51.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/discoverysience.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title="DOCUMENTÁRIOS",Discovery Theater
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/53.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/discoverytheater.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="VARIEDADES",Discovery Turbo
 https://d3m4uoez6geori.cloudfront.net/hls1/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iva" group-title="DOCUMENTÁRIOS",Discovery World
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/59.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/discoveryworld.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="INFANTIL",Disney Channel
 https://d3m4uoez6geori.cloudfront.net/hls1/disney.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="INFANTIL",Disney Channel
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5614.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="INFANTIL",Disney Junior
 https://d3m4uoez6geori.cloudfront.net/hls1/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="INFANTIL",Disney XD
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/65.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="INFANTIL",Disney XD
 https://d3m4uoez6geori.cloudfront.net/hls1/disneyxd.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="VARIEDADES",E!
-http://tvnanet.xyz:25461/live/palmeiras1951/campeao1951/67.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="VARIEDADES",E!
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5641.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/C3v" group-title="ESPORTE",Esporte Interativo
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/29887.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/canale.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="ESPORTE",ESPN 2
 https://d3m4uoez6geori.cloudfront.net/hls1/espn2.m3u8
@@ -116,12 +96,6 @@ https://d3m4uoez6geori.cloudfront.net/hls1/espn2.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN
 https://d3m4uoez6geori.cloudfront.net/hls1/espn.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN
-http://viptv3.dyndns.tv:2086/live/moises01/moises01/158.ts
-
-#EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN
-http://viptv3.dyndns.tv:2086/live/moises01/moises01/161.ts
-
 #EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title="VARIEDADES",Food Network
 https://d3m4uoez6geori.cloudfront.net/hls1/foodnetwork.m3u8
 
@@ -129,19 +103,16 @@ https://d3m4uoez6geori.cloudfront.net/hls1/foodnetwork.m3u8
 https://d3m4uoez6geori.cloudfront.net/hls1/fox.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/jDd" group-title="VARIEDADES",FOX Life
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5618.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/foxlife.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/R" group-title="FILMES E SÉRIES",FOX Premium 1
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1999.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/foxpremium1.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/R" group-title="FILMES E SÉRIES",FOX Premium 2
+https://d3m4uoez6geori.cloudfront.net/hls1/foxpremium2.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="ESPORTE",FOX Sports 2
 https://d3m4uoez6geori.cloudfront.net/hls1/foxsports2.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="ESPORTE",FOX Sports 2
-http://viptv3.dyndns.tv:2086/live/moises01/moises01/144.ts
-
-#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="ESPORTE",FOX Sports 2
-http://viptv3.dyndns.tv:2086/live/moises01/moises01/143.ts
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/141.ts
@@ -152,23 +123,17 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunkli
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
 https://d3m4uoez6geori.cloudfront.net/hls1/foxsports1.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
-http://viptv3.dyndns.tv:2086/live/moises01/moises01/142.ts
-
-#EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_baa98d5ab498b0df86a573ee5e1def51f64cf3af/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/xEJ" group-title="ABERTOS",Futura
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1997.m3u8
-
 #EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title="FILMES E SÉRIES",FX
 https://d3m4uoez6geori.cloudfront.net/hls1/fx.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="ABERTOS",Globo SP
+https://d3m4uoez6geori.cloudfront.net/hls1/bobosp.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="ABERTOS",Globo RJ
 https://d3m4uoez6geori.cloudfront.net/hls1/boborj.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="NOTÍCIAS",GloboNews
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5650.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/globonews.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9Yr" group-title="INFANTIL",Gloob
 https://d3m4uoez6geori.cloudfront.net/hls1/gloob.m3u8
@@ -177,7 +142,7 @@ https://d3m4uoez6geori.cloudfront.net/hls1/gloob.m3u8
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1995.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/NoG" group-title="VARIEDADES",GNT
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1994.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/gnt.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BwS" group-title="DOCUMENTÁRIOS",H2
 https://d3m4uoez6geori.cloudfront.net/hls1/history2.m3u8
@@ -198,16 +163,16 @@ https://d3m4uoez6geori.cloudfront.net/hls1/hboplus.m3u8
 https://d3m4uoez6geori.cloudfront.net/hls1/hbosignature.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/eh7" group-title="DOCUMENTÁRIOS",History
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5624.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/history.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gon" group-title="VARIEDADES",ID
-http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5655.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/investigacaodiscovery.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ge2" group-title="VARIEDADES",Lifetime
 https://d3m4uoez6geori.cloudfront.net/hls1/lifetime.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3uB" group-title="VARIEDADES",Mais GloboSat
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1921.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/maisbobosat.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YRV" group-title="FILMES E SÉRIES",MAX
 https://d3m4uoez6geori.cloudfront.net/hls1/max.m3u8
@@ -226,9 +191,6 @@ https://d3m4uoez6geori.cloudfront.net/hls1/mtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/jtx" group-title="VARIEDADES",Multishow
 https://d3m4uoez6geori.cloudfront.net/hls1/multishow.m3u8
-
-#EXTINF:-1 tvg-logo="http://iv.pe/I5x" group-title="VARIEDADES",Music Box Brazil
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1979.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TkQ" group-title="DOCUMENTÁRIOS",Nat Geo
 https://d3m4uoez6geori.cloudfront.net/hls1/natgeo.m3u8
@@ -251,26 +213,23 @@ https://d3m4uoez6geori.cloudfront.net/hls1/off.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/FqD" group-title="FILMES E SÉRIES",Paramount Channel
 https://d3m4uoez6geori.cloudfront.net/hls1/paramount.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/TEB" group-title="INFANTIL",PlayKids
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1914.m3u8
-
 #EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="ESPORTE",Premiere 2
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1939.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/premiere2.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/88x" group-title="ESPORTE",Premiere 3
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1938.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/premiere3.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ACv" group-title="ESPORTE",Premiere 4
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1937.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/premiere4.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/nrI" group-title="ESPORTE",Premiere 5
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1936.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/premiere5.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/nvu" group-title="ESPORTE",Premiere 6
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1935.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/premiere6.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YVk" group-title="ESPORTE",Premiere 7 
-http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1934.m3u8
+https://d3m4uoez6geori.cloudfront.net/hls1/premiere7.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/73.ts
@@ -279,7 +238,7 @@ http://viptv3.dyndns.tv:2086/live/moises01/moises01/73.ts
 http://viptv3.dyndns.tv:2086/live/moises01/moises01/72.ts
 
 #EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
-https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+https://d3m4uoez6geori.cloudfront.net/hls1/premiereclubes.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/OYM" group-title="VARIEDADES",Prime Box Brazil
 http://p.clubsrv.me/live/cMGtbt5P/3f736eKG/1971.m3u8
