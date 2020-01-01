@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES E SÉRIES",A&E
+#EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="FILMES E SÉRIES" group-title="2020",A&E
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/aie.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="FILMES E SÉRIES",AMC
@@ -18,25 +18,25 @@ https://d1u5e5hqx4pouy.cloudfront.net/hls1/axn.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="ABERTOS",Band
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/band.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="NOTÍCIAS",BandNews 
+#EXTINF:-1 tvg-logo="http://iv.pe/DB1" group-title="NOTÍCIAS",BandNews
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/bandnews.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="ESPORTE",BandSports 
+#EXTINF:-1 tvg-logo="http://iv.pe/dBB" group-title="ESPORTE",BandSports
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/bandsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iVF" group-title="VARIEDADES",Bis
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/bis.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="INFANTIL",Boomerang 
+#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="INFANTIL",Boomerang
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="FILMES E SÉRIES",Canal Sony 
+#EXTINF:-1 tvg-logo="http://iv.pe/cyY" group-title="FILMES E SÉRIES",Canal Sony
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/sony.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="INFANTIL",Cartoon Network
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/cartoon.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="FILMES E SÉRIES",Cinemax 
+#EXTINF:-1 tvg-logo="http://iv.pe/2B7" group-title="FILMES E SÉRIES",Cinemax
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="ESPORTE",Combate
@@ -195,10 +195,10 @@ https://d1u5e5hqx4pouy.cloudfront.net/hls1/multishow.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/TkQ" group-title="DOCUMENTÁRIOS",Nat Geo
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/natgeo.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/Seh" group-title="INFANTIL",Nat Geo Kids 
+#EXTINF:-1 tvg-logo="http://iv.pe/Seh" group-title="INFANTIL",Nat Geo Kids
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/natgeokids.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/t8l" group-title="DOCUMENTÁRIOS",NatGeo Wild 
+#EXTINF:-1 tvg-logo="http://iv.pe/t8l" group-title="DOCUMENTÁRIOS",NatGeo Wild
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/natgeowild.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/hrs" group-title="INFANTIL",Nick Jr.
@@ -228,7 +228,7 @@ https://d1u5e5hqx4pouy.cloudfront.net/hls1/premiere5.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/nvu" group-title="ESPORTE",Premiere 6
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/premiere6.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/YVk" group-title="ESPORTE",Premiere 7 
+#EXTINF:-1 tvg-logo="http://iv.pe/YVk" group-title="ESPORTE",Premiere 7
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/premiere7.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
@@ -264,7 +264,7 @@ http://89.187.185.168:80/live/gutvaujc/oMkup4Y891/5662.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Lsk" group-title="ESPORTE",SporTV 3
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/sportv3.m3u8
 
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV 
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/sportv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
