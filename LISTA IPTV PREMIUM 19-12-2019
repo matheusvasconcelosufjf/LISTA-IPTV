@@ -750,7 +750,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="INTERNACIONAIS",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8
 
-#EXTINF:-1 group-title="INTERNACIONAIS",National Geo
+#EXTINF:-1 group-title="INTERNACIONAIS",National Geo Internacional
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
 #EXTINF:-1 group-title="INTERNACIONAIS",National Geo Wild
