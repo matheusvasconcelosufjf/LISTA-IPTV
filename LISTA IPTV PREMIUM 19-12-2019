@@ -701,7 +701,6 @@ http://198.255.23.18:2095/streams/117_.m3u8
 
 
 
-#EXTM3U
 #EXTINF:-1,Telecine Action HD
 http://198.255.23.18:2095/streams/214_.m3u8
 #EXTINF:-1,Telecine Touch HD
