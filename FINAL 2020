@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN
+https://playplusespn-lh.akamaihd.net:443/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_1151/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
+https://globolive.akamaized.net/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/QFa" group-title="ABERTOS",Record
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/F1y" group-title="ABERTOS",Globo RJ
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-rj/hls-globo-rj_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/ViV" group-title="ABERTOS",Band
+http://mj1b2xsspj.singularcdn.net.br/encompass/BandeirantesHD/master_Layer2.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://iv.pe/AU4" group-title="ESPORTE",Premiere 2
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc2/hls-pfc2_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://iv.pe/88x" group-title="ESPORTE",Premiere 3
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc3/hls-pfc3_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://iv.pe/ACv" group-title="ESPORTE",Premiere 4
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc4/hls-pfc4_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://iv.pe/nrI" group-title="ESPORTE",Premiere 5
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc5/hls-pfc5_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://iv.pe/nvu" group-title="ESPORTE",Premiere 6
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc6/hls-pfc6_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://iv.pe/YVk" group-title="ESPORTE",Premiere 7
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc7/hls-pfc7_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="ESPORTE",Premiere 8
+https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc8/hls-pfc8_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="ESPORTE",ESPN 2
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN2/master_Layer1.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="ESPORTE",ESPN Extra
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
+
+#EXTINF:-1 tvg-id="A BOLA TV" tvg-logo="http://printv.esy.es/server/A%20Bola%20TV.png" group-title="ESPORTE",A Bola TV
+http://62.203.143.51:9981/play/BolaTV
+
+#EXTINF:-1 tvg-logo="http://iv.pe/KNa" group-title="VARIEDADES",Canal Off
+https://globolive.akamaized.net/d/c/x2800/s/hls-off24ha/hls-off24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/8xl" group-title="ESPORTE",SporTV 2
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Lsk" group-title="ESPORTE",SporTV 3
+https://globolive.akamaized.net/d/c/x2800/s/hls-spo324ha/hls-spo324ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="ESPORTE",Combate
+https://globolive.akamaized.net/d/c/x2800/s/hls-cbt24ha/hls-cbt24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+
+#EXTINF:-1 tvg-logo="http://iv.pe/FFX" group-title="INFANTIL",Gloobinho
+https://globolive.akamaized.net/d/c/x2800/s/hls-gloobinho24ha/hls-gloobinho24ha_2126/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
