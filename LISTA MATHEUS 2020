@@ -349,247 +349,132 @@ https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/pu
 
 
 
+#EXTINF: -1 tvg-logo = "" group-title = "", FOX SPORTS HD
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?vxttoken=cGF0aFVSST0lMmZsaXZlLWNkbiUyZmZveHNwb3J0cy5zbWlsJTJmKiZleHBpcnk9MTU2MjE5NDM1MyZ4OmlwPTEwLjIwMy4yNC4xOTgsMGFkZGJhYjdiNDEzMDgwMzAzMjVhYjZjNmE1M2RkMGJlZTA4Y2ZkZWIzYTQ0MjVkNDc2NjgwNGQ1NDg5MDM0NA==
+
+#EXTINF: -1 tvg-logo = "" group-title = "Futebol", ESPN Brasil
+http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN 2
+https://origin.canaismax.com/live/espnmaishd/video.m3u8?md5=wLopooLPqFnLwf_We2rl-Q&expires=1579632501
 
 
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="DOCUMENTÁRIOS",Fox Life
-http://198.255.23.18:2095/streams/163_.m3u8
+#EXTINF: -1 tvg-logo = "" group-title = "", RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w553569858.m3u8
 
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="DOCUMENTÁRIOS",A&E
-http://198.255.23.18:2095/streams/157_.m3u8
+#EXTINF: -1 tvg-logo = "" group-title = "Aberta", TV GLOBO HD
+https://origin.canaismax.com/live/globosphd/video.m3u8?md5=Q59WqWstwQ6i-FX-K0biuA&expires=1579629700
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTÁRIOS",Animal Planet
-http://198.255.23.18:2095/streams/98_.m3u8
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTÁRIOS",Animal Planet
-http://198.255.23.18:2095/streams/99_.m3u8
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="DOCUMENTÁRIOS",National Geographic
-http://198.255.23.18:2095/streams/118_.m3u8
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="DOCUMENTÁRIOS",National Geographic
-http://198.255.23.18:2095/streams/117_.m3u8
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN EXTRA
+https://origin.canaismax.com/live/espnextrahd/video.m3u8?md5=1CNTlmG7A1YrcolyYdeW4g&expires=1579632391
 
 
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espn_887309d0_d2c80047a5c6d34546744914d19fa84e6a665316/playlist.m3u8
 
-#EXTINF:-1,Telecine Action HD
-http://198.255.23.18:2095/streams/214_.m3u8
-#EXTINF:-1,Telecine Touch HD
-http://198.255.23.18:2095/streams/212_.m3u8
-#EXTINF:-1,Telecine Pipoca HD
-http://198.255.23.18:2095/streams/208_.m3u8
-#EXTINF:-1,Telecine Cult HD
-http://198.255.23.18:2095/streams/204_.m3u8
-#EXTINF:-1,Telecine Cult HD
-http://198.255.23.18:2095/streams/206_.m3u8
-#EXTINF:-1,Telecine Premium HD
-http://198.255.23.18:2095/streams/209_.m3u8
-#EXTINF:-1,TNT 
-http://198.255.23.18:2095/streams/202_.m3u8
-#EXTINF:-1,TCM
-http://198.255.23.18:2095/streams/201_.m3u8
-#EXTINF:-1,Space
-http://198.255.23.18:2095/streams/200_.m3u8
-#EXTINF:-1,Prime
-http://198.255.23.18:2095/streams/199_.m3u8
-#EXTINF:-1,Max up
-http://198.255.23.18:2095/streams/198_.m3u8
-#EXTINF:-1,Max Prime
-http://198.255.23.18:2095/streams/197_.m3u8
-#EXTINF:-1,Max 
-http://198.255.23.18:2095/streams/196_.m3u8
-#EXTINF:-1,HBO Family
-http://198.255.23.18:2095/streams/194_.m3u8
-#EXTINF:-1,HBO+
-http://198.255.23.18:2095/streams/190_.m3u8
-#EXTINF:-1,HBO2
-http://198.255.23.18:2095/streams/188_.m3u8
-#EXTINF:-1,HBO
-http://198.255.23.18:2095/streams/185_.m3u8
-#EXTINF:-1,CINEMAX
-http://198.255.23.18:2095/streams/184_.m3u8
-#EXTINF:-1,Megapix
-http://198.255.23.18:2095/streams/182_.m3u8
-#EXTINF:-1,AXN
-http://198.255.23.18:2095/streams/181_.m3u8
-#EXTINF:-1,Warner Channel
-http://198.255.23.18:2095/streams/179_.m3u8
-#EXTINF:-1,Universal Tv
-http://198.255.23.18:2095/streams/178_.m3u8
-#EXTINF:-1,TNT Series
-http://198.255.23.18:2095/streams/176_.m3u8
-#EXTINF:-1,TBS 
-http://198.255.23.18:2095/streams/175_.m3u8
-#EXTINF:-1,SYFY 
-http://198.255.23.18:2095/streams/174_.m3u8
-#EXTINF:-1,Paramount Channel
-http://198.255.23.18:2095/streams/172_.m3u8
-#EXTINF:-1,Canal Like
-http://198.255.23.18:2095/streams/170_.m3u8
-#EXTINF:-1,Lifetime
-http://198.255.23.18:2095/streams/169_.m3u8
-#EXTINF:-1,Fox Premium 2
-http://198.255.23.18:2095/streams/168_.m3u8
-#EXTINF:-1,Fox Premium 2 SD
-http://198.255.23.18:2095/streams/12_.m3u8
-#EXTINF:-1,Fox Premium 1
-http://198.255.23.18:2095/streams/166_.m3u8
-#EXTINF:-1,Fox Premium 1 SD
-http://198.255.23.18:2095/streams/11_.m3u8
-#EXTINF:-1,FoxLife
-http://198.255.23.18:2095/streams/164_.m3u8
-#EXTINF:-1,Fox Channel
-http://198.255.23.18:2095/streams/162_.m3u8
-#EXTINF:-1,Sony Channel
-http://198.255.23.18:2095/streams/160_.m3u8
-#EXTINF:-1,AMC
-http://198.255.23.18:2095/streams/158_.m3u8
-#EXTINF:-1,A&E
-http://198.255.23.18:2095/streams/157_.m3u8
-#EXTINF:-1,Travel
-http://198.255.23.18:2095/streams/156_.m3u8
-#EXTINF:-1,E!
-http://198.255.23.18:2095/streams/155_.m3u8
-#EXTINF:-1,Viva
-http://198.255.23.18:2095/streams/153_.m3u8
-#EXTINF:-1,Shoptime
-http://198.255.23.18:2095/streams/152_.m3u8
-#EXTINF:-1,Mais Globosat
-http://198.255.23.18:2095/streams/151_.m3u8
-#EXTINF:-1,Mais GNT
-http://198.255.23.18:2095/streams/150_.m3u8
-#EXTINF:-1,Comedy Central
-http://198.255.23.18:2095/streams/148_.m3u8
-#EXTINF:-1,Art 1
-http://198.255.23.18:2095/streams/147_.m3u8
-#EXTINF:-1,Vh1 Megahits
-http://198.255.23.18:2095/streams/146_.m3u8
-#EXTINF:-1,Vh1 HD
-http://198.255.23.18:2095/streams/145_.m3u8
-#EXTINF:-1,MTV HD
-http://198.255.23.18:2095/streams/142_.m3u8
-#EXTINF:-1,MTV 
-http://198.255.23.18:2095/streams/141_.m3u8
-#EXTINF:-1,BIS
-http://198.255.23.18:2095/streams/140_.m3u8
-#EXTINF:-1,Nick Jr
-http://198.255.23.18:2095/streams/139_.m3u8
-#EXTINF:-1,Discovery Kids
-http://198.255.23.18:2095/streams/138_.m3u8
-#EXTINF:-1,Zoomoo
-http://198.255.23.18:2095/streams/137_.m3u8
-#EXTINF:-1,Ratimbum 
-http://198.255.23.18:2095/streams/136_.m3u8
-#EXTINF:-1,Nick 
-http://198.255.23.18:2095/streams/135_.m3u8
-#EXTINF:-1,Natgeo Kids
-http://198.255.23.18:2095/streams/134_.m3u8
-#EXTINF:-1,Gloob
-http://198.255.23.18:2095/streams/133_.m3u8
-#EXTINF:-1,XD
-http://198.255.23.18:2095/streams/131_.m3u8
-#EXTINF:-1,Disney Junior
-http://198.255.23.18:2095/streams/130_.m3u8
-#EXTINF:-1,Cartoon Network
-http://198.255.23.18:2095/streams/128_.m3u8
-#EXTINF:-1,Boomerang
-http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1,Smithsonianchannel
-http://198.255.23.18:2095/streams/124_.m3u8
-#EXTINF:-1,HGTV
-http://198.255.23.18:2095/streams/123_.m3u8
-#EXTINF:-1,Discovery Science
-http://198.255.23.18:2095/streams/121_.m3u8
-#EXTINF:-1,Wild
-http://198.255.23.18:2095/streams/120_.m3u8
-#EXTINF:-1,NatGeo
-http://198.255.23.18:2095/streams/118_.m3u8
-#EXTINF:-1,ID
-http://198.255.23.18:2095/streams/116_.m3u8
-#EXTINF:-1,History
-http://198.255.23.18:2095/streams/115_.m3u8
-#EXTINF:-1,FX
-http://198.255.23.18:2095/streams/113_.m3u8
-#EXTINF:-1,Food Network
-http://198.255.23.18:2095/streams/110_.m3u8
-#EXTINF:-1,Discovery World
-http://198.255.23.18:2095/streams/108_.m3u8
-#EXTINF:-1,Turbo Discovery 
-http://198.255.23.18:2095/streams/106_.m3u8
-#EXTINF:-1,Discovery Theater
-http://198.255.23.18:2095/streams/105_.m3u8
-#EXTINF:-1,Discovery Channel
-http://198.255.23.18:2095/streams/102_.m3u8
-#EXTINF:-1,Discovery h&h
-http://198.255.23.18:2095/streams/101_.m3u8
-#EXTINF:-1,Animal planet
-http://198.255.23.18:2095/streams/99_.m3u8
-#EXTINF:-1,Band News
-http://198.255.23.18:2095/streams/85_.m3u8
-#EXTINF:-1,Globo News
-http://198.255.23.18:2095/streams/84_.m3u8
-#EXTINF:-1,Record News
-http://198.255.23.18:2095/streams/80_.m3u8
-#EXTINF:-1,CNN
-http://198.255.23.18:2095/streams/77_.m3u8
-#EXTINF:-1,Love Nature
-http://198.255.23.18:2095/streams/75_.m3u8
-#EXTINF:-1,Sportv 3
-http://198.255.23.18:2095/streams/74_.m3u8
-#EXTINF:-1,Sportv 3
-http://198.255.23.18:2095/streams/74_.m3u8
-#EXTINF:-1,Sportv 
-http://198.255.23.18:2095/streams/71_.m3u8
-#EXTINF:-1,Combate
-http://198.255.23.18:2095/streams/69_.m3u8
-#EXTINF:-1,Combate SD
-http://198.255.23.18:2095/streams/49_.m3u8
-#EXTINF:-1,Combate SD 2
-http://198.255.23.18:2095/streams/48_.m3u8
-#EXTINF:-1,Premiere 1
-http://198.255.23.18:2095/streams/61_.m3u8
-#EXTINF:-1,Premiere 2
-http://198.255.23.18:2095/streams/63_.m3u8
-#EXTINF:-1,Premiere 3
-http://198.255.23.18:2095/streams/66_.m3u8
-#EXTINF:-1,Off
-http://198.255.23.18:2095/streams/60_.m3u8
-#EXTINF:-1,Fox Sports 
-http://198.255.23.18:2095/streams/55_.m3u8
-#EXTINF:-1,Fox Sports 2
-http://198.255.23.18:2095/streams/58_.m3u8
-#EXTINF:-1,ESPN Brasil
-http://198.255.23.18:2095/streams/54_.m3u8
-#EXTINF:-1,ESPN Brasil sd
-http://198.255.23.18:2095/streams/53_.m3u8
-#EXTINF:-1,ESPN 
-http://198.255.23.18:2095/streams/52_.m3u8
-#EXTINF:-1,ESPN EXTRA 
-http://198.255.23.18:2095/streams/50_.m3u8
-#EXTINF:-1,BAND SPORTS HD
-http://198.255.23.18:2095/streams/47_.m3u8
-#EXTINF:-1,BAND SPORTS SD
-http://198.255.23.18:2095/streams/46_.m3u8
-#EXTINF:-1,GLOBO SD
-http://198.255.23.18:2095/streams/45_.m3u8
-#EXTINF:-1,GLOBO SD 2
-http://198.255.23.18:2095/streams/25_.m3u8
-#EXTINF:-1,TV SENADO
-http://198.255.23.18:2095/streams/44_.m3u8
-#EXTINF:-1,REDE NOVO TEMPO
-http://198.255.23.18:2095/streams/43_.m3u8
-#EXTINF:-1,TV JUSTIÇA
-http://198.255.23.18:2095/streams/42_.m3u8
-#EXTINF:-1,TV BRASIL
-http://198.255.23.18:2095/streams/40_.m3u8
-#EXTINF:-1,SBT
-http://198.255.23.18:2095/streams/37_.m3u8
-#EXTINF:-1,RECORD
-http://198.255.23.18:2095/streams/30_.m3u8
-#EXTINF:-1,CULTURA
-http://198.255.23.18:2095/streams/19_.m3u8
-#EXTINF:-1,BAND
-http://198.255.23.18:2095/streams/14_.m3u8
-#EXTINF:-1,BAND SD
-http://198.255.23.18:2095/streams/14_.m3u8
-#EXTINF:-1,GAZETA
-http://198.255.23.18:2095/streams/220_.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "",  ESPN BRASIL
+https://origin.canaismax.com/mylive/espnbrasilsd/video.m3u8?md5=7oVHkJoCa1zk8bMUruCWWg&expires=1579629465
+
+#EXTINF: -1 tvg-logo = "" group-title = "", SPORTV HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_bb17eee21688d3b2412046c9701a284c16550901/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN BRASIL HD
+https://origin.canaismax.com/mylive/espnbrasilhd/video.m3u8?md5=NKDGusguIbgYGdU4_4pJVg&expires=1579629558
+
+#EXTINF: -1 tvg-logo = "" group-title = "", TV CULTURA
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/chunklist_w433362564.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", TV GAZETA
+http://tv02.logicahost.com.br:1935/televisaorn/televisaorn/chunklist_w640342268.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "Regional", ACRITICA TV
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1579051255~exp=1579057855~acl=/*~hmac=88934ba910399c1a3663952a2c2624318eeeced42663c6a5a2c20c62f06fc45b
+
+#EXTINF: -1 tvg-logo = "" group-title = "", FOX PREMIUM 1 HD
+https://origin.canaismax.com/live/foxpremiumhd/video.m3u8?md5=GHH5ygXgnk55wDo-j85WTg&expires=1579629937
+
+#EXTINF: -1 tvg-logo = "" group-title = "",RETRO MUSIC
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1249963934.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "",SBT
+https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1654476730.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", BAND
+https://video01.kshost.com.br/rba2779/rba2779/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", REDE TV HD
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w749789571.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", FOX SPORTS HD
+https://origin.canaismax.com/mylive/foxsportshd/video.m3u8?md5=vQcLCtXVo7vTIKwRGWbutA&expires=1579630113
+
+#EXTINF: -1 tvg-logo = "" group-title = "Regional", TV ARAPUAN
+https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/chunklist_w1260828944_b481072_DVR.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", SPORTV HD
+https://origin.canaismax.com/mylive/sportvhd/video.m3u8?md5=B7EG6ci_ecWVh0i3pUdLEA&expires=1579630221
+
+#EXTINF: -1 tvg-logo = "" group-title = "", SPACE 
+https://origin.canaismax.com/mylive/spacesd/video.m3u8?md5=zEVcWzLgHiTrT7KkC9TouA&expires=1579630321
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "", DISCOVERY HD
+https://origin.canaismax.com/live/discoveryhd/video.m3u8?md5=eI1P8UEZCmXwetkdsB9pVQ&expires=1579631657
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "", TNT HD
+https://origin.canaismax.com/mylive/tnthd/video.m3u8?md5=cHaSS4A2oD9bVXlFApFVfw&expires=1579631790
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "", FOX SPORTS 2
+https://origin.canaismax.com/live/foxsports2hd/video.m3u8?md5=I4b3SGHyEUTOPS9o1x6bOw&expires=1579632590
+
+#EXTINF: -1 tvg-logo = "" group-title = "", RECORD TV
+https://origin.canaismax.com/mylive/recordhd/video.m3u8?md5=JVbuj3R1tj01hIFZTdtcIA&expires=1579636564
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "", DISCOVERY WORLD
+https://origin.canaismax.com/live/discoveryworldhd/video.m3u8?md5=BAEwfKzKyZ5CixyXok6Gjg&expires=1579636372
+
+#EXTINF: -1 tvg-logo = "" group-title = "", BBB 20
+https://origin.canaismax.com/live/bbb01hd/video.m3u8?md5=n-EKGnb8cFQOYYMamLyWgg&expires=1579636272
+
+#EXTINF: -1 tvg-logo = "" group-title = "", SPORTV 2
+https://origin.canaismax.com/mylive/sportv2sd/video.m3u8?md5=cUGzHqdk7vUGE8_pk0sn6Q&expires=1579636126
+
+#EXTINF: -1 tvg-logo = "" group-title = "", BAND
+https://origin.canaismax.com/mylive/bandcampinassd/video.m3u8?md5=5iarLZ2t0QmkNjyKF_kEKw&expires=1579635782
+
+#EXTINF: -1 tvg-logo = "" group-title = "", FOX SPORTS 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_ba31ef394df0398ae3a0bda0e9be912d9abfaf8b/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "" group-title = "", LA LIGA
+http://50.7.85.122:25461/live/ABFU/NzG3zm4pEQ/3191.m3u8?token=GUcOBRFbRgoVBQoDVQAGCFQMVlRTAAQDUQdVAwtVBg8GXVBRBwNTVQMUHxEWQxddBVVvXwYQDVYDDFIfEUJHXRA6DwBACUYBAAEAB0cbR0wNVVUUWAIbR0JcBxEJFQULUFRXRk4RAUhDU0FdBFs6XAFOWVUHEA0LR1kPHxFYWmcGAAsFDFdGChUGER9HXhZIRgJeQw5eG0dQXBdBUkNRGlhHVFFUA0YcFVVcRgtDF0FGAhJ0MBAbR1dNF1ZdRF1XDEdcRg8AEQgVGhFaFmgXXRdMQlMDX1IXEA9BAxEbFlUDHTkHDV0KVVRCWlwLREcCRgkSGkBfWAtbQQxBbEddXEBfRFxXClMSSg
+
+#EXTINF: -1 tvg-logo = "" group-title = "", DISCOVERY TURBO
+https://origin.canaismax.com/live/discoveryturbohd/video.m3u8?md5=DIghnGk3oWNkhe3gW8j7iw&expires=1579831420
+
+#EXTINF: -1 tvg-logo = "" group-title = "", SPORTV HD
+https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=R5JmrpzzB59QesqdmZ2pDg&e=1579821722
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN BRASIL
+https://ul.cdn946.net:8443/hls/3m3ixnm45.m3u8?s=f9jiUYZ9pscp3TpK5SkUXA&e=1579832375
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "", ESPN BRASIL
+https://cerbot.kastream.biz/edge/verdac53b5ad57df8ef6cc19f490ba0f133/chunks.m3u8?nimblesessionid=675233&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIwIDg6MjI6NTYgUE0maGFzaF92YWx1ZT1QM0Z0V2RGV0hyNnhiakozMkIzdXlBPT0mdmFsaWRtaW51dGVzPTEyMA
+
+#EXTINF: -1 tvg-logo = "" group-title = "", SporTV
+https://ul.cdn946.net:8443/hls/18yubmzdbaqgag.m3u8?s=ZkHChXY4NU5Etcn_TttCdQ&e=1579833543
+
+#EXTINF: -1 tvg-logo = "" group-title = "", Wolverhampton x Liverpool
+https://u73165.cdn884.net:8443/hls/r4x6s9zcdf74tv.m3u8?s=lgXT9QUrnLjuxX3fLL6kKg&e=1579831066
+
+#EXTINF: -1 tvg-logo = "" group-title = "", PREMIERE
+https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=PXnFHcdE6iqHeT9BQ3aTqw&e=1579844610
