@@ -24,6 +24,9 @@ https://origin.canaismax.com/live/foxsports2hd/video.m3u8?md5=I4b3SGHyEUTOPS9o1x
 #EXTINF:-1 tvg-logo="http://iv.pe/DuF" group-title="ESPORTE",ESPN
 https://playplusespn-lh.akamaihd.net:443/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES",
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
 https://globolive.akamaized.net:443/d/c/x2800/s/hls-spo124ha/hls-spo124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
@@ -172,3 +175,370 @@ https://origin.canaismax.com/live/telecineactionhd/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports (CANAISMAX)
 https://origin.canaismax.com/mylive/foxsportshd/video.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?hd=10&rebase=on
+
+
+#EXTINF:-1 tvg-id="ESPN BRASIL HD" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?hd=10&rebase=on
+
+
+
+
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://psrv.io:80/cris123/cris123/18373
+
+#EXTINF:-1,Telecine Pipoca FHD
+http://psrv.io:80/cris123/cris123/18758
+
+#EXTINF:-1,Telecine Pipoca HD
+http://psrv.io:80/cris123/cris123/18545
+
+#EXTINF:-1,Telecine Action FHD
+http://psrv.io:80/cris123/cris123/18760
+
+#EXTINF:-1,Telecine Action HD
+http://psrv.io:80/cris123/cris123/18551
+
+#EXTINF:-1,Telecine Cult FHD
+http://psrv.io:80/cris123/cris123/18798
+
+#EXTINF:-1,Telecine Cult HD
+http://psrv.io:80/cris123/cris123/18549
+
+#EXTINF:-1,Telecine Fun FHD
+http://psrv.io:80/cris123/cris123/18759
+
+#EXTINF:-1,Telecine Fun HD
+http://psrv.io:80/cris123/cris123/18547
+
+#EXTINF:-1,Telecine Premium FHD
+http://psrv.io:80/cris123/cris123/18757
+
+#EXTINF:-1,Telecine Premium HD
+http://psrv.io:80/cris123/cris123/18543
+
+#EXTINF:-1,Telecine Touch FHD
+http://psrv.io:80/cris123/cris123/18756
+
+#EXTINF:-1,Telecine Touch HD
+http://psrv.io:80/cris123/cris123/18541
+
+#EXTINF:-1,TNT FHD
+http://psrv.io:80/cris123/cris123/18796
+
+#EXTINF:-1,TNT HD
+http://psrv.io:80/cris123/cris123/18536
+
+#EXTINF:-1,Warner Channel FHD
+http://psrv.io:80/cris123/cris123/18790
+
+#EXTINF:-1,Warner Channel HD
+http://psrv.io:80/cris123/cris123/18513
+
+#EXTINF:-1,HBO 2 FHD
+http://psrv.io:80/cris123/cris123/18774
+
+#EXTINF:-1,HBO 2 HD
+http://psrv.io:80/cris123/cris123/18640
+
+#EXTINF:-1,HBO Family FHD
+http://psrv.io:80/cris123/cris123/18825
+
+#EXTINF:-1,HBO Family HD
+http://psrv.io:80/cris123/cris123/18638
+
+#EXTINF:-1,HBO FHD
+http://psrv.io:80/cris123/cris123/18773
+
+#EXTINF:-1,HBO HD
+http://psrv.io:80/cris123/cris123/18637
+
+#EXTINF:-1,HBO Plus FHD
+http://psrv.io:80/cris123/cris123/18824
+
+#EXTINF:-1,HBO Plus HD
+http://psrv.io:80/cris123/cris123/18635
+
+#EXTINF:-1,HBO Signature FHD
+http://psrv.io:80/cris123/cris123/18823
+
+#EXTINF:-1,HBO Signature HD
+http://psrv.io:80/cris123/cris123/18633
+
+#EXTINF:-1,Megapix FHD
+http://psrv.io:80/cris123/cris123/18816
+
+#EXTINF:-1,Megapix HD
+http://psrv.io:80/cris123/cris123/18617
+
+#EXTINF:-1,Disney FHD
+http://psrv.io:80/cris123/cris123/18782
+
+#EXTINF:-1,Disney HD
+http://psrv.io:80/cris123/cris123/18685
+
+#EXTINF:-1,Disney Junior FHD
+http://psrv.io:80/cris123/cris123/18788
+
+#EXTINF:-1,Disney Junior HD
+http://psrv.io:80/cris123/cris123/18509
+
+#EXTINF:-1,FX FHD
+http://psrv.io:80/cris123/cris123/18829
+
+#EXTINF:-1,FX HD
+http://psrv.io:80/cris123/cris123/18653
+
+#EXTINF:-1,Cinemax FHD
+http://psrv.io:80/cris123/cris123/18848
+
+#EXTINF:-1,Cinemax HD
+http://psrv.io:80/cris123/cris123/18709
+
+#EXTINF:-1,Sony FHD
+http://psrv.io:80/cris123/cris123/18850
+
+#EXTINF:-1,Sony HD
+http://psrv.io:80/cris123/cris123/18714
+
+#EXTINF:-1,Space FHD
+http://psrv.io:80/cris123/cris123/18802
+
+#EXTINF:-1,Space HD
+http://psrv.io:80/cris123/cris123/18564
+
+#EXTINF:-1,Fox FHD
+http://psrv.io:80/cris123/cris123/18779
+
+#EXTINF:-1,Fox HD
+http://psrv.io:80/cris123/cris123/18667
+
+#EXTINF:-1,Fox Premium 1 FHD
+http://psrv.io:80/cris123/cris123/18832
+
+#EXTINF:-1,Fox Premium 1 HD
+http://psrv.io:80/cris123/cris123/18663
+
+#EXTINF:-1,Syfy FHD
+http://psrv.io:80/cris123/cris123/18800
+
+#EXTINF:-1,Syfy HD
+http://psrv.io:80/cris123/cris123/18566
+
+#EXTINF:-1,ESPN Brasil FHD
+http://psrv.io:80/cris123/cris123/18781
+
+#EXTINF:-1,ESPN Brasil HD
+http://psrv.io:80/cris123/cris123/18676
+
+#EXTINF:-1,SporTV HD
+http://psrv.io:80/cris123/cris123/18558
+
+#EXTINF:-1,SporTV FHD
+http://psrv.io:80/cris123/cris123/18761
+
+#EXTINF:-1,Fox Sports FHD
+http://psrv.io:80/cris123/cris123/18777
+
+#EXTINF:-1,Fox Sports HD
+http://psrv.io:80/cris123/cris123/18659
+
+#EXTINF:-1,Globo Minas FHD
+http://psrv.io:80/cris123/cris123/18377
+
+#EXTINF:-1,Globo SP FHD
+http://psrv.io:80/cris123/cris123/28068
+
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://psrv.io:80/cris123/cris123/18361
+
+#EXTM3U
+#EXTINF:-1 ,Big Brother Brasil
+http://psrv.io:80/cris123/cris123/27861
+
+#EXTINF:-1 ,Big Brother Brasil [CAM01] HD
+http://psrv.io:80/cris123/cris123/41935
+
+#EXTINF:-1 ,Big Brother Brasil [CAM02] HD
+http://psrv.io:80/cris123/cris123/43533
+
+#EXTINF:-1 ,BBB HD MOSAICO
+http://psrv.io:80/cris123/cris123/43534
+
+#EXTINF:-1,Globo TV Anhanguera FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18373
+
+#EXTINF:-1,Globo SP FHD 2
+http://psrv.io:80/juliocesar/juliocesar/28068
+
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18361
+
+#EXTINF:-1,Globo SP HD 2
+http://psrv.io:80/juliocesar/juliocesar/18410
+
+#EXTINF:-1,Globo Minas FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18377
+
+#EXTINF:-1,Globo SP FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/28068
+
+#EXTINF:-1,Globo TV Anhanguera FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18373
+
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18361
+
+#EXTINF:-1,Telecine Pipoca FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18758
+
+#EXTINF:-1 ,Premiere Clubes FHD
+http://psrv.io:80/cris123/cris123/18766
+
+#EXTINF:-1 ,Premiere Clubes HD
+http://psrv.io:80/cris123/cris123/18582
+
+#EXTINF:-1 ,Premiere 2 FHD
+http://psrv.io:80/cris123/cris123/18772
+
+#EXTINF:-1 ,Premiere 2 HD
+http://psrv.io:80/cris123/cris123/18594
+
+#EXTINF:-1 ,Premiere 3 FHD
+http://psrv.io:80/cris123/cris123/18771
+
+#EXTINF:-1 ,Premiere 3 HD
+http://psrv.io:80/cris123/cris123/18592
+
+#EXTINF:-1 ,Premiere 4 FHD
+http://psrv.io:80/cris123/cris123/18770
+
+#EXTINF:-1 ,Premiere 4 HD
+http://psrv.io:80/cris123/cris123/18590
+
+#EXTINF:-1 ,Premiere 5 FHD
+http://psrv.io:80/cris123/cris123/18769
+
+#EXTINF:-1 ,Premiere 5 HD
+http://psrv.io:80/cris123/cris123/18588
+
+#EXTINF:-1 ,Premiere 6 FHD
+http://psrv.io:80/cris123/cris123/18768
+
+#EXTINF:-1 ,Premiere 6 HD
+http://psrv.io:80/cris123/cris123/18586
+
+#EXTINF:-1 ,Premiere 7 FHD
+http://psrv.io:80/cris123/cris123/18767
+
+#EXTINF:-1 ,Premiere 7 HD
+http://psrv.io:80/cris123/cris123/18584
+
+#EXTM3U
+#EXTINF:-1 ,Big Brother Brasil 2
+http://psrv.io:80/juliocesar/juliocesar/27861
+
+#EXTINF:-1 ,Big Brother Brasil [CAM01] HD 2
+http://psrv.io:80/juliocesar/juliocesar/41935
+
+#EXTINF:-1 ,Big Brother Brasil [CAM02] HD 2
+http://psrv.io:80/juliocesar/juliocesar/43533
+
+#EXTINF:-1 ,Premiere Clubes FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18766
+
+#EXTINF:-1 ,Premiere 2 FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18772
+
+#EXTINF:-1 ,Premiere 2 HD 2
+http://psrv.io:80/juliocesar/juliocesar/18594
+
+#EXTINF:-1 ,Premiere 3 FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18771
+
+#EXTINF:-1 ,Premiere 3 HD 2
+http://psrv.io:80/juliocesar/juliocesar/18592
+
+#EXTINF:-1 ,Premiere 4 FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18770
+
+#EXTINF:-1 ,Premiere 4 HD 2
+http://psrv.io:80/juliocesar/juliocesar/18590
+
+#EXTINF:-1 ,Premiere 5 FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18769
+
+#EXTINF:-1 ,Premiere 5 HD 2
+http://psrv.io:80/juliocesar/juliocesar/18588
+
+#EXTINF:-1 ,Premiere 6 FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18768
+
+#EXTINF:-1 ,Premiere 6 HD 2
+http://psrv.io:80/juliocesar/juliocesar/18586
+
+#EXTINF:-1 ,Premiere 7 FHD 2
+http://psrv.io:80/juliocesar/juliocesar/18767
+
+#EXTINF:-1 ,Premiere 7 HD 2
+http://psrv.io:80/juliocesar/juliocesar/18584
+
+#EXTM3U
+#EXTINF:-1 ,Big Brother Brasil 3
+http://psrv.io:80/ronaldo19/ronaldo19/27861
+
+#EXTINF:-1 ,Big Brother Brasil [CAM01] HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/41935
+
+#EXTINF:-1 ,Big Brother Brasil [CAM02] HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/43533
+
+#EXTINF:-1 ,Premiere Clubes FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18766
+
+#EXTINF:-1 ,Premiere Clubes HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18582
+
+#EXTINF:-1 ,Premiere 2 FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18772
+
+#EXTINF:-1 ,Premiere 2 HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18594
+
+#EXTINF:-1 ,Premiere 3 FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18771
+
+#EXTINF:-1 ,Premiere 3 HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18592
+
+#EXTINF:-1 ,Premiere 4 FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18770
+
+#EXTINF:-1 ,Premiere 4 HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18590
+
+#EXTINF:-1 ,Premiere 5 FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18769
+
+#EXTINF:-1 ,Premiere 5 HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18588
+
+#EXTINF:-1 ,Premiere 6 FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18768
+
+#EXTINF:-1 ,Premiere 6 HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18586
+
+#EXTINF:-1 ,Premiere 7 FHD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18767
+
+#EXTINF:-1 ,Premiere 7 HD 3
+http://psrv.io:80/ronaldo19/ronaldo19/18584
