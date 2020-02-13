@@ -6,6 +6,9 @@ http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8
 
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxsportshd_98fbc42f_1231d18057df0b89c71416b4a56e2b5f060fbf9e/playlist.m3u8
 
@@ -14,6 +17,21 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports_8a1beaee_ce6a268b257
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
 http://89.187.173.219:80/everton/everton123/115
+
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv_91dfde1d_15d9fda5419483ca7b90db982aa2591cacdb0953/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_ed80407045fe0c6e1e7236b6af7b7ac5561acfbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/x1P" group-title="ESPORTE",Premiere Clubes
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_ed80407045fe0c6e1e7236b6af7b7ac5561acfbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://iv.pe/AU4" group-title="ESPORTE",Premiere 2
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/premiere2_f5b68d74_a771dc27cd0669cdea00cfab275281715f32d891/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="FILMES E SÉRIES",Space
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_8df794359b344ea7a9b248e40529fec4e61395b7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="FILMES E SÉRIES",Space
 http://89.187.173.219:80/everton/everton123/368
