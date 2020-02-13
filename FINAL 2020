@@ -7,7 +7,7 @@ http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LIw" group-title="ESPORTE",FOX Sports
-https://origin.canaismax.com/mylive/foxsportshd/video.m3u8?md5=vQcLCtXVo7vTIKwRGWbutA&expires=1579630113
+https://live.multicanais.com/mylive/foxsportshd/video.m3u8?md5=4756L1j5qP4DTT_D5_upmg&expires=1581618530
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="ESPORTE",SporTV
 http://89.187.173.219:80/everton/everton123/115
