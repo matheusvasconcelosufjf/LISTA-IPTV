@@ -39,6 +39,9 @@ http://89.187.173.219:80/everton/everton123/368
 #EXTINF:-1 tvg-logo="http://iv.pe/dlK" group-title="FILMES E SÉRIES",TNT
 http://89.187.173.219:80/everton/everton123/361
 
+#EXTINF:-1 tvg-logo="http://iv.pe/V3B" group-title="VARIEDADES",Comedy Central
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/comedycentral_17037754_470685357df871ff5d53a1e64ccf28de1cf65326/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="ESPORTE",FOX Sports 2
 https://origin.canaismax.com/live/foxsports2hd/video.m3u8?md5=I4b3SGHyEUTOPS9o1x6bOw&expires=1579632590
 
