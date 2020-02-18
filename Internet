@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://cerbot.kastream.biz/edge/verdac53b5ad57df8ef6cc19f490ba0f133/chunks.m3u8?nimblesessionid=513704&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDY6Mzg6MTIgUE0maGFzaF92YWx1ZT16amVybG83TlhzSlp3eXBPaU5wTUhRPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://ul.cdn946.net:8443/hls/4ya0b6.m3u8?s=vzZKf9u7sKvq7DsZxWIlrQ&e=1582072937
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://ul.cdn946.net:8443/hls/oi6tg.m3u8?s=fZ0xtg_WkxfIoImxj6xBDA&e=1582073050
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://ul.cdn946.net:8443/hls/oi6tg.m3u8?s=pzLZdHJnIKfBffH8Bi8m3w&e=1582073095
+
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="ESPORTE",ESPN Brasil
+https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=TcxDLULmTMQC-mePH9dfGw&e=1582073189
