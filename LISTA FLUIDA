@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ESPORTE",GLOBO
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ESPORTE",GLOBO
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE FUTEBOL CLUBE
 http://vipeiptv.com:25461/sami123/sami123/757894
 
@@ -13,8 +19,16 @@ http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=1fb4d429b21c604f9e1
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE FUTEBOL CLUBE
-
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE FUTEBOL CLUBE
+http://85.217.222.17:8080/okan405/bknpqwt9lp/13610
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE FUTEBOL CLUBE
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10219
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE FUTEBOL CLUBE
+http://189.91.128.150:5555/udp/227.10.20.102:1234
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 2
 http://vipeiptv.com:25461/sami123/sami123/757897
@@ -22,11 +36,26 @@ http://vipeiptv.com:25461/sami123/sami123/757897
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 2
 http://psrv.io:80/78167984453/snakeplay/18594
 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 2
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10230
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 2
+http://189.91.128.150:5555/udp/227.10.20.104:1234
+
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 3
 http://vipeiptv.com:25461/sami123/sami123/757900
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 3
 http://psrv.io:80/78167984453/snakeplay/18592
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 3
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10228
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 3
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10229
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 3
+http://189.91.128.150:5555/udp/227.10.20.105:1234
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 4
 http://vipeiptv.com:25461/sami123/sami123/757903
@@ -34,11 +63,23 @@ http://vipeiptv.com:25461/sami123/sami123/757903
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 4
 http://psrv.io:80/78167984453/snakeplay/18590
 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 4
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10226
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 4
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10227
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 4
+http://189.91.128.150:5555/udp/227.10.20.106:1234
+
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 5
 http://vipeiptv.com:25461/sami123/sami123/757906
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 5
 http://psrv.io:80/78167984453/snakeplay/18588
+
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 5
+http://189.91.128.150:5555/udp/227.10.20.107:1234
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 6
 http://vipeiptv.com:25461/sami123/sami123/757909
@@ -46,32 +87,92 @@ http://vipeiptv.com:25461/sami123/sami123/757909
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 6
 http://psrv.io:80/78167984453/snakeplay/18586
 
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 6
+http://189.91.128.150:5555/udp/227.10.20.123:1234
+
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 7
 http://vipeiptv.com:25461/sami123/sami123/757912
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-601x338.png" group-title="ESPORTE",PREMIERE 7
 http://psrv.io:80/78167984453/snakeplay/18584
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="ESPORTE",DAZN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="ESPORTE",DAZN
 http://vipeiptv.com:25461/sami123/sami123/758271
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="ESPORTE",DAZN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="ESPORTE",DAZN
 http://vipeiptv.com:25461/miguelito/miguelito/758271
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTE",ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="ESPORTE",DAZN
+http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="ESPORTE",DAZN
+http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
 http://vipeiptv.com:25461/sami123/sami123/758230
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTE",ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
 http://psrv.io:80/78167984453/snakeplay/18676
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTE",ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
 http://vipeiptv.com:25461/miguelito/miguelito/758230
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://lb.kstream.org/aovivo/SD_ESPN_BRASIL/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://lb.kstream.org/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://85.217.222.17:8080/okan405/bknpqwt9lp/13633
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://85.217.222.17:8080/okan405/bknpqwt9lp/10232
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-b.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+http://189.91.128.150:5555/udp/227.10.20.81:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="ESPORTE",ESPN BRASIL
+https://raw.githubusercontent.com/bet476/omega/f0f3b6534b232c0d8246b7ce74b2fc58106be71a/plus_master.php
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO
 http://vipeiptv.com:25461/sami123/sami123/758240
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO
 http://vipeiptv.com:25461/miguelito/miguelito/758240
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO
+http://lb.kstream.org/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO
+http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO
+http://189.91.128.150:5555/udp/227.10.20.121:1234
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-8.png" group-title="ESPORTE",ESPORTE INTERATIVO plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
 http://vipeiptv.com:25461/sami123/sami123/758245
@@ -82,8 +183,35 @@ http://vipeiptv.com:25461/miguelito/miguelito/758230
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
 http://psrv.io:80/78167984453/snakeplay/18659
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://85.217.222.17:8080/okan405/bknpqwt9lp/13626
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://85.217.222.17:8080/okan405/bknpqwt9lp/6126
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://189.91.128.150:5555/udp/227.10.20.116:1234
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+http://45.58.62.92:8080/
+
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005891_fox-sports-2-fox-sports-hd-png-download.png" group-title="ESPORTE",FOX SPORTS 2
 http://vipeiptv.com:25461/sami123/sami123/758248
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005891_fox-sports-2-fox-sports-hd-png-download.png" group-title="ESPORTE",FOX SPORTS 2
+http://188.35.9.26:14031/udp/159f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
 http://vipeiptv.com:25461/sami123/sami123/758257
@@ -93,3 +221,15 @@ http://psrv.io:80/78167984453/snakeplay/18558
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
 http://vipeiptv.com:25461/miguelito/miguelito/758257
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
+http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
+http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
+http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
