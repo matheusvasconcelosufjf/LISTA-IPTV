@@ -175,6 +175,9 @@ https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playou
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
+https://raw.githubusercontent.com/bet476/live/master/FSP_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
 http://vipeiptv.com:25461/sami123/sami123/758245
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE",FOX SPORTS
@@ -233,3 +236,9 @@ http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=1fb4d429b21c604f9e12ef
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="ESPORTE",SPORTV
 http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=1fb4d429b21c604f9e12ef96e12a41b2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="FILMES",FOX PREMIUM
+https://raw.githubusercontent.com/bet476/live/master/FPR_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-2.png" group-title="NOTÍCIAS",CNN BRASIL
+https://raw.githubusercontent.com/bet476/live/master/cn01_br.m3u8
