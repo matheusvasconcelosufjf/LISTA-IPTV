@@ -1,0 +1,675 @@
+#EXTM3U 
+
+#EXTINF:-1, [COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71768.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71769.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC HD
+http://srvx.io:80/live/0467707740/fireurl.co/71770.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries", AMC SD
+http://srvx.io:80/live/0467707740/fireurl.co/71771.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71781.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71782.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN HD
+http://srvx.io:80/live/0467707740/fireurl.co/71783.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries", AXN SD
+http://srvx.io:80/live/0467707740/fireurl.co/71784.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71816.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71817.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil HD
+http://srvx.io:80/live/0467707740/fireurl.co/71818.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries", Canal Brasil SD
+http://srvx.io:80/live/0467707740/fireurl.co/71819.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71824.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71825.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony HD
+http://srvx.io:80/live/0467707740/fireurl.co/71826.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries", Canal Sony SD
+http://srvx.io:80/live/0467707740/fireurl.co/71827.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 1 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72994.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 10 HD
+http://srvx.io:80/live/0467707740/fireurl.co/73003.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72995.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72996.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 4 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72997.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 5 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72998.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 6 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72999.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 7 HD
+http://srvx.io:80/live/0467707740/fireurl.co/73000.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 8 HD
+http://srvx.io:80/live/0467707740/fireurl.co/73001.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", Cine SKY 9 HD
+http://srvx.io:80/live/0467707740/fireurl.co/73002.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71833.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71834.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax HD
+http://srvx.io:80/live/0467707740/fireurl.co/71835.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries", Cinemax SD
+http://srvx.io:80/live/0467707740/fireurl.co/71836.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71936.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71937.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox HD
+http://srvx.io:80/live/0467707740/fireurl.co/71938.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71943.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71944.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71945.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries", Fox Premium 1 SD
+http://srvx.io:80/live/0467707740/fireurl.co/71946.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71947.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71948.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71949.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries", Fox Premium 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/71950.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries", Fox SD
+http://srvx.io:80/live/0467707740/fireurl.co/71951.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71966.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71967.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX HD
+http://srvx.io:80/live/0467707740/fireurl.co/71968.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries", FX SD
+http://srvx.io:80/live/0467707740/fireurl.co/71969.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72166.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72167.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix HD
+http://srvx.io:80/live/0467707740/fireurl.co/72169.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries", Megapix SD
+http://srvx.io:80/live/0467707740/fireurl.co/72170.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72217.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72218.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel HD
+http://srvx.io:80/live/0467707740/fireurl.co/72219.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries", Paramount Channel SD
+http://srvx.io:80/live/0467707740/fireurl.co/72220.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72313.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72314.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian HD
+http://srvx.io:80/live/0467707740/fireurl.co/72315.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries", Smithsonian SD
+http://srvx.io:80/live/0467707740/fireurl.co/72316.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72317.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72318.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space HD
+http://srvx.io:80/live/0467707740/fireurl.co/72319.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries", Space SD
+http://srvx.io:80/live/0467707740/fireurl.co/72320.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72334.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72335.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal HD
+http://srvx.io:80/live/0467707740/fireurl.co/72336.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries", Studio Universal SD
+http://srvx.io:80/live/0467707740/fireurl.co/72337.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", SyFy FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72338.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", SyFy FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72339.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", SyFy HD
+http://srvx.io:80/live/0467707740/fireurl.co/72340.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries", SyFy SD
+http://srvx.io:80/live/0467707740/fireurl.co/72341.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72342.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72343.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS HD
+http://srvx.io:80/live/0467707740/fireurl.co/72344.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries", TBS SD
+http://srvx.io:80/live/0467707740/fireurl.co/72345.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", TCM FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73251.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", TCM HD
+http://srvx.io:80/live/0467707740/fireurl.co/73252.ts
+#EXTINF: -1 group-title="Canais | Filmes e Séries", TCM SD
+http://srvx.io:80/live/0467707740/fireurl.co/73253.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72375.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72376.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT HD
+http://srvx.io:80/live/0467707740/fireurl.co/72378.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries", TNT SD
+http://srvx.io:80/live/0467707740/fireurl.co/72379.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72380.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72381.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series HD
+http://srvx.io:80/live/0467707740/fireurl.co/72383.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries", TNT Series SD
+http://srvx.io:80/live/0467707740/fireurl.co/72384.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72419.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72420.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV HD
+http://srvx.io:80/live/0467707740/fireurl.co/72421.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries", Universal TV SD
+http://srvx.io:80/live/0467707740/fireurl.co/72422.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72431.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72432.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel HD
+http://srvx.io:80/live/0467707740/fireurl.co/72433.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries", Warner Channel SD
+http://srvx.io:80/live/0467707740/fireurl.co/72434.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|CANAIS 4K|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]", Animal Planet 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71774.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/kBr" group-title="Canais | 4K [FHDR]", CNN Brasil 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71798.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]", Cartoon Network 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71830.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]", Combate 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71844.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]", Discovery Channel 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71864.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]", ESPN 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71921.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]", Fox Sports 2 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71954.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]", Fox Sports 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/71959.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]", Globo TV Verdes Mares 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72080.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]", Megapix 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72168.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]", Multishow 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72181.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]", National Geographic 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72198.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]", Premiere Clubes 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72264.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]", SporTV 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72331.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [FHDR]", TNT 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72377.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [FHDR]", TNT Series 4K FHDR
+http://srvx.io:80/live/0467707740/fireurl.co/72382.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|ESPORTES|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", Band Sports FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71801.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", Band Sports FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71802.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes", Band Sports HD
+http://srvx.io:80/live/0467707740/fireurl.co/71803.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Esportes", Band Sports SD
+http://srvx.io:80/live/0467707740/fireurl.co/71804.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71842.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71843.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate HD
+http://srvx.io:80/live/0467707740/fireurl.co/71845.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes", Combate SD
+http://srvx.io:80/live/0467707740/fireurl.co/71846.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71952.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71953.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71955.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes", Fox Sports 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/71956.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71957.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71958.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports HD
+http://srvx.io:80/live/0467707740/fireurl.co/71960.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes", Fox Sports SD
+http://srvx.io:80/live/0467707740/fireurl.co/71961.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|INFANTIL|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71812.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71813.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang HD
+http://srvx.io:80/live/0467707740/fireurl.co/71814.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis", Boomerang SD
+http://srvx.io:80/live/0467707740/fireurl.co/71815.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71828.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71829.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network HD
+http://srvx.io:80/live/0467707740/fireurl.co/71831.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis", Cartoon Network SD
+http://srvx.io:80/live/0467707740/fireurl.co/71832.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71871.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71872.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids HD
+http://srvx.io:80/live/0467707740/fireurl.co/71873.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis", Discovery Kids SD
+http://srvx.io:80/live/0467707740/fireurl.co/71874.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71891.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71892.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel HD
+http://srvx.io:80/live/0467707740/fireurl.co/71893.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis", Disney Channel SD
+http://srvx.io:80/live/0467707740/fireurl.co/71894.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71895.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71896.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior HD
+http://srvx.io:80/live/0467707740/fireurl.co/71897.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis", Disney Junior SD
+http://srvx.io:80/live/0467707740/fireurl.co/71898.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis", Disney XD SD
+http://srvx.io:80/live/0467707740/fireurl.co/71899.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72098.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72099.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob HD
+http://srvx.io:80/live/0467707740/fireurl.co/72100.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis", Gloob SD
+http://srvx.io:80/live/0467707740/fireurl.co/72101.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", Nat Geo Kids FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72188.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", Nat Geo Kids FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72189.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis", Nat Geo Kids HD
+http://srvx.io:80/live/0467707740/fireurl.co/72190.ts
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Infantis", Nat Geo Kids SD
+http://srvx.io:80/live/0467707740/fireurl.co/72191.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick Jr FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72201.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick Jr FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72202.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis", Nick Jr HD
+http://srvx.io:80/live/0467707740/fireurl.co/72203.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis", Nick Jr SD
+http://srvx.io:80/live/0467707740/fireurl.co/72204.ts
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis", Nickelodeon FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72205.ts
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis", Nickelodeon FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72206.ts
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis", Nickelodeon HD
+http://srvx.io:80/live/0467707740/fireurl.co/72207.ts
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis", Nickelodeon SD
+http://srvx.io:80/live/0467707740/fireurl.co/72208.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis", Tooncast SD
+http://srvx.io:80/live/0467707740/fireurl.co/72385.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra-Tim-Bum FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72412.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra-Tim-Bum FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72413.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra-Tim-Bum HD
+http://srvx.io:80/live/0467707740/fireurl.co/72414.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis", TV Ra-Tim-Bum SD
+http://srvx.io:80/live/0467707740/fireurl.co/72415.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|ESPECIAIS|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 1 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72977.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 1 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72978.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 1 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72979.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 1 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72980.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72981.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72982.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72983.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72984.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 3 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72985.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 3 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72986.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72987.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 3 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72988.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 4 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72989.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 4 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72990.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 4 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72991.ts
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV", Conmebol TV 4 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72992.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV", DAZN 4 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71859.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV", DAZN 1 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71860.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV", DAZN 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71861.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV", DAZN 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72630.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV", EI Plus 1 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71904.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV", EI Plus 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71905.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV", EI Plus 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71906.ts
+#EXTINF: -1 group-title="Canais | PPV", Ei Plus 4 HD
+http://srvx.io:80/live/0467707740/fireurl.co/76671.ts
+#EXTINF: -1 group-title="Canais | PPV", Ei Plus 5 HD
+http://srvx.io:80/live/0467707740/fireurl.co/76672.ts
+#EXTINF: -1 group-title="Canais | PPV", Ei Plus 6 HD
+http://srvx.io:80/live/0467707740/fireurl.co/76673.ts
+#EXTINF: -1 group-title="Canais | PPV", Eleven Sports 1 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73254.ts
+#EXTINF: -1 group-title="Canais | PPV", Eleven Sports 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73255.ts
+#EXTINF: -1 group-title="Canais | PPV", Eleven Sports 3 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73256.ts
+#EXTINF: -1 group-title="Canais | PPV", Eleven Sports 4 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73257.ts
+#EXTINF: -1 group-title="Canais | PPV", Eleven Sports 5 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73258.ts
+#EXTINF: -1 group-title="Canais | PPV", Eleven Sports 6 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/73259.ts
+#EXTINF: -1 group-title="Canais | PPV", Facebook Watch
+http://srvx.io:80/live/0467707740/fireurl.co/73005.ts
+#EXTINF: -1 group-title="Canais | PPV", Facebook Watch 2
+http://srvx.io:80/live/0467707740/fireurl.co/79316.ts
+#EXTINF: -1 group-title="Canais | PPV", Facebook Watch 3
+http://srvx.io:80/live/0467707740/fireurl.co/79317.ts
+#EXTINF: -1 group-title="Canais | PPV", Liga Futsal 2020 HD
+http://srvx.io:80/live/0467707740/fireurl.co/73006.ts
+#EXTINF: -1 group-title="Canais | PPV", MyCujoo TV 1 HD
+http://srvx.io:80/live/0467707740/fireurl.co/75026.ts
+#EXTINF: -1 group-title="Canais | PPV", MyCujoo TV 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/77583.ts
+#EXTINF: -1 group-title="Canais | PPV", MyCujoo TV 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/77584.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|CANAIS ESPN|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71907.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71908.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/71909.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN", ESPN 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/71910.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71911.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71912.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil HD
+http://srvx.io:80/live/0467707740/fireurl.co/71913.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Brasil SD
+http://srvx.io:80/live/0467707740/fireurl.co/71914.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN", ESPN Extra FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71915.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71916.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra HD
+http://srvx.io:80/live/0467707740/fireurl.co/71917.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN", ESPN Extra SD
+http://srvx.io:80/live/0467707740/fireurl.co/71918.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN FHD
+http://srvx.io:80/live/0467707740/fireurl.co/71919.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/71920.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN HD
+http://srvx.io:80/live/0467707740/fireurl.co/71922.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN", ESPN SD
+http://srvx.io:80/live/0467707740/fireurl.co/71923.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|HBO|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72110.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72111.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72112.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO", HBO 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72113.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72114.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72115.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family HD
+http://srvx.io:80/live/0467707740/fireurl.co/72116.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO", HBO Family SD
+http://srvx.io:80/live/0467707740/fireurl.co/72117.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72118.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72119.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO HD
+http://srvx.io:80/live/0467707740/fireurl.co/72120.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO", HBO Mundi FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72121.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO", HBO Mundi FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72122.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO", HBO Mundi HD
+http://srvx.io:80/live/0467707740/fireurl.co/72123.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO", HBO Mundi SD
+http://srvx.io:80/live/0467707740/fireurl.co/72124.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72125.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72126.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus HD
+http://srvx.io:80/live/0467707740/fireurl.co/72127.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO", HBO Plus SD
+http://srvx.io:80/live/0467707740/fireurl.co/72128.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO", HBO Pop FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72129.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO", HBO Pop FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72130.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO", HBO Pop HD
+http://srvx.io:80/live/0467707740/fireurl.co/72131.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO", HBO Pop SD
+http://srvx.io:80/live/0467707740/fireurl.co/72132.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO", HBO SD
+http://srvx.io:80/live/0467707740/fireurl.co/72133.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72134.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72135.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature HD
+http://srvx.io:80/live/0467707740/fireurl.co/72136.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO", HBO Signature SD
+http://srvx.io:80/live/0467707740/fireurl.co/72137.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO", HBO Xtreme FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72138.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO", HBO Xtreme FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72139.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO", HBO Xtreme HD
+http://srvx.io:80/live/0467707740/fireurl.co/72140.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO", HBO Xtreme SD
+http://srvx.io:80/live/0467707740/fireurl.co/72141.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|CANAIS PREMIERE & SPORTV|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72237.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72238.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72239.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72240.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72241.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72242.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72243.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 3 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72244.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72245.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72246.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72247.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 4 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72248.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72249.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72250.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72251.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 5 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72252.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72253.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72254.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72255.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 6 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72256.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72257.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72258.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72259.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 7 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72260.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere 8 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72261.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72262.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72263.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes HD
+http://srvx.io:80/live/0467707740/fireurl.co/72265.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere", Premiere Clubes SD
+http://srvx.io:80/live/0467707740/fireurl.co/72266.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72321.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72322.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72323.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV", SporTV 2 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72324.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72325.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72326.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 HD
+http://srvx.io:80/live/0467707740/fireurl.co/72327.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV", SporTV 3 SD
+http://srvx.io:80/live/0467707740/fireurl.co/72328.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72329.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72330.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV HD
+http://srvx.io:80/live/0467707740/fireurl.co/72332.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV", SporTV SD
+http://srvx.io:80/live/0467707740/fireurl.co/72333.ts
+
+#EXTINF:-1, [COLOR blue][B]##########|TELECINE|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72346.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72347.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine", Telecine Action HD
+http://srvx.io:80/live/0467707740/fireurl.co/72348.ts
+#EXTINF: -1 tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Telecine", Telecine Action SD
+http://srvx.io:80/live/0467707740/fireurl.co/72349.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72350.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72351.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult HD
+http://srvx.io:80/live/0467707740/fireurl.co/72352.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine", Telecine Cult SD
+http://srvx.io:80/live/0467707740/fireurl.co/72353.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72354.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72355.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun HD
+http://srvx.io:80/live/0467707740/fireurl.co/72356.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine", Telecine Fun SD
+http://srvx.io:80/live/0467707740/fireurl.co/72357.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72358.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72359.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca HD
+http://srvx.io:80/live/0467707740/fireurl.co/72360.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine", Telecine Pipoca SD
+http://srvx.io:80/live/0467707740/fireurl.co/72361.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72362.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72363.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium HD
+http://srvx.io:80/live/0467707740/fireurl.co/72364.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine", Telecine Premium SD
+http://srvx.io:80/live/0467707740/fireurl.co/72365.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch FHD
+http://srvx.io:80/live/0467707740/fireurl.co/72366.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch FHD [H265]
+http://srvx.io:80/live/0467707740/fireurl.co/72367.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch HD
+http://srvx.io:80/live/0467707740/fireurl.co/72368.ts
+#EXTINF: -1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine", Telecine Touch SD
+http://srvx.io:80/live/0467707740/fireurl.co/72369.ts
