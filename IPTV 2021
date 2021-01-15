@@ -1,239 +1,303 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
+
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E HD
 http://177.91.162.202:8000/play/AeE/index.m3u8
-#EXTINF:-1,AMC HD
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383" group-title="Filmes e Séries" ,AMC HD
 http://177.91.162.202:8000/play/AMC/index.m3u8
-#EXTINF:-1,AXN HD
+
+#EXTINF:-1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png" group-title="Entreterimento" ,AXN HD
 http://177.91.162.202:8000/play/AXN/index.m3u8
-#EXTINF:-1,Animal Planet HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentários" ,Animal Planet HD
 http://177.91.162.202:8000/play/AnimalPlanet/index.m3u8
-#EXTINF:-1,Arte 1 HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Entreterimento" ,Arte 1 HD
 http://177.91.162.202:8000/play/Arte1/index.m3u8
-#EXTINF:-1,BIS HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entreterimento" ,BIS HD
 http://177.91.162.202:8000/play/BIS/index.m3u8
-#EXTINF:-1,Band HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Abertos" ,Band HD
 http://177.91.162.202:8000/play/BandSP/index.m3u8
-#EXTINF:-1,Band News HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias" ,Band News HD
 http://177.91.162.202:8000/play/a041/index.m3u8
-#EXTINF:-1,Band Sports HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Esportes" ,Band Sports HD
 http://177.91.162.202:8000/play/a040/index.m3u8
-#EXTINF:-1,Boomerang HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Desenhos" ,Boomerang HD
 http://177.91.162.202:8000/play/Boomerang/index.m3u8
-#EXTINF:-1,CNN Brasil HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias" ,CNN Brasil HD
 http://177.91.162.202:8000/play/CNNBrasil/index.m3u8
-#EXTINF:-1,Canal Brasil HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="Filmes e Séries" ,Canal Brasil HD
 http://177.91.162.202:8000/play/CanalBrasil/index.m3u8
-#EXTINF:-1,Canal Sony HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entreterimento" ,Canal Sony HD
 http://177.91.162.202:8000/play/Sony/index.m3u8
-#EXTINF:-1,Canal do Boi HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Abertos" ,Canal do Boi HD
 http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="Desenhos" ,Cartoon Network HD
 http://177.91.162.202:8000/play/Cartoon/index.m3u8
-#EXTINF:-1,Cinemax HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes e Séries" ,Cinemax HD
 http://177.91.162.202:8000/play/Cinemax/index.m3u8
-#EXTINF:-1,Combate HD
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Esportes" ,Combate HD
 http://177.91.162.202:8000/play/Combate/index.m3u8
-#EXTINF:-1,Comedy Central HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento" ,Comedy Central HD
 http://177.91.162.202:8000/play/ComedyCentral/index.m3u8
-#EXTINF:-1,Cultura HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
 http://177.91.162.202:8000/play/Cultura/index.m3u8
-#EXTINF:-1,Curta! HD
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1" group-title="Entreterimento" ,Curta! HD
 http://177.91.162.202:8000/play/Curta/index.m3u8
-#EXTINF:-1,DOG TV
+
+#EXTINF:-1 tvg-logo="https://media.gazetadopovo.com.br/2017/11/df2fac8d93b3df97ea22a8f03dd607ea-gpLarge.png" group-title="Entreterimento" ,DOG TV
 http://177.91.162.202:8000/play/DOG/index.m3u8
-#EXTINF:-1,Disc. Home & Health HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png" group-title="Documentários" ,Disc. Home & Health HD
 http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
-#EXTINF:-1,Discovery Channel HD
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="Documentários" ,Discovery Channel HD
 http://177.91.162.202:8000/play/DiscoveryChannel/index.m3u8
-#EXTINF:-1,Discovery Kids HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Desenhos" ,Discovery Kids HD
 http://177.91.162.202:8000/play/DiscoveryKids/index.m3u8
-#EXTINF:-1,Discovery Science HD
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg" group-title="Documentários" ,Discovery Science HD
 http://177.91.162.202:8000/play/DiscoveryScience/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="Documentários" ,Discovery Theater HD
 http://177.91.162.202:8000/play/DiscoveryTheater/index.m3u8
-#EXTINF:-1,Discovery Turbo HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Documentários" ,Discovery Turbo HD
 http://177.91.162.202:8000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1,Discovery World HD
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="Documentários" ,Discovery World HD
 http://177.91.162.202:8000/play/DiscoveryWorld/index.m3u8
-#EXTINF:-1,Disney Channel HD
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Desenhos" ,Disney Channel HD
 http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
-#EXTINF:-1,Disney Junior HD
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="Desenhos" ,Disney Junior HD
 http://177.91.162.202:8000/play/DisneyJunior/index.m3u8
-#EXTINF:-1,E! HD
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="Entreterimento" ,E! HD
 http://177.91.162.202:8000/play/E/index.m3u8
-#EXTINF:-1,ESPN Brasil HD
+
+#EXTINF:-1 tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-y_f1iOD0xsc/URTTezPTZqI/AAAAAAAAII4/cKw8DxFGvW4/s1600/espn%2Bbrasil%2Bhd.jpg" group-title="Esportes" ,ESPN Brasil HD
 http://177.91.162.202:8000/play/ESPNBrasil/index.m3u8
-#EXTINF:-1,ESPN Extra HD
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes" ,ESPN Extra HD
 http://177.91.162.202:8000/play/ESPNExtra/index.m3u8
-#EXTINF:-1,ESPN HD
+
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Esportes" ,ESPN HD
 http://177.91.162.202:8000/play/ESPN/index.m3u8
-#EXTINF:-1,ESPN2 HD
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png" group-title="Esportes" ,ESPN2 HD
 http://177.91.162.202:8000/play/a03z/index.m3u8
-#EXTINF:-1,Eurochannel HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1200px-Logo_Eurochannel.png" group-title="Entreterimento" ,Eurochannel HD
 http://177.91.162.202:8000/play/Eurochannel/index.m3u8
-#EXTINF:-1,FOX HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Filmes e Séries" ,FOX HD
 http://177.91.162.202:8000/play/FOX/index.m3u8
-#EXTINF:-1,FOX Life HD
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NCtbqB3QSwY/VxvdB1ZK9mI/AAAAAAAAqv0/Wr2ZqWP-m8oXkc2bNpuDevhXpsHP7kdHQCLcB/s1600/LOGO-FOX-Life.jpg" group-title="Filmes e Séries" ,FOX Life HD
 http://177.91.162.202:8000/play/FOXLife/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/D7OWkf8Pz4xdkCswUhwEPCsMkewJ49NcPr7dsaij02vodckmSA2TnE_AcwaQKhdXUncrDIK5rD27ARQJswcOCr18GV_zDBjfMBOOBjBJlvvkm3fz68id4-wI4HOf" group-title="Esportes" ,FOX Sports 2 HD
 http://177.91.162.202:8000/play/FOXSports2/index.m3u8
-#EXTINF:-1,FOX Sports HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports HD
 http://177.91.162.202:8000/play/FOXSports/index.m3u8
-#EXTINF:-1,FX HD
+
+#EXTINF:-1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg" group-title="Filmes e Séries" ,FX HD
 http://177.91.162.202:8000/play/FX/index.m3u8
-#EXTINF:-1,Fashion TV HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Entreterimento" ,Fashion TV HD
 http://177.91.162.202:8000/play/Fashion/index.m3u8
-#EXTINF:-1,Film&Arts HD
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/film-arts.svg" group-title="Filmes e Séries" ,Film&Arts HD
 http://177.91.162.202:8000/play/FilmeArts/index.m3u8
-#EXTINF:-1,Fish TV HD
+
+#EXTINF:-1 tvg-logo="https://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg" group-title="Entreterimento" ,Fish TV HD
 http://177.91.162.202:8000/play/Fish/index.m3u8
-#EXTINF:-1,Food Network HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Entreterimento" ,Food Network HD
 http://177.91.162.202:8000/play/FoodNetwork/index.m3u8
-#EXTINF:-1,Fox Premium 1 HD
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/_QSOc0nwsQxpytBDSe6iBF9v60G_XdFP-698mwLA4KhGlksNmQvwrUtXe4RXJ-bR7X5HKmccyvEemrMfC2M1xGkvXyg" group-title="Filmes e Séries" ,Fox Premium 1 HD
 http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
-#EXTINF:-1,Fox Premium 2 HD
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gSWkOMiZ_HU/XY9rxuNmMRI/AAAAAAAADBQ/xj52lutDzroU432WmRP_ZLw03-R-mAAJwCLcBGAsYHQ/w680/FOX%2BPREMIUM%2B2.png" group-title="Filmes e Séries" ,Fox Premium 2 HD
 http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
-#EXTINF:-1,Futura HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="Abertos" ,Futura HD
 http://177.91.162.202:8000/play/a03y/index.m3u8
-#EXTINF:-1,GNT HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Entreterimento" ,GNT HD
 http://177.91.162.202:8000/play/GNT/index.m3u8
-#EXTINF:-1,Globo HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Abertos" ,Globo HD
 http://177.91.162.202:8000/play/GloboSP/index.m3u8
-#EXTINF:-1,GloboNews HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias" ,GloboNews HD
 http://177.91.162.202:8000/play/GloboNews/index.m3u8
-#EXTINF:-1,Gloob HD
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Desenhos" ,Gloob HD
 http://177.91.162.202:8000/play/Gloob/index.m3u8
-#EXTINF:-1,HBO Family HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Entreterimento" ,HBO Family HD
 http://177.91.162.202:8000/play/HBOFamily/index.m3u8
-#EXTINF:-1,HBO HD
+
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Entreterimento" ,HBO HD
 http://177.91.162.202:8000/play/a04b/index.m3u8
-#EXTINF:-1,HBO MUNDI HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Entreterimento" ,HBO MUNDI HD
 http://177.91.162.202:8000/play/HBOMUNDI/index.m3u8
-#EXTINF:-1,HBO POP HD
+
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg" group-title="Entreterimento" ,HBO POP HD
 http://177.91.162.202:8000/play/HBOPOP/index.m3u8
-#EXTINF:-1,HBO Signature HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Entreterimento" ,HBO Signature HD
 http://177.91.162.202:8000/play/HBOSignature/index.m3u8
-#EXTINF:-1,HBO XTREME HD
+
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg" group-title="Entreterimento" ,HBO XTREME HD
 http://177.91.162.202:8000/play/HBOXTREME/index.m3u8
-#EXTINF:-1,HBO+ HD
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="Entreterimento" ,HBO+ HD
 http://177.91.162.202:8000/play/HBOmais/index.m3u8
-#EXTINF:-1,HBO2 HD
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Entreterimento" ,HBO2 HD
 http://177.91.162.202:8000/play/HBO2/index.m3u8
-#EXTINF:-1,HGTV HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="Entreterimento" ,HGTV HD
 http://177.91.162.202:8000/play/HGTV/index.m3u8
-#EXTINF:-1,History 2 HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentários" ,History 2 HD
 http://177.91.162.202:8000/play/History2/index.m3u8
-#EXTINF:-1,History HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="Entreterimento" ,History HD
 http://177.91.162.202:8000/play/History/index.m3u8
-#EXTINF:-1,ID HD
+
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,ID HD
 http://177.91.162.202:8000/play/ID/index.m3u8
-#EXTINF:-1,Lifetime HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Lifetime HD
 http://177.91.162.202:8000/play/Lifetime/index.m3u8
-#EXTINF:-1,Love Nature HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Love Nature HD
 http://177.91.162.202:8000/play/LoveNature/index.m3u8
-#EXTINF:-1,MTV HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,MTV HD
 http://177.91.162.202:8000/play/MTV/index.m3u8
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,MTV LIVE HD
 http://177.91.162.202:8000/play/MTVLIVE/index.m3u8
-#EXTINF:-1,Mais Globosat HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Mais Globosat HD
 http://177.91.162.202:8000/play/MaisGlobosat/index.m3u8
-#EXTINF:-1,Megapix HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Megapix HD
 http://177.91.162.202:8000/play/Megapix/index.m3u8
-#EXTINF:-1,Multishow HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Multishow HD
 http://177.91.162.202:8000/play/Multishow/index.m3u8
-#EXTINF:-1,Music Box Brazil HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Music Box Brazil HD
 http://177.91.162.202:8000/play/MusicBox/index.m3u8
-#EXTINF:-1,Nat Geo Kids HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Nat Geo Kids HD
 http://177.91.162.202:8000/play/NatGeoKids/index.m3u8
-#EXTINF:-1,NatGeo Wild HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,NatGeo Wild HD
 http://177.91.162.202:8000/play/NatGeoWild/index.m3u8
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,National Geographic HD
 http://177.91.162.202:8000/play/NatGeo/index.m3u8
-#EXTINF:-1,Nick Jr. HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Nick Jr. HD
 http://177.91.162.202:8000/play/NickJr/index.m3u8
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Nickelodeon HD
 http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
-#EXTINF:-1,OFF HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,OFF HD
 http://177.91.162.202:8000/play/OFF/index.m3u8
-#EXTINF:-1,Pai Eterno HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Pai Eterno HD
 http://177.91.162.202:8000/play/PaiEterno/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Paramount HD
 http://177.91.162.202:8000/play/Paramount/index.m3u8
-#EXTINF:-1,Playboy TV HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Playboy TV HD
 http://177.91.162.202:8000/play/Playboy/index.m3u8
-#EXTINF:-1,Premiere 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere 2 HD
 http://177.91.162.202:8000/play/PFC2/index.m3u8
-#EXTINF:-1,Premiere 3 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere 3 HD
 http://177.91.162.202:8000/play/PFC3/index.m3u8
-#EXTINF:-1,Premiere 4 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere 4 HD
 http://177.91.162.202:8000/play/PFC4/index.m3u8
-#EXTINF:-1,Premiere 5 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere 5 HD
 http://177.91.162.202:8000/play/PFC5/index.m3u8
-#EXTINF:-1,Premiere 6 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere 6 HD
 http://177.91.162.202:8000/play/PFC6/index.m3u8
-#EXTINF:-1,Premiere 7 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere 7 HD
 http://177.91.162.202:8000/play/PFC7/index.m3u8
-#EXTINF:-1,Premiere Clubes HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Premiere Clubes HD
 http://177.91.162.202:8000/play/PFC/index.m3u8
-#EXTINF:-1,Prime Box Brazil HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Prime Box Brazil HD
 http://177.91.162.202:8000/play/PrimeBox/index.m3u8
-#EXTINF:-1,Rede Vida HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Rede Vida HD
 http://177.91.162.202:8000/play/RedeVida/index.m3u8
-#EXTINF:-1,SBT HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,SBT HD
 http://177.91.162.202:8000/play/SBTSP/index.m3u8
-#EXTINF:-1,SYFY HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,SYFY HD
 http://177.91.162.202:8000/play/SYFY/index.m3u8
-#EXTINF:-1,Smithsonian HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Smithsonian HD
 http://177.91.162.202:8000/play/Smithsonian/index.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Space HD
 http://177.91.162.202:8000/play/Space/index.m3u8
-#EXTINF:-1,SporTV HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,SporTV HD
 http://177.91.162.202:8000/play/SporTV/index.m3u8
-#EXTINF:-1,SporTV2 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,SporTV2 HD
 http://177.91.162.202:8000/play/SporTV2/index.m3u8
-#EXTINF:-1,SporTV3 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,SporTV3 HD
 http://177.91.162.202:8000/play/SporTV3/index.m3u8
-#EXTINF:-1,Studio Universal HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Studio Universal HD
 http://177.91.162.202:8000/play/StudioUniversal/index.m3u8
-#EXTINF:-1,TBS HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TBS HD
 http://177.91.162.202:8000/play/TBS/index.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TLC HD
 http://177.91.162.202:8000/play/TLC/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TNT HD
 http://177.91.162.202:8000/play/TNT/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TNT Series HD
 http://177.91.162.202:8000/play/TNTSeries/index.m3u8
-#EXTINF:-1,TV Aparecida
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TV Aparecida
 http://177.91.162.202:8000/play/TVAparecida/index.m3u8
-#EXTINF:-1,TV Brasil HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TV Brasil HD
 http://177.91.162.202:8000/play/TVBrasil/index.m3u8
-#EXTINF:-1,TV Novo Tempo HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TV Novo Tempo HD
 http://177.91.162.202:8000/play/TVNovoTempo/index.m3u8
-#EXTINF:-1,TV RÆ Tim Bum HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,TV RÆ Tim Bum HD
 http://177.91.162.202:8000/play/TVRATIMBUM/index.m3u8
-#EXTINF:-1,Telecine Action HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Telecine Action HD
 http://177.91.162.202:8000/play/TCAction/index.m3u8
-#EXTINF:-1,Telecine Cult HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Telecine Cult HD
 http://177.91.162.202:8000/play/TCCult/index.m3u8
-#EXTINF:-1,Telecine Fun HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Telecine Fun HD
 http://177.91.162.202:8000/play/TCFun/index.m3u8
-#EXTINF:-1,Telecine Pipoca HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Telecine Pipoca HD
 http://177.91.162.202:8000/play/TCPipoca/index.m3u8
-#EXTINF:-1,Telecine Premium HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Telecine Premium HD
 http://177.91.162.202:8000/play/TCPremium/index.m3u8
-#EXTINF:-1,Telecine Touch HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Telecine Touch HD
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
-#EXTINF:-1,Travel Box Brazil HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Travel Box Brazil HD
 http://177.91.162.202:8000/play/TravelBox/index.m3u8
-#EXTINF:-1,Universal TV HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Universal TV HD
 http://177.91.162.202:8000/play/Universal/index.m3u8
-#EXTINF:-1,VH1 HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,VH1 HD
 http://177.91.162.202:8000/play/VH1/index.m3u8
-#EXTINF:-1,Viva HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Viva HD
 http://177.91.162.202:8000/play/Viva/index.m3u8
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Warner Channel HD
 http://177.91.162.202:8000/play/Warner/index.m3u8
-#EXTINF:-1,Woohoo HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Woohoo HD
 http://177.91.162.202:8000/play/Woohoo/index.m3u8
-#EXTINF:-1,Zoomoo HD
+#EXTINF:-1 tvg-logo="" group-title="Entreterimento" ,Zoomoo HD
 http://177.91.162.202:8000/play/Zoomoo/index.m3u8
