@@ -61,3 +61,47 @@ http://200.155.142.244:8000/play/a03i/index.m3u8
 http://200.155.142.244:8000/play/a03h/index.m3u8
 #EXTINF:-1,VH1
 http://200.155.142.244:8000/play/a03m/index.m3u8
+#EXTINF:-1,Agro Canal HD
+http://177.20.208.58:8000/play/a044/index.m3u8
+#EXTINF:-1,CNT
+http://177.20.208.58:8000/play/a04n/index.m3u8
+#EXTINF:-1,CULTURA HD
+http://177.20.208.58:8000/play/a01x/index.m3u8
+#EXTINF:-1,Canal Sesc Tv
+http://177.20.208.58:8000/play/a02t/index.m3u8
+#EXTINF:-1,Canal do Boi DIGITAL
+http://177.20.208.58:8000/play/a024/index.m3u8
+#EXTINF:-1,Fashion HD
+http://177.20.208.58:8000/play/a04h/index.m3u8
+#EXTINF:-1,Love Nature 4K
+http://177.20.208.58:8000/play/a04o/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://177.20.208.58:8000/play/a03r/index.m3u8
+#EXTINF:-1,Music HD
+http://177.20.208.58:8000/play/a04g/index.m3u8
+#EXTINF:-1,POLI TV 2
+http://177.20.208.58:8000/play/a02y/index.m3u8
+#EXTINF:-1,Prime HD
+http://177.20.208.58:8000/play/a04f/index.m3u8
+#EXTINF:-1,RA-TIM-BUM
+http://177.20.208.58:8000/play/a029/index.m3u8
+#EXTINF:-1,Rede Vida HD
+http://177.20.208.58:8000/play/a028/index.m3u8
+#EXTINF:-1,RedeTV! HD1
+http://177.20.208.58:8000/play/a03x/index.m3u8
+#EXTINF:-1,RedeTV! HD2
+http://177.20.208.58:8000/play/a03p/index.m3u8
+#EXTINF:-1,TERRAVIVA HD
+http://177.20.208.58:8000/play/a026/index.m3u8
+#EXTINF:-1,TV Cabralia HD
+http://177.20.208.58:8000/play/a03w/index.m3u8
+#EXTINF:-1,TV Santa Cruz
+http://177.20.208.58:8000/play/a03t/index.m3u8
+#EXTINF:-1,TV Subae - FSA
+http://177.20.208.58:8000/play/a03u/index.m3u8
+#EXTINF:-1,TV Sudoeste
+http://177.20.208.58:8000/play/a03s/index.m3u8
+#EXTINF:-1,Travel HD
+http://177.20.208.58:8000/play/a04i/index.m3u8
+#EXTINF:-1,WooHoo
+http://177.20.208.58:8000/play/a022/index.m3u8
