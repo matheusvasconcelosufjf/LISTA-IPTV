@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1,AXN HD
+http://187.120.222.12:8000/play/AXNLEG/index.m3u8
+#EXTINF:-1,AgroMais HD
+http://187.120.222.12:8000/play/AgroMais/index.m3u8
+#EXTINF:-1,BBB HD 1
+http://187.120.222.12:8000/play/a069/index.m3u8
+#EXTINF:-1,Baby TV
+http://187.120.222.12:8000/play/BabyTV/index.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://187.120.222.12:8000/play/BoaVontade/index.m3u8
+#EXTINF:-1,CNN Brasil HD
+http://187.120.222.12:8000/play/CNNBrasil/index.m3u8
+#EXTINF:-1,CONMEBOL TV 1
+http://187.120.222.12:8000/play/Conmebol1/index.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+http://187.120.222.12:8000/play/Conmebol2/index.m3u8
+#EXTINF:-1,Canal Rural
+http://187.120.222.12:8000/play/CanalRural/index.m3u8
+#EXTINF:-1,Canal Sony HD
+http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
+#EXTINF:-1,Cultura HD
+http://187.120.222.12:8000/play/TVCultura/index.m3u8
+#EXTINF:-1,EPTV Ribeirªo Preto
+http://187.120.222.12:8000/play/EPTVRibeiraoPreto/index.m3u8
+#EXTINF:-1,EPTV Sªo Carlos
+http://187.120.222.12:8000/play/EPTVSaoCarlos/index.m3u8
+#EXTINF:-1,FOX HD
+http://187.120.222.12:8000/play/a04n/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://187.120.222.12:8000/play/a04p/index.m3u8
+#EXTINF:-1,FX HD
+http://187.120.222.12:8000/play/a04o/index.m3u8
+#EXTINF:-1,Film & Arts
+http://187.120.222.12:8000/play/a040/index.m3u8
+#EXTINF:-1,Fish TV HD
+http://187.120.222.12:8000/play/FishTV/index.m3u8
+#EXTINF:-1,GloboNews HD
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://187.120.222.12:8000/play/a00k/index.m3u8
+#EXTINF:-1,HBO HD
+http://187.120.222.12:8000/play/HBOLEG/index.m3u8
+#EXTINF:-1,HBO Signature HD
+http://187.120.222.12:8000/play/a00l/index.m3u8
+#EXTINF:-1,HBO+ HD
+http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://187.120.222.12:8000/play/a00i/index.m3u8
+#EXTINF:-1,Inter TV Cabugi
+http://187.120.222.12:8000/play/InterTVCabugi/index.m3u8
+#EXTINF:-1,Like HD
+http://187.120.222.12:8000/play/Like/index.m3u8
+#EXTINF:-1,MAX UP HD
+http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+#EXTINF:-1,Megapix HD
+http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+#EXTINF:-1,Pai Eterno
+http://187.120.222.12:8000/play/a03x/index.m3u8
+#EXTINF:-1,PlayTV
+http://187.120.222.12:8000/play/PlayTV/index.m3u8
+#EXTINF:-1,Polishop TV
+http://187.120.222.12:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+#EXTINF:-1,Rede Amazħnica Manaus
+http://187.120.222.12:8000/play/RedeAmazonicaManaus/index.m3u8
+#EXTINF:-1,Rede Brasil
+http://187.120.222.12:8000/play/RedeBrasil/index.m3u8
+#EXTINF:-1,Sextreme
+http://187.120.222.12:8000/play/Sextreme/index.m3u8
+#EXTINF:-1,Space HD
+http://187.120.222.12:8000/play/SpaceLEG/index.m3u8
+#EXTINF:-1,TCM
+http://187.120.222.12:8000/play/TCM/index.m3u8
+#EXTINF:-1,TNT HD
+http://187.120.222.12:8000/play/TNTLEG/index.m3u8
+#EXTINF:-1,TNT SØries HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+#EXTINF:-1,TV Brasil
+http://187.120.222.12:8000/play/a041/index.m3u8
+#EXTINF:-1,TV CanĿªo Nova
+http://187.120.222.12:8000/play/CancaoNova/index.m3u8
+#EXTINF:-1,TV Centro AmØrica CuiabÆ
+http://187.120.222.12:8000/play/TVCentroAmericaCuiaba/index.m3u8
+#EXTINF:-1,TV CÐmara
+http://187.120.222.12:8000/play/TVCamara/index.m3u8
+#EXTINF:-1,TV Escola
+http://187.120.222.12:8000/play/TVEscola/index.m3u8
+#EXTINF:-1,TV JustiĿa
+http://187.120.222.12:8000/play/TVJustica/index.m3u8
+#EXTINF:-1,TV Liberal BelØm
+http://187.120.222.12:8000/play/TVLiberalBelem/index.m3u8
+#EXTINF:-1,TV TEM SJRP - Globo HD
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
+#EXTINF:-1,TV Tem Bauru
+http://187.120.222.12:8000/play/TVTemBauru/index.m3u8
+#EXTINF:-1,TV Tem Sorocaba
+http://187.120.222.12:8000/play/TVTemSorocaba/index.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://187.120.222.12:8000/play/TVTribunaSantos/index.m3u8
+#EXTINF:-1,TV Vanguarda S. J. dos Campos
+http://187.120.222.12:8000/play/TVVanguardaSJdosCampos/index.m3u8
+#EXTINF:-1,TV Verdes Mares Fortaleza
+http://187.120.222.12:8000/play/TVVerdesMaresFortaleza/index.m3u8
+#EXTINF:-1,Telecine Action HD
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+#EXTINF:-1,Tooncast
+http://187.120.222.12:8000/play/Tooncast/index.m3u8
+#EXTINF:-1,Trace Brazuca HD
+http://187.120.222.12:8000/play/TraceBrazuca/index.m3u8
+#EXTINF:-1,Universal TV HD
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/a06b/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/a06a/index.m3u8
+#EXTINF:-1,VH1 Mega Hits
+http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
+#EXTINF:-1,Warner HD
+http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+#EXTINF:-1,ZooMoo
+http://187.120.222.12:8000/play/ZooMoo/index.m3u8
