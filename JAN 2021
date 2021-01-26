@@ -1,543 +1,1713 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1uuiA4dsk4ya6t0iXTM50EysLceKkWs4IHw&usqp=CAU" group-title="",Multishow
-http://177.91.162.202:8000/play/Multishow/index.m3u8
-#EXTINF:-1 group-title="Art & Music" tvg-logo="http://z4.vc/6Yx",Multshow FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro +
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" group-title="Hobby",Canal do Boi
-http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/765Cn9I.png" group-title="Education",TV Cultura
-http://177.91.162.202:8000/play/Cultura/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.hdicon.com/wp-content/uploads/2011/03/Animal_Planet_2008.png" group-title="Hobby",Animal Planet
-http://177.91.162.202:8000/play/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.personedesign.com/images/clients/lg/a&e-networks.png" group-title="Hobby",A&E
-http://177.91.162.202:8000/play/AeE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.personedesign.com/images/clients/lg/a&e-networks.png" group-title="Hobby",A&E op2
-http://rtrmsrv22.gq:80/bandeira1/123456/262
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://alltv.com.br/wp-content/uploads/2018/04/logo.png" group-title="General",ALL TV
-https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
-#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="Boa Vontade TV" tvg-language="Portuguese" tvg-logo="https://image.roku.com/developer_channels/prod/c80b4899af083b4cbeec5acbddae68086e0df5ee4301b3a2719bf40a5935aaff.png" group-title="filmes",Paramont
-http://177.91.162.202:8000/play/Paramount/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-mpYRn5dfNhc/WiLAltrofsI/AAAAAAABBx8/UaZMgctSe4UMLTjUN8gy7QeIDAxWkyi2gCPcBGAYYCw/s640/Canal%2BBIS-2.png" group-title="MUSIC",BIS
-http://177.91.162.202:8000/play/BIS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_axn-hd_m.png" group-title="General",AXN
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36991
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religious",Canção Nova
-https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Cartoon Network
-http://177.91.162.202:8000/play/Cartoon/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d2479960a594a0189f1f2e8255f24491.png" group-title="Education",Tooncast
-https://proxyts.canais.gratis:8443/hls1/amc.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7087988a873b3f0d6f9a179e4315a84.png" group-title="News",Home & Health
-http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="News",Discovery Turbo
-http://177.91.162.202:8000/play/DiscoveryTurbo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General",COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/lVXlnL6.png" group-title="Documentary",Discovery
-http://177.91.162.202:8000/play/DiscoveryChannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Kids",Discovery Kids
-http://177.91.162.202:8000/play/DiscoveryKids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png/revision/latest/scale-to-width-down/250?cb=20200705204322" group-title="Kids",TV Ratimbum
-http://177.91.162.202:8000/play/TVRATIMBUM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" group-title="Kids",Disney JR
-http://177.91.162.202:8000/play/DisneyJunior/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://rd1.com.br/wp-content/uploads/2013/02/Disney-Channel-620x477.png" group-title="Kids",Disney Channel
-http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-vF2FdVy6KZA/VvmkzUBGoCI/AAAAAAAApwI/kT6DS3u03nMfOK37GtWqDJYJdyR6ELS9Q/s400/Canal%2BGloob.png" group-title="Kids",Gloob
-http://177.91.162.202:8000/play/Gloob/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Kids",Nickelodeon
-http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/131
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/Nick_Jr.gif" group-title="Kids",Nick JR
-http://177.91.162.202:8000/play/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids-hd_m.png" group-title="Kids",Nick JR
-http://177.91.162.202:8000/play/NatGeoKids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.canalsp.com.br/wp-content/uploads/2019/07/logotipo.png" group-title="Sport",Canal São Paulo
-http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="Sport",ESPN
-http://177.91.162.202:8000/play/ESPN/index.m3u8
-#EXTINF:-1 group-title="Espn opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png",ESPN FHD H265
-http://srv.tvprodigital.net:80/110175/110175/11545
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/1a/0a/62/1a0a6281c17dc5f196b75ac0c95f42ee.jpg" group-title="Sport",ESPN Extra
-http://177.91.162.202:8000/play/ESPNExtra/index.m3u8
-#EXTINF:-1 group-title="Espn opção 2" tvg-logo="http://z4.vc/TAv",ESPN Extra FHD
-http://psrv.io:80/78167984453/snakeplay/18836
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.ibb.co/ncEZQy/1200px_Logo_espnbrasil.png" group-title="Education",ESPN BR
-http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Espn opção 1" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN BRASIL Full_HD H265 2
-http://srv.tvprodigital.net:80/110175/110175/61258
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/474x/08/52/d6/0852d68c9f8a0a20e49d818591861f6f.jpg" group-title="Education",ESPN 2
-http://177.91.162.202:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Espn opção 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png",ESPN 2 Full_HD H265 ²
-http://srv.tvprodigital.net:80/110175/110175/61257
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports
-http://177.91.162.202:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://minutoligado.com.br/wp-content/uploads/2013/04/bandsports.jpg" group-title="Sport",Band Sports op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.vippng.com/png/full/193-1937667_european-cinema-tv-channel-eurochannel-is-launching-logo.png" group-title="Sport",EURO CHANNEL
-http://177.91.162.202:8000/play/Eurochannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/12/sinal-aberto-do-canal-combate-nas-operadoras-oi-tv-sky-e-vivo-tv.jpg" group-title="Sport",Combate
-http://177.91.162.202:8000/play/Combate/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus op2
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tbs-hd_m.png" group-title="",TBS
-http://177.91.162.202:8000/play/TBS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png" group-title="Religious",Cinemax
-http://177.91.162.202:8000/play/Cinemax/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_studio-universal_m.png" group-title="filmes",Studio Universal
-http://177.91.162.202:8000/play/StudioUniversal/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_universal_m.png" group-title="filmes",Canal Universal
-http://177.91.162.202:8000/play/Universal/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png" group-title="Religious",TNT HD
-http://177.91.162.202:8000/play/TNT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title="series",TNT Series
-http://177.91.162.202:8000/play/TNTSeries/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_warner-hd_m.png" group-title="Entertainment",Warner Channel
-http://177.91.162.202:8000/play/Warner/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_warner-hd_m.png" group-title="Entertainment",Warner Channel LEG
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://seeklogo.com/images/C/canal-sony-entretenimiento-logo-D7FD6DCC88-seeklogo.com.png" group-title="Health",SONY
-http://177.91.162.202:8000/play/Sony/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox
-http://177.91.162.202:8000/play/FOX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox op2
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36972
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s75586_h3_aa.png" group-title="Entertainment",Fox life HD
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/50748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Entertainment",MEGAPIX
-http://177.91.162.202:8000/play/Megapix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.canaismax.com/assistir-telecine-premium-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYzOWJkMTc5NTI2NzQ3MGQ4ZDhkZmQ1OTdkZjBhZGYucG5n" group-title="Entertainment",TEL PREMIUM
-http://201.1.151.74:2083/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="Entertainment",TEL ACTION
-http://177.91.162.202:8000/play/TCAction/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png" group-title="Entertainment",TEL Pipoca
-http://177.91.162.202:8000/play/TCPipoca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="Entertainment",TEL FUN
-http://177.91.162.202:8000/play/TCFun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png",TEL TOUCH
-http://177.91.162.202:8000/play/TCTouch/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="Entertainment",Fox Premium
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/68116
-#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 1
-http://pfsv.io:80/96624250/iptv4k/33130
-#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 2
-http://pfsv.io:80/96624250/iptv4k/33131
-#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 3
-http://pfsv.io:80/96624250/iptv4k/33132
-#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 4
-http://pfsv.io:80/96624250/iptv4k/33133
-#EXTINF:-1 tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Canais | Filmes e Séries",Cine Sky 5
-http://pfsv.io:80/96624250/iptv4k/33134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-premium-2-hd_m.png" group-title="Entertainment",Fox Premium 2
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/68118
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports
-http://177.91.162.202:8000/play/FOXSports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6XPNpid.png" group-title="Sport",Fox Sports op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
-#EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="http://z4.vc/nWk",Fox Sports FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/255
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2
-http://177.91.162.202:8000/play/FOXSports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.pinimg.com/originals/b3/52/bb/b352bba5ccbb42af044feb12d4f8835a.jpg" group-title="sports",Fox Sports 2 op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
-#EXTINF:-1 group-title="Fox Sports opção 2" tvg-logo="LINK_LOGO",Fox Sports 2 FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="Entertainment",FX
-http://45.249.9.21:8000/play/a087/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png" group-title="Travel",SPACE
-http://177.91.162.202:8000/play/Space/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV
-http://painel.iptvmove.com:25461/live/danga07/1963/1257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Local",GNT
-http://177.91.162.202:8000/play/GNT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/hbo-2-hd-na-net.jpg" group-title="Education",HBO HD
-http://45.249.9.21:106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/d9dea8ac4682a3f34fe41bc0f2832a46.png" group-title="Education",HBO family
-http://201.1.151.74:2083/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Education",HBO MUNDI
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36911
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/cc4f0ce37f3250f4684cc49221d4e419.png" group-title="Education",HBO POP op2
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36911
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/93aadc0910348fcf43def9484e5f0fc4.png" group-title="Education",HBO SIGNATURE
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36962
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Education",HBO Xtreme
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36912
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/9841b5a4f002c448b04f6ec6138d6533.png" group-title="Education",HBO HD+
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36963
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO 2
-http://tv.minhalista.me:80/2QD0rQazqX/fastiptv/36966
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Education",HBO PLUS
-http://201.1.151.74:2083/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.metropolenews.tv/wp-content/uploads/2020/04/Metropolenews-370x153-1.png" group-title="News",Metrópole News TV
-http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" group-title="General",MKK Web TV
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BMwYjkX.png" group-title="music",MTV Brasil
-http://177.91.162.202:8000/play/MTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://2.bp.blogspot.com/-vjkk7iiADxs/W2Wfn58NNwI/AAAAAAAA3GA/uHiDJQ8Q64UdykK79twZHdad-O3yHlQ8wCLcBGAs/s640/MTV%2BLIVE%2BHD.png" group-title="music",MTV Live
-http://177.91.162.202:8000/play/MTVLIVE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil-hd_m.png" group-title="music",MUSIC BOX BR
-http://177.91.162.202:8000/play/MusicBox/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil-hd_m.png" group-title="music",PRIME BOX BR
-http://177.91.162.202:8000/play/PrimeBox/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="music",NRJ Hits
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="music",KISS TV
-http://televiziune.live/muzica/live1/c3c759d655006d5a061d0225d9a66826/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="music",VH1 Hits
-http://177.91.162.202:8000/play/VH1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="music",1HDMUSIC
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="music",TopTV
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="music",TopTV2
-https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="music",MU music
-http://185.196.182.10:8000/play/a00e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lut.im/LNzSOca1eA/ghZ3V0NImlqhA6U3.gif" group-title="music",TV Max
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f0/Boomerang-CN.png" group-title="Education",Boomerang
-http://177.91.162.202:8000/play/Boomerang/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",TV TEM
-http://201.1.151.74:2083/play/a065/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="BRASIL", TV MANCHETE
-https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44fae4d3394877ed0880e78b4563450d.png" group-title="BRASIL", REDE MANCHETE
-https://stmv.voxtvhd.com.br/redemanchetetv/redemanchetetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (Backup)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education",Portal Cultura Pará
-http://177.91.162.202:8000/play/Cultura/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.puctvgoias.com.br/img/logo.png" group-title="Religious",TV Futura
-https://5a1c76baf08c0.streamlock.net/z01-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="General",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Religious",Rede Brasil de Comunicação
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5VtLILS.png" group-title="General",Rede ConecTV
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Religious",Rede Mão Amiga
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Rede RC
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/7J36CZT89GY86C3.jpg" group-title="Sport",MAX Sports TV
-http://wearethebest.me:8080/get.php?username=flash_maxplus&password=RYRr97FRt6&type=m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",Max sports 2 tv2
-http://mytv.fun:8080/get.php?username=5o6hd3l5zh&password=4l0kd4txsa&type=m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv3
-http://148.63.237.46:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.thelogodb.com/images/media/logo/vpwuyu1470409212.png" group-title="General",SPORTV tv4
-http://148.63.237.46:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn4.cmjornal.pt/images/2017-12/img_900x508$2017_12_15_22_03_01_693072.png" group-title="Sport",SPORTTV1 
-http://77.54.145.209:81/play/a001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV Mais
-https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="Local",Rede TV 4k
-ttp://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9236
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religious",Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="News",Rádio Jornal
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV
-http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/768px-SBT_logo.svg.png" group-title="General",TEL PREM 
-http://201.1.151.74:2083/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",SBT interior
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_.svg/240px-Logotipo_do_SBT.svg.png" group-title="General",SBT PERNAMB
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="General",RECORD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="General",SBT
-http://194.76.186.15:8080/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i0.statig.com.br/bancodeimagens/ec/7e/x7/ec7ex748hlh0jgjqnxq1w3zau.jpg" group-title="General",REDETV
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i0.statig.com.br/bancodeimagens/ec/7e/x7/ec7ex748hlh0jgjqnxq1w3zau.jpg" group-title="General",REDETV TOC
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="education",TV SESC
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="sport",EURO SPORTS 1
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/871
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="sport",EURO SPORTS 2
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/870
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="sport",Arena Sport 1
-http://212.200.127.247:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Logotipo_da_SIC_TV.png" group-title="General",Arena Sport 2
-http://212.200.127.247:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="sport",Arena Sport 3
-http://212.200.127.247:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Logotipo_da_SIC_TV.png" group-title="General",Arena Sport 4
-http://212.200.127.247:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="Local",Arena Sport 5
-http://212.200.127.247:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/272-x-90px.png" group-title="Local",TCM HD
-https://live.tcm10.com.br/tcm10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://4.bp.blogspot.com/-H2N8-gDdjF0/U5csWS1nrmI/AAAAAAAAEGg/fgEjmW0Ii8k/s1600/tv-band.fw.png" group-title="Hobby",BAND
-http://177.91.162.202:8000/play/BandSP/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://logodownload.org/bandnews-logo/bandnews-logo/" group-title="Hobby",BAND NEWS
-http://177.91.162.202:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/GloboNews_2017_alt.svg/revision/latest/scale-to-width-down/200?cb=20191202143201" group-title="Hobby",Globo News
-http://177.91.162.202:8000/play/GloboNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Hobby",Recordo News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.flaticon.com/icons/svg/826/826328.svg" group-title="Hobby",CNN News
-http://177.91.162.202:8000/play/CNNBrasil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Legislative",TV ALRN
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Local",TV Ambiental
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="Religious",TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k8Jjv7U.png" group-title="Local",TV Aplateia
-https://srv-rs1.sisdera.com/hls/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="General",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y0lCaVF.png" group-title="Education",TV Brasil
-https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FheNr9FaZ8o)r(TOqkzw)a(yJA-Sw)p(d(lCo)k(oxE)m(IA7b8MK4SkvqkeGRfgUSPg)n(a(x66bGg)s(oBw)'a(WePXYA)s(ayw)))s(s(x8E)b(UZYBQCCOIXDpAc8L34JabbY9Uic8qXiDP9HL9ICKVwRShvjUJo1x2bvu7genj1M8XOsj6FHY6bj6rrKxiw)'s(kNA)b(jvyfxqQodv55swnsG0bC8gMYsH3rM8t6m-4uZn1k05FrMXKMmzsEe3-dt7rTBK_ozm81Q9-rpXYyW2xELquC5W88UGREbI_dLf-XKEoT)'s(gyw)b(7_4_KmlZ))m(0))/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Local",TV Carioca
-https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://http2.mlstatic.com/premiere-play-1-ano-de-acesso-D_NQ_NP_475321-MLB20772231216_062016-F.jpg" group-title="Local",Premiere 3
-http://177.91.162.202:8000/play/PFC3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fMl8xNTg4MTQwMDU4XzAxMQ/screen-2.jpg?fakeurl=1&type=.jpg" group-title="Local",Premiere 4
-http://177.91.162.202:8000/play/PFC4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fM18xNTg4MTQwMDU4XzA3Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="Local",Premiere 5
-http://177.91.162.202:8000/play/PFC5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://pbs.twimg.com/profile_images/1098552063070478336/zblBTdLO_400x400.jpg" group-title="General",Premiere 6
-http://177.91.162.202:8000/play/PFC6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.contax.net.au/wp-content/uploads/2019/07/7sportlogo02-resized.jpg" group-title="Movies",Premiere 7
-http://177.91.162.202:8000/play/PFC7/index.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="Premiere Opcão 3" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES [4K]
-http://psrv.io:80/78167984453/snakeplay/26184
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 2 FHD
-http://tvaz.top:80/martins/123456/69086
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 3 FHD
-http://tvaz.top:80/martins/123456/69089
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 4 FHD
-http://tvaz.top:80/martins/123456/69092
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 5 FHD
-http://tvaz.top:80/martins/123456/69095
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 6 FHD
-http://tvaz.top:80/martins/123456/69098
-#EXTINF:-1 group-title="Premiere Opcão 1" tvg-logo="http://painelgerenciador.com.br/logos/img/premiere.png",Premiere 7 FHD
-http://tvaz.top:80/martins/123456/69101
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 1
-http://149.62.177.130:3110
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 2
-http://pfsv.io:80/96624250/iptv4k/505
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 3
-http://pfsv.io:80/96624250/iptv4k/506
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 4
-http://pfsv.io:80/96624250/iptv4k/507
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 5
-http://pfsv.io:80/96624250/iptv4k/508
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png" group-title="Canais | Jogos & Eventos",DAZN 6
-http://pfsv.io:80/96624250/iptv4k/509
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzfjeI0Y6OOMtCmvvXNZiGmq7myFuV4nuuiw&usqp=CAU" group-title="Local",SPORTV 3
-http://177.91.162.202:8000/play/SporTV3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzfjeI0Y6OOMtCmvvXNZiGmq7myFuV4nuuiw&usqp=CAU" group-title="Local",SPORTV 3 op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2037
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lh3.googleusercontent.com/8hQLrOT_0BZlwqBguQvhORcWHgbi5ptgkbG6GkSbWQMYwrQZWd16VvrQuKuJgq-3rM4=w300" group-title="Legislative",SPORT TV
-http://177.91.162.202:8000/play/SporTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://lh3.googleusercontent.com/8hQLrOT_0BZlwqBguQvhORcWHgbi5ptgkbG6GkSbWQMYwrQZWd16VvrQuKuJgq-3rM4=w300" group-title="Legislative",SPORTV op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
-#EXTINF:-1 group-title="SporTv opção 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png",SPORTV FHD H265¹
-http://brasiltv2020.live:80/deyamedeiros/121148/30191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2
-http://177.91.162.202:8000/play/SporTV2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/Pps2dak.png" group-title="Legislative",Sportv 2 op2
-http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC
-http://177.91.162.202:8000/play/PFC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC op2
-http://canaishd.servidor.tv:8080/jessica1/12345/1447
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/537
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19pY29uXzE1ODgxNDAwNTdfMDQ4/icon.png?w=340&fakeurl=1" group-title="Lifestyle",PFC FHD op2
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30287
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmxlYmEwMDEuY2FtaXNhc3BmY19zY3JlZW5fNF8xNTg4MTQwMDU4XzA5NQ/screen-4.jpg?fakeurl=1&type=.jpg" group-title="General",PFC 2
-http://177.91.162.202:8000/play/PFC2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png" group-title="Local",AMC
-http://177.91.162.202:8000/play/AMC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://goo.gl/2RTAoW" group-title="Local",DAZN
-http://canaishd.servidor.tv:8080/jessica1/12345/2716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aU56c0K.png" group-title="Education",TV Escola
-https://video-rvd-lmg.rnp.br/live/ocp(t(FfZfeFx3QG4)r(TOqkzw)a(ut273w)p(d(lCo)k(ow4)m(U1zbeMZOcvuVp_PjPC5VeA)n(a(-xL_Aw)s(yeg)'a(vuk2sg)s(3Rc)))s(s(2h8)b(OVsX9brZ0psZeMaQYt9O46THOxFsPHFB6R_YrLO_lAYLehFKlBcB3utUOhZjyWY7C52ngNY4Ow9Ook29TA)'s(gRY)b(iE9B80a6sOKUZn0UnLJQU_bKwqIDP29GWBxvJz1bQ1ihEmrOuDaUGTinW0l8unt4U9_v4jCwiAC2T6TOa8pgVRIAfsnYG9Y7VoI5EmwQ)'s(A4Q)b(ayZ0dwLn))m(0))/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7BvCLKx.png" group-title="Religious",TV Evangelizar
-http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/y2gZuyq.png" group-title="Education",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Local",TV Galega Blumenau
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="General",TV Gazeta
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/z5HMLv9.png" group-title="Religious",TV Gideões
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rV2gLby.png" group-title="Local",TV Grande Natal
-https://edge1o.live.opencaster.com/caster/iwryaujuiHbh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV Guará
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.caikron.com.br/player/mi/caikron_fundo_tvmi_original.jpg" group-title="Religious",TV Imaculada Conceição
-https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Uw5OVrp.png" group-title="Education",TV INES
-https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(Fgpa5wEsuf8)r(TOqkzw)a(yRHT7Q)p(d(lCo)k(oxA)m(zMirtDXOzRiGFE--rICLPQ)n(a(Lthy3Q)s(Ej4)'a(NJwh9g)s(zXs)))s(s(s5s)b(1vFxfSl64lsyrMp-rgKYt3hj9N6RyXtaBnHJ8cHFqH-ECFVBTklzztk1TjHMW5HU5VgtntpS63HLliqmfw)'s(Sxk)b(AcTPBCndRF6ctDEz5t5kliVx1l2jSGdra017xcNc1UsYdpSgWfpwTRTJfuBWGpDkviPsnGDV2F8T-U7WDGvCp-OaVhGVMjEz7kbaFXaI)'s(QXw)b(0etk9fLs))m(0))/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Local",TV Interlagos
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="Local",TV Brasil
-http://177.91.162.202:8000/play/CanalBrasil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="Education",TV Brasil 2
-https://video-rvd-df-2.rnp.br/live/ocp(t(FiGx6oOnx84)r(fVR9ug)a(vwXHyA)p(d(aGg)k(qNY)m(0XbCFOu2OzOuwwpMs8Mifg)n(a(5EiXxw)s(TAY)'a(7d2h1w)s(k2g)))s(s(K_E)b(DlFw6Sb0Ng52SSGp55dBX2Ez0sKJVtOlsRp2Z7xkoaPrwpejVh77szaZQAJevPnJj7Lu03hKAYUE_MXyRQ)'s(7R0)b(7jiY1Bi5K8coHQqqfULHa93gm_bfkAWQKDHUOCbv5wLggdKP_QbxH21C1j-qMljo2tcyM7Gt4ppPrSWJgn4-H7nJweKF9Aq5L7lvMQmG)'s(n2I)b(BYKp6cXj))m(0))/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/srqLrr8.png" group-title="Local",TV Mar Maceió
-https://v7.ciclano.io:1443/tvmar/tvmar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OMf3oG9.png" group-title="Local",TV Max Rio
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Local",TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="http://www.tvnailha.com.br/img/284974862.png" group-title="Local",TV na Ilha
-https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7W18QzY.png" group-title="Local",TV Natal
-https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TV_Nova_Nordeste.png" group-title="Education",TV Nova Nordeste
-https://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Logotipo_da_TV_O_Povo.png" group-title="Education",TV O Povo
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religious",TV Pai Eterno (Backup)
-http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="General",TV Pampa RedeTV RS
-https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Travel",TV Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="Religious",TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/640px-TV_Senado.svg.png" group-title="Legislative",TV Senado
-http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tvsd.com.br/logo-dark.png" group-title="General",TV Serra Dourada
-https://5a7bcfb834235.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="General",TV Sol
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Local",TV Sol Comunidade
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="Religious",TV Terceiro Anjo
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7bTT8mw.png" group-title="General",TV Transamérica
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="General",TV Tropical RN
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="Education",TV UFG
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://radio.ufop.br/sites/default/files/15139691916641.png" group-title="Education",TV UFOP
-https://video-rvd-rj-1.rnp.br/live/ocp(t(Fgpcfnh3KgU)r(TOqkzw)a(yRHT7Q)p(d(lCo)k(oxA)m(1eGHl2pUSxJ7TH3XIGaRKQ)n(a(mavTDg)s(tA8)'a(BYMJ9A)s(554)))s(s(Nsg)b(wXYqxYsZIg8i7hBpwi99EyIPA4MiSGrf4xlb5wfrfhf_dEkV39LxBVffoEBwNgFDyvu3_Hg0nY2uoiye9g)'s(0Qg)b(FxHfCxL9apSCFCtVMFhXLRcQHEr43Y2KNmIanXL_vW5-pkeqZceYUpFhNNaGS_R0KvW2hGInG5zC8I4V4ztHJeY0Fj75u5UtLKA5VXy2)'s(CzE)b(q1dQdK9k))m(0))/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LuJkxc6.png" group-title="Education",TV UFSC
-http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iwCbtKU.jpg" group-title="Education",TV UNESP
-https://video.unesp.br/live/indoor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YgLLCq6.png" group-title="Education",TV UNISC
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic-hd_m.png" group-title="Religious",National Geographic
-http://177.91.162.202:8000/play/NatGeo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img2.gratispng.com/20180620/ayh/kisspng-nat-geo-wild-television-channel-national-geographi-live-stream-5b2a2c58ddf522.6824931215294905209092.jpg" group-title="Education",NAT GEO WILD
-http://177.91.162.202:8000/play/NatGeoWild/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="General",TV União DF
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1mK39TC.png" group-title="General",TV Verdes Campos
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.imgur.com/pnbqx6r.png" group-title="General",TV8
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="General",TVCI Paranaguá
-http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Local",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Local",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/8OrN6Gs.png" group-title="Education",TVU Recife
-http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_playboy_m.png" group-title="adult",PLAY
-http://177.91.162.202:8000/play/Playboy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vuihRMl.png" group-title="adult",Venus HD
-http://connecttvapp.xyz:80/642cDPfxb4/KL9ppeGWxZ/225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PPX68cv.png" group-title="adult",Hustler TV
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18095
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",PENTHOUSE gold
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",BRAZZERS
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18121
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",BRAZZERS 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7577
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Reality Kings
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="adult",sextreme
-http://187.120.222.12:8000/play/Sextreme/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",HOT
-http://185.236.229.2:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",SEXY HOT
-http://freshonyx.top:8080/Marcio1/Marcio1/98645
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="adult",SEXY HOT FHD
-http://freshonyx.top:8080/Marcio1/Marcio1/98372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hustler BLUE
-http://178.217.72.66/225.201.2.61/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hustler BLUE op2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hot club
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9615
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hot club 2
-http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/9623
+#EXTINF:0 tvg-id="Globorj.br" group-title="CONVENCIONAL",GLOBO RJ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115229
+#EXTINF:0 tvg-id="Globosp.br" group-title="CONVENCIONAL",GLOBO SP FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115247
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",A&E FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100790
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",AMC FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100791
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CONVENCIONAL",ANIMAL PLANET FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100792
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",AXN FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100793
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",BAND SPORTS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100794
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",BIS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100795
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",BOOMERANG FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100796
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",CANAL SONY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100797
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",CARTOON NETWORK FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100798
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",CINEMAX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100799
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",COMBATE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100800
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",COMEDY CENTRAL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100801
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY CHANNEL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100802
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY HOME & HEALTH FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100804
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY KIDS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100805
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY SCIENCE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100806
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY THEATER FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100807
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY TURBO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100808
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISCOVERY WORLD FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100809
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISNEY CHANNEL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100810
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",DISNEY JUNIOR FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100811
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",E! FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100812
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",ESPN 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100815
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",ESPN BRASIL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100816
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",ESPN EXTRA FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100813
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",ESPN FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100814
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FISHTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100817
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FOODNETWORK FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100818
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FOX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100819
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FOX PREMIUM 1 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100820
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FOX PREMIUM 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100821
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FOX SPORTS 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100823
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FOX SPORTS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100822
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",FX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100824
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",GNT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100826
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",H2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100833
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100829
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO FAMILLY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100827
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100828
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO MUNDI FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100837
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO PLUS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100830
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO POP FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100839
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO SIGNATURE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100831
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HBO XTREME FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100838
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HGTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100803
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",HISTORY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100832
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",INVESTIGATION DISCOVERY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100834
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",LIFETIME FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100835
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",MAISGLOBOSAT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100836
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",MEGAPIX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100840
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",MTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100841
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",MULTISHOW FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100842
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",NATGEO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100843
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",NATGEO WILD FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100844
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",NATGEOKIDS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100845
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",NICKELODEON FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100846
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",NICKJR FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100847
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",OFF FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100848
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PARAMOUNT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100849
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE CLUBES FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100850
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100851
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE3 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100852
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE4 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100853
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE5 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100854
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE6 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100855
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",PREMIERE7 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100856
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",SPACE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100857
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",SPORTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100858
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",SPORTV2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100859
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",SPORTV3 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100860
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",STUDIO UNIVERSAL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100861
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",SYFY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100862
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TBS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100863
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TELECINE ACTION FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100864
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TELECINE CULT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100865
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TELECINE FUN FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100866
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TELECINE PIPOCA FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100867
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TELECINE PREMIUM FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100868
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TELECINE TOUCH FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100869
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TLC FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100870
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TNT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100871
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",TNT SERIES FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100872
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",UNIVERSAL TV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100873
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",VH1 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100874
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",WARNER FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100875
+#EXTINF:0 tvg-id="ext" group-title="CONVENCIONAL",WOOHOO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100876
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",Hustler HD
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18094
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",PINk EROT 1
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18099
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",PINk EROT 2
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18098
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",PINk EROT 3
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",PINk EROT 4
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="" group-title="adult",HOT pleasure
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18104
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 1 HD
-http://201.1.151.74:2083/play/a061/index.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 10 HD
-http://92.246.85.75:4000/play/a01d
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 2 HD
-http://srvx.io:80/Maciel27/Maciel2020/47396
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 3 HD
-http://srvx.io:80/Maciel27/Maciel2020/47397
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 4 HD
-http://srvx.io:80/Maciel27/Maciel2020/47398
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 5 HD
-http://srvx.io:80/Maciel27/Maciel2020/47399
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 6 HD
-http://srvx.io:80/Maciel27/Maciel2020/48135
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 7 HD
-http://srvx.io:80/Maciel27/Maciel2020/48136
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 8 HD
-http://srvx.io:80/Maciel27/Maciel2020/48137
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/6jo",Cine SKY 9 HD
-http://srvx.io:80/Maciel27/Maciel2020/48138
+#EXTINF:0 tvg-id="Ae.br" group-title="CANAIS: FILMES E SERIES",A&E HD
+http://familytv.net:80/fabricio2030/fabricio2040/40074
+#EXTINF:0 tvg-id="Amc.br" group-title="CANAIS: FILMES E SERIES",AMC HD
+http://familytv.net:80/fabricio2030/fabricio2040/40076
+#EXTINF:0 tvg-id="Axn.br" group-title="CANAIS: FILMES E SERIES",AXN HD
+http://familytv.net:80/fabricio2030/fabricio2040/40078
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
+http://familytv.net:80/fabricio2030/fabricio2040/40082
+#EXTINF:0 tvg-id="Cinemax.br" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
+http://familytv.net:80/fabricio2030/fabricio2040/40080
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS: FILMES E SERIES",FOX HD
+http://familytv.net:80/fabricio2030/fabricio2040/40084
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 1 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40086
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40088
+#EXTINF:0 tvg-id="Fx.br" group-title="CANAIS: FILMES E SERIES",FX HD
+http://familytv.net:80/fabricio2030/fabricio2040/40090
+#EXTINF:0 tvg-id="Megapix.br" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+http://familytv.net:80/fabricio2030/fabricio2040/40092
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://familytv.net:80/fabricio2030/fabricio2040/57188
+#EXTINF:0 tvg-id="Space.br" group-title="CANAIS: FILMES E SERIES",SPACE HD
+http://familytv.net:80/fabricio2030/fabricio2040/40096
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
+http://familytv.net:80/fabricio2030/fabricio2040/40098
+#EXTINF:0 tvg-id="Syfy.br" group-title="CANAIS: FILMES E SERIES",SYFY HD
+http://familytv.net:80/fabricio2030/fabricio2040/40100
+#EXTINF:0 tvg-id="Tbs.br" group-title="CANAIS: FILMES E SERIES",TBS HD
+http://familytv.net:80/fabricio2030/fabricio2040/40102
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS: FILMES E SERIES",TNT FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99045
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS: FILMES E SERIES",TNT HD²
+http://familytv.net:80/fabricio2030/fabricio2040/40106
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS: FILMES E SERIES",TNT HD³
+http://familytv.net:80/fabricio2030/fabricio2040/96642
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS: FILMES E SERIES",TNT HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/57191
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
+http://familytv.net:80/fabricio2030/fabricio2040/40108
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://familytv.net:80/fabricio2030/fabricio2040/107276
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
+http://familytv.net:80/fabricio2030/fabricio2040/40110
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD
+http://familytv.net:80/fabricio2030/fabricio2040/40112
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57184
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",AGRO CANAL
+http://familytv.net:80/fabricio2030/fabricio2040/111096
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND BSB ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39889
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND CAMPINAS ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39890
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND RJ ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39891
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND RS ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39892
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND SERGIPE ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39893
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND SP ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39894
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND TV GOIANIA ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39896
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS: ABERTOS",CANAL DO BOI
+http://familytv.net:80/fabricio2030/fabricio2040/111091
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS: ABERTOS",CANAL RURAL
+http://familytv.net:80/fabricio2030/fabricio2040/111093
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
+http://familytv.net:80/fabricio2030/fabricio2040/39895
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS: ABERTOS",REDE TV HD
+http://familytv.net:80/fabricio2030/fabricio2040/39920
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",SBT PARANA ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39913
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",SBT RJ ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39900
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",SBT RS ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39901
+#EXTINF:0 tvg-id="Sbtsp.br" group-title="CANAIS: ABERTOS",SBT SP
+http://familytv.net:80/fabricio2030/fabricio2040/99762
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",SBT TV ALTEROSA ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39911
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",SBT TV SERRA DOURADA ¹
+http://familytv.net:80/fabricio2030/fabricio2040/39898
+#EXTINF:0 tvg-id="Terraviva.br" group-title="CANAIS: ABERTOS",TERRA VIVA
+http://familytv.net:80/fabricio2030/fabricio2040/111094
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV CULTURA HD
+http://familytv.net:80/fabricio2030/fabricio2040/40750
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV DIARIO HD
+http://familytv.net:80/fabricio2030/fabricio2040/93739
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV GERMANA
+http://familytv.net:80/fabricio2030/fabricio2040/120740
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",Rede Brasil (SP)
+http://familytv.net:80/fabricio2030/fabricio2040/67325
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND BAHIA
+http://familytv.net:80/fabricio2030/fabricio2040/98947
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BAND LIVRE SP
+http://familytv.net:80/fabricio2030/fabricio2040/67323
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",BONS TEMPOS TV
+http://familytv.net:80/fabricio2030/fabricio2040/111092
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",CANAL 29 SERIES ANTIGAS
+http://familytv.net:80/fabricio2030/fabricio2040/75389
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",Krónos Movie
+http://familytv.net:80/fabricio2030/fabricio2040/94236
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",Latinasat Web TV
+http://familytv.net:80/fabricio2030/fabricio2040/67340
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",NTVBR TV
+http://familytv.net:80/fabricio2030/fabricio2040/96759
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",PPTV CHANNEL
+http://familytv.net:80/fabricio2030/fabricio2040/111097
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",RECORD TV RS
+http://familytv.net:80/fabricio2030/fabricio2040/67324
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",REDE TV SUL1
+http://familytv.net:80/fabricio2030/fabricio2040/111098
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS: ABERTOS",SBT
+http://familytv.net:80/fabricio2030/fabricio2040/42556
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV EVANGELIZAR
+http://familytv.net:80/fabricio2030/fabricio2040/98305
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",Tv Itapetininga
+http://familytv.net:80/fabricio2030/fabricio2040/47915
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV MANCHETE
+http://familytv.net:80/fabricio2030/fabricio2040/75388
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV RECON SAT KIDS
+http://familytv.net:80/fabricio2030/fabricio2040/111095
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",TV RWCG filmes
+http://familytv.net:80/fabricio2030/fabricio2040/94239
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTOS",NOVA TV VALE
+http://familytv.net:80/fabricio2030/fabricio2040/115838
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES",ALL SPORTS
+http://familytv.net:80/fabricio2030/fabricio2040/96646
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS: ESPORTES",BAND SPORTS FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99027
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS: ESPORTES",BAND SPORTS HD
+http://familytv.net:80/fabricio2030/fabricio2040/40114
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS: ESPORTES",BAND SPORTS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57148
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99044
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE HD
+http://familytv.net:80/fabricio2030/fabricio2040/40116
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS: ESPORTES",COMBATE HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57149
+#EXTINF:0 tvg-id="ESPN+.br" group-title="CANAIS: ESPORTES",ESPN 2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99031
+#EXTINF:0 tvg-id="ESPN+.br" group-title="CANAIS: ESPORTES",ESPN 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40121
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS: ESPORTES",ESPN BRASIL HD
+http://familytv.net:80/fabricio2030/fabricio2040/107228
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS: ESPORTES",ESPN BRASIL HD*
+http://familytv.net:80/fabricio2030/fabricio2040/107227
+#EXTINF:0 tvg-id="Espnextra.br" group-title="CANAIS: ESPORTES",ESPN EXTRA FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99029
+#EXTINF:0 tvg-id="Espnextra.br" group-title="CANAIS: ESPORTES",ESPN EXTRA HD
+http://familytv.net:80/fabricio2030/fabricio2040/40124
+#EXTINF:0 tvg-id="Fishtv.br" group-title="CANAIS: ESPORTES",FISH TV HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57150
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="CANAIS: ESPORTES",FOX SPORTS 2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99032
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="CANAIS: ESPORTES",FOX SPORTS 2 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57152
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS: ESPORTES",FOX SPORTS FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99033
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS: ESPORTES",FOX SPORTS HD
+http://familytv.net:80/fabricio2030/fabricio2040/40129
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS: ESPORTES",FOX SPORTS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57151
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="CANAIS: ESPORTES",GOLF CHANNEL HD
+http://familytv.net:80/fabricio2030/fabricio2040/99043
+#EXTINF:0 tvg-id="Off.br" group-title="CANAIS: ESPORTES",OFF HD
+http://familytv.net:80/fabricio2030/fabricio2040/40131
+#EXTINF:0 tvg-id="Off.br" group-title="CANAIS: ESPORTES",OFF HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57159
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/100786
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS: ESPORTES",SPORTV 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40135
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS: ESPORTES",SPORTV 2 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57157
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/100787
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS: ESPORTES",SPORTV 3 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40136
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS: ESPORTES",SPORTV 3 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57158
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS: ESPORTES",SPORTV FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/100785
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS: ESPORTES",SPORTV HD
+http://familytv.net:80/fabricio2030/fabricio2040/40137
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS: ESPORTES",SPORTV HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57156
+#EXTINF:0 tvg-id="Woohoo.br" group-title="CANAIS: ESPORTES",WOOHOO HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57160
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="CANAIS: ESPORTES",ESPN FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/115834
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="CANAIS: ESPORTES",ESPN HD*
+http://familytv.net:80/fabricio2030/fabricio2040/115835
+#EXTINF:0 tvg-id="ESPNInternational.br" group-title="CANAIS: ESPORTES",ESPN HD
+http://familytv.net:80/fabricio2030/fabricio2040/115837
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS: 4K",ANIMAL PLANET 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58401
+#EXTINF:0 tvg-id="BandRede.br" group-title="CANAIS: 4K",BAND
+http://familytv.net:80/fabricio2030/fabricio2040/58395
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",CARTOON NETWORK 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58399
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",COMBATE 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58400
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",DISCOVERY CHANNEL 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58413
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",ESPN 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58414
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",FOX SPORTS 2 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58415
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS: 4K",FOX SPORTS 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58416
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",GAZETA
+http://familytv.net:80/fabricio2030/fabricio2040/58398
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS: 4K",GLOBO
+http://familytv.net:80/fabricio2030/fabricio2040/58394
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",HB 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58402
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS: 4K",HBO
+http://familytv.net:80/fabricio2030/fabricio2040/115163
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",MEGAPIX 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58403
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",MULTISHOW 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58404
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",NATIONAL GEOGRAPHIC 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58405
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",PREMIERE 1 CLUBES
+http://familytv.net:80/fabricio2030/fabricio2040/58396
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS: 4K",RECORDTV
+http://familytv.net:80/fabricio2030/fabricio2040/58397
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",REDE TV 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58406
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",SBT 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58407
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",SPACE 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58408
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: 4K",SPORTV 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58409
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS: 4K",TELECINE PIPOCA 4K
+http://familytv.net:80/fabricio2030/fabricio2040/115162
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS: 4K",TELECINE PREMIUM 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58410
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS: 4K",TNT 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58411
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS: 4K",TNT SERIES 4K
+http://familytv.net:80/fabricio2030/fabricio2040/58412
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99064
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
+http://familytv.net:80/fabricio2030/fabricio2040/40003
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57161
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99068
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://familytv.net:80/fabricio2030/fabricio2040/40005
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57165
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CIVILIZATION HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57169
+#EXTINF:0 tvg-id="Homehealth.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99067
+#EXTINF:0 tvg-id="Homehealth.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://familytv.net:80/fabricio2030/fabricio2040/40007
+#EXTINF:0 tvg-id="Homehealth.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57168
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://familytv.net:80/fabricio2030/fabricio2040/40009
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57166
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD
+http://familytv.net:80/fabricio2030/fabricio2040/40011
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57170
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
+http://familytv.net:80/fabricio2030/fabricio2040/40013
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57167
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99062
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
+http://familytv.net:80/fabricio2030/fabricio2040/40015
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57172
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99066
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40019
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS: DOCUMENTARIOS",H2 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57163
+#EXTINF:0 tvg-id="HGTV.pl" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
+http://familytv.net:80/fabricio2030/fabricio2040/40021
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99041
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
+http://familytv.net:80/fabricio2030/fabricio2040/40017
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57162
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
+http://familytv.net:80/fabricio2030/fabricio2040/40023
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57171
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="CANAIS: DOCUMENTARIOS",LOVE NATURE
+http://familytv.net:80/fabricio2030/fabricio2040/40001
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99065
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
+http://familytv.net:80/fabricio2030/fabricio2040/40025
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57164
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99063
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
+http://familytv.net:80/fabricio2030/fabricio2040/40027
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57173
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
+http://familytv.net:80/fabricio2030/fabricio2040/40028
+#EXTINF:0 tvg-id="Tlc.br" group-title="CANAIS: DOCUMENTARIOS",TLC HD
+http://familytv.net:80/fabricio2030/fabricio2040/57186
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
+http://familytv.net:80/fabricio2030/fabricio2040/58503
+
+
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",AQUECIMENTO BBB 2021
+http://familytv.net:80/fabricio2030/fabricio2040/113668
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",AQUECIMENTO BBB 21²
+http://familytv.net:80/fabricio2030/fabricio2040/115396
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB  21 SD²
+http://familytv.net:80/fabricio2030/fabricio2040/120039
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 21 FHD
+http://familytv.net:80/fabricio2030/fabricio2040/120040
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 21 HD
+http://familytv.net:80/fabricio2030/fabricio2040/120041
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 21 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/120042
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 21 HD³
+http://familytv.net:80/fabricio2030/fabricio2040/120043
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 21 SD
+http://familytv.net:80/fabricio2030/fabricio2040/120044
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 1 FullHD*
+http://familytv.net:80/fabricio2030/fabricio2040/120045
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 1 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/120046
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 1 SD*
+http://familytv.net:80/fabricio2030/fabricio2040/120047
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 2 FullHD*
+http://familytv.net:80/fabricio2030/fabricio2040/120048
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 2 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/120049
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 2 SD*
+http://familytv.net:80/fabricio2030/fabricio2040/120050
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 3 FullHD*
+http://familytv.net:80/fabricio2030/fabricio2040/120051
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 3 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/120052
+#EXTINF:0 tvg-id="ext" group-title="BBB 2021",BBB 3 SD*
+http://familytv.net:80/fabricio2030/fabricio2040/120053
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",AXN FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99103
+#EXTINF:0 tvg-id="Axnhd.br" group-title="CANAIS: LEGENDADOS",AXN HD
+http://familytv.net:80/fabricio2030/fabricio2040/99104
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",FOX FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99101
+#EXTINF:0 tvg-id="Foxhd.br" group-title="CANAIS: LEGENDADOS",FOX HD
+http://familytv.net:80/fabricio2030/fabricio2040/99102
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 1 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99105
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 1 HD
+http://familytv.net:80/fabricio2030/fabricio2040/99106
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99107
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/99108
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99089
+#EXTINF:0 tvg-id="Hbohd.br" group-title="CANAIS: LEGENDADOS",HBO HD
+http://familytv.net:80/fabricio2030/fabricio2040/99090
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS: LEGENDADOS",HBO MUNDI FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/99095
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS: LEGENDADOS",HBO MUNDI HD
+http://familytv.net:80/fabricio2030/fabricio2040/99096
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO PLUS FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99091
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="CANAIS: LEGENDADOS",HBO PLUS HD
+http://familytv.net:80/fabricio2030/fabricio2040/99092
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO POP FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99097
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO POP HD
+http://familytv.net:80/fabricio2030/fabricio2040/99098
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO SIGNATURE FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99093
+#EXTINF:0 tvg-id="Hbosighd.br" group-title="CANAIS: LEGENDADOS",HBO SIGNATURE HD
+http://familytv.net:80/fabricio2030/fabricio2040/99094
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO XTREAM HD
+http://familytv.net:80/fabricio2030/fabricio2040/99100
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",HBO XTREME FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99099
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE ACTION FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99081
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS: LEGENDADOS",TELECINE ACTION HD
+http://familytv.net:80/fabricio2030/fabricio2040/99082
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE FUN FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99085
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE FUN HD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99086
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99077
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS: LEGENDADOS",TELECINE PIPOCA HD
+http://familytv.net:80/fabricio2030/fabricio2040/99078
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99079
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS: LEGENDADOS",TELECINE PREMIUM HD
+http://familytv.net:80/fabricio2030/fabricio2040/99080
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE TOUCH FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99083
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="CANAIS: LEGENDADOS",TELECINE TOUCH HD
+http://familytv.net:80/fabricio2030/fabricio2040/99084
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: LEGENDADOS",TELECINE CULT FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99087
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="CANAIS: LEGENDADOS",TELECINE CULT HD
+http://familytv.net:80/fabricio2030/fabricio2040/99088
+
+#EXTINF:0 tvg-id="BabyTV.br" group-title="CANAIS: INFANTIS",BABYTV HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57195
+#EXTINF:0 tvg-id="Boomerang.br" group-title="CANAIS: INFANTIS",BOOMERANG HD
+http://familytv.net:80/fabricio2030/fabricio2040/57199
+#EXTINF:0 tvg-id="Boomerang.br" group-title="CANAIS: INFANTIS",BOOMERANG HD+
+http://familytv.net:80/fabricio2030/fabricio2040/88705
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD
+http://familytv.net:80/fabricio2030/fabricio2040/40031
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57200
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD
+http://familytv.net:80/fabricio2030/fabricio2040/40033
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57201
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="CANAIS: INFANTIS",DISNEY CHANNEL  HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57202
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="CANAIS: INFANTIS",DISNEY CHANNEL HD
+http://familytv.net:80/fabricio2030/fabricio2040/40035
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD
+http://familytv.net:80/fabricio2030/fabricio2040/40037
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57198
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="CANAIS: INFANTIS",DISNEY XD HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57197
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",GLOBINHO
+http://familytv.net:80/fabricio2030/fabricio2040/42746
+#EXTINF:0 tvg-id="Gloob.br" group-title="CANAIS: INFANTIS",GLOOB HD
+http://familytv.net:80/fabricio2030/fabricio2040/40039
+#EXTINF:0 tvg-id="Gloob.br" group-title="CANAIS: INFANTIS",GLOOB HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57203
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",LOADING FullHD
+http://familytv.net:80/fabricio2030/fabricio2040/109710
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",NATGEO KIDS HD
+http://familytv.net:80/fabricio2030/fabricio2040/40041
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",NATGEO KIDS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57204
+#EXTINF:0 tvg-id="NickJr.br" group-title="CANAIS: INFANTIS",NICK JR HD
+http://familytv.net:80/fabricio2030/fabricio2040/40045
+#EXTINF:0 tvg-id="NickJr.br" group-title="CANAIS: INFANTIS",NICK JR HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57205
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="CANAIS: INFANTIS",NICKELODEON HD
+http://familytv.net:80/fabricio2030/fabricio2040/40043
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="CANAIS: INFANTIS",NICKELODEON HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57206
+#EXTINF:0 tvg-id="Tooncast.br" group-title="CANAIS: INFANTIS",TOONCAST HD
+http://familytv.net:80/fabricio2030/fabricio2040/57196
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="CANAIS: INFANTIS",TV RA TIM BUM HD
+http://familytv.net:80/fabricio2030/fabricio2040/40046
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="CANAIS: INFANTIS",ZOOMOO HD
+http://familytv.net:80/fabricio2030/fabricio2040/57208
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",Retrô Cartoon
+http://familytv.net:80/fabricio2030/fabricio2040/67329
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",3ABN KIDS
+http://familytv.net:80/fabricio2030/fabricio2040/96645
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",GOSPEL CARTOON
+http://familytv.net:80/fabricio2030/fabricio2040/67336
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIS",KURIAKOS KIDS
+http://familytv.net:80/fabricio2030/fabricio2040/75387
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="CANAIS: NOTICIAS",BAND NEWS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57223
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: NOTICIAS",BLOOMBERG PT *
+http://familytv.net:80/fabricio2030/fabricio2040/95846
+#EXTINF:0 tvg-id="bloomberg" group-title="CANAIS: NOTICIAS",BLOOMBERG USA *
+http://familytv.net:80/fabricio2030/fabricio2040/95847
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: NOTICIAS",CNN BRASIL HD²
+http://familytv.net:80/fabricio2030/fabricio2040/39939
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: NOTICIAS",CNN BRASIL HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/39937
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
+http://familytv.net:80/fabricio2030/fabricio2040/39941
+#EXTINF:0 tvg-id="Globonews.br" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57225
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: NOTICIAS",NHK HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57221
+#EXTINF:0 tvg-id="Nhk.br" group-title="CANAIS: NOTICIAS",NHK JAPÃO  HD
+http://familytv.net:80/fabricio2030/fabricio2040/99367
+#EXTINF:0 tvg-id="Recordnews.br" group-title="CANAIS: NOTICIAS",RECORD NEWS HD
+http://familytv.net:80/fabricio2030/fabricio2040/39936
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: NOTICIAS",NHK ALTER
+http://familytv.net:80/fabricio2030/fabricio2040/67328
+
+#EXTINF:0 tvg-id="Bis.br" group-title="CANAIS: VARIEDADES",BIS HD
+http://familytv.net:80/fabricio2030/fabricio2040/40052
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
+http://familytv.net:80/fabricio2030/fabricio2040/40054
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57215
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: VARIEDADES",CURTA! HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57210
+#EXTINF:0 tvg-id="DogTV354.us" group-title="CANAIS: VARIEDADES",DOG TV HD
+http://familytv.net:80/fabricio2030/fabricio2040/99040
+#EXTINF:0 tvg-id="E.br" group-title="CANAIS: VARIEDADES",E! HD
+http://familytv.net:80/fabricio2030/fabricio2040/40056
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
+http://familytv.net:80/fabricio2030/fabricio2040/40058
+#EXTINF:0 tvg-id="Foxlife.br" group-title="CANAIS: VARIEDADES",FOX LIFE HD
+http://familytv.net:80/fabricio2030/fabricio2040/57219
+#EXTINF:0 tvg-id="Gnt.br" group-title="CANAIS: VARIEDADES",GNT HD
+http://familytv.net:80/fabricio2030/fabricio2040/40061
+#EXTINF:0 tvg-id="Gnt.br" group-title="CANAIS: VARIEDADES",GNT HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57213
+#EXTINF:0 tvg-id="Lifetime.br" group-title="CANAIS: VARIEDADES",LIFETIME HD
+http://familytv.net:80/fabricio2030/fabricio2040/40063
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT
+http://familytv.net:80/fabricio2030/fabricio2040/100770
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS: VARIEDADES",MTV HD
+http://familytv.net:80/fabricio2030/fabricio2040/40067
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS: VARIEDADES",MTV HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57217
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS: VARIEDADES",MULTISHOW HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57212
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS: VARIEDADES",MULTSHOW HD
+http://familytv.net:80/fabricio2030/fabricio2040/100771
+#EXTINF:0 tvg-id="Trutv.br" group-title="CANAIS: VARIEDADES",TRUTV
+http://familytv.net:80/fabricio2030/fabricio2040/99109
+#EXTINF:0 tvg-id="VH1.br" group-title="CANAIS: VARIEDADES",VH1 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40071
+#EXTINF:0 tvg-id="Viva.br" group-title="CANAIS: VARIEDADES",VIVA HD
+http://familytv.net:80/fabricio2030/fabricio2040/40072
+#EXTINF:0 tvg-id="Viva.br" group-title="CANAIS: VARIEDADES",VIVA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/45502
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: VARIEDADES",SHOPTIME HD
+http://familytv.net:80/fabricio2030/fabricio2040/120442
+#EXTINF:0 tvg-id="Polishop.br" group-title="CANAIS: VARIEDADES",POLISHOP TV
+http://familytv.net:80/fabricio2030/fabricio2040/120443
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 01 FHD (CANAL EXTRA)
+http://familytv.net:80/fabricio2030/fabricio2040/110895
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 02 FHD (CANAL EXTRA)
+http://familytv.net:80/fabricio2030/fabricio2040/110896
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 03 FHD (CANAL EXTRA)
+http://familytv.net:80/fabricio2030/fabricio2040/110897
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 04 FHD (CANAL EXTRA)
+http://familytv.net:80/fabricio2030/fabricio2040/110898
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 05 FHD (CANAL EXTRA)
+http://familytv.net:80/fabricio2030/fabricio2040/110899
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 06 FHD (CANAL EXTRA)
+http://familytv.net:80/fabricio2030/fabricio2040/110900
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",A BOLA TV HD
+http://familytv.net:80/fabricio2030/fabricio2040/115742
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 1 FHD
+http://familytv.net:80/fabricio2030/fabricio2040/115743
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 2 FHD
+http://familytv.net:80/fabricio2030/fabricio2040/115744
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 3 FHD
+http://familytv.net:80/fabricio2030/fabricio2040/115745
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 4 FHD
+http://familytv.net:80/fabricio2030/fabricio2040/115746
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL JAZEERA
+http://familytv.net:80/fabricio2030/fabricio2040/115747
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 1 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115748
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115749
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 3 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115750
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 4 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115751
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 5 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115752
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="CANAIS: ESPORTES INTERNACIONAIS",BEIN SPORTS
+http://familytv.net:80/fabricio2030/fabricio2040/115753
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="CANAIS: ESPORTES INTERNACIONAIS",CLARO SPORTS
+http://familytv.net:80/fabricio2030/fabricio2040/115754
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS + ARGENTINA
+http://familytv.net:80/fabricio2030/fabricio2040/115755
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS + COLOMBIA
+http://familytv.net:80/fabricio2030/fabricio2040/115756
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS 2 ARGENTINA
+http://familytv.net:80/fabricio2030/fabricio2040/115757
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS 2 PERU
+http://familytv.net:80/fabricio2030/fabricio2040/115758
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS ARGENTINA
+http://familytv.net:80/fabricio2030/fabricio2040/115759
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS COLOMBIA
+http://familytv.net:80/fabricio2030/fabricio2040/115760
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",DIRECTV SPORTS EQUADOR
+http://familytv.net:80/fabricio2030/fabricio2040/115761
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORT 1 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115762
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 2
+http://familytv.net:80/fabricio2030/fabricio2040/115763
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 3 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115764
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",EUROSPORT 01 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115765
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",EUROSPORT 02 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115766
+#EXTINF:0 tvg-id="KombatSport.fr" group-title="CANAIS: ESPORTES INTERNACIONAIS",KOMBAT SPORT
+http://familytv.net:80/fabricio2030/fabricio2040/115767
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",KTV SPORT KUWAIT
+http://familytv.net:80/fabricio2030/fabricio2040/115768
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="CANAIS: ESPORTES INTERNACIONAIS",MLB NETWORK
+http://familytv.net:80/fabricio2030/fabricio2040/115769
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",MOVISTAR GOLF - ESPANHA
+http://familytv.net:80/fabricio2030/fabricio2040/115770
+#EXTINF:0 tvg-id="NBA.blt" group-title="CANAIS: ESPORTES INTERNACIONAIS",NBA TV HD
+http://familytv.net:80/fabricio2030/fabricio2040/115771
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",REAL MADRI TV
+http://familytv.net:80/fabricio2030/fabricio2040/115772
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",REAL MADRI TV²
+http://familytv.net:80/fabricio2030/fabricio2040/115773
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",RED BULL TV
+http://familytv.net:80/fabricio2030/fabricio2040/115774
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV + HD
+http://familytv.net:80/fabricio2030/fabricio2040/115775
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 1 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115776
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115777
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 3 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115778
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 4 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115779
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 5 HD
+http://familytv.net:80/fabricio2030/fabricio2040/115780
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV NBA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115781
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="CANAIS: ESPORTES INTERNACIONAIS",TOROS TV
+http://familytv.net:80/fabricio2030/fabricio2040/115782
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="CANAIS: ESPORTES INTERNACIONAIS",CAÇA E PESCA
+http://familytv.net:80/fabricio2030/fabricio2040/115783
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",PT: Sport TV NBA FullHD*
+http://familytv.net:80/fabricio2030/fabricio2040/120054
+#EXTINF:0 tvg-id="NBA.blt" group-title="CANAIS: ESPORTES INTERNACIONAIS",NBA TV*
+http://familytv.net:80/fabricio2030/fabricio2040/120055
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV NBA HD*
+http://familytv.net:80/fabricio2030/fabricio2040/120056
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 1
+http://familytv.net:80/fabricio2030/fabricio2040/102736
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 2
+http://familytv.net:80/fabricio2030/fabricio2040/102742
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 3
+http://familytv.net:80/fabricio2030/fabricio2040/102743
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 4
+http://familytv.net:80/fabricio2030/fabricio2040/102744
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 5
+http://familytv.net:80/fabricio2030/fabricio2040/102745
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 01 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102750
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 02 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102751
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 03 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102752
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 04 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102753
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 05 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102754
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 06 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102755
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 07 HD
+http://familytv.net:80/fabricio2030/fabricio2040/102756
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 1
+http://familytv.net:80/fabricio2030/fabricio2040/67933
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 2
+http://familytv.net:80/fabricio2030/fabricio2040/67934
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 3
+http://familytv.net:80/fabricio2030/fabricio2040/67935
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 4
+http://familytv.net:80/fabricio2030/fabricio2040/67936
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 5
+http://familytv.net:80/fabricio2030/fabricio2040/67937
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE ACTION HD
+http://familytv.net:80/fabricio2030/fabricio2040/67932
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE EDITION
+http://familytv.net:80/fabricio2030/fabricio2040/58145
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE EMOTION
+http://familytv.net:80/fabricio2030/fabricio2040/58146
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE TOP
+http://familytv.net:80/fabricio2030/fabricio2040/58147
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",EPTV CAMPINAS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115179
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="CANAIS: GLOBO",GLOBO BRASILIA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115303
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="CANAIS: GLOBO",GLOBO BRASILIA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115304
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="CANAIS: GLOBO",GLOBO BRASILIA HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115337
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO BRASILIA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115168
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="CANAIS: GLOBO",GLOBO BRASILIA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115301
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO BRASILIA FULLHD H265¹
+http://familytv.net:80/fabricio2030/fabricio2040/115188
+#EXTINF:0 tvg-id="Globorj.br" group-title="CANAIS: GLOBO",GLOBO RJ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115229
+#EXTINF:0 tvg-id="Globorj.br" group-title="CANAIS: GLOBO",GLOBO RJ FULLHD³
+http://familytv.net:80/fabricio2030/fabricio2040/115342
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RJ FULLHD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115178
+#EXTINF:0 tvg-id="Globorj.br" group-title="CANAIS: GLOBO",GLOBO RJ HD
+http://familytv.net:80/fabricio2030/fabricio2040/115231
+#EXTINF:0 tvg-id="Globorj.br" group-title="CANAIS: GLOBO",GLOBO RJ HD+
+http://familytv.net:80/fabricio2030/fabricio2040/115165
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RJ HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115232
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RJ HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115233
+#EXTINF:0 tvg-id="Globorj.br" group-title="CANAIS: GLOBO",GLOBO RJ HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115343
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RJ HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115172
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SP FULL HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115184
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SP FULLHD³
+http://familytv.net:80/fabricio2030/fabricio2040/115249
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS: GLOBO",GLOBO SP FULLHD³
+http://familytv.net:80/fabricio2030/fabricio2040/115346
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS: GLOBO",GLOBO SP HD
+http://familytv.net:80/fabricio2030/fabricio2040/115250
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS: GLOBO",GLOBO SP HD+
+http://familytv.net:80/fabricio2030/fabricio2040/115166
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SP HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115251
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS: GLOBO",GLOBO SP HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115347
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",globo SP HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115174
+#EXTINF:0 tvg-id="GloboPortoAlegre.br" group-title="CANAIS: GLOBO",GLOBO RBS POA HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115340
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS PORTO ALEGRE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115211
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS PORTO ALEGRE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115213
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS PORTO ALEGRE HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115214
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS SANTA MARIA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115215
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS SANTA MARIA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115216
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS TV CAXIAS DO SUL FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115217
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
+http://familytv.net:80/fabricio2030/fabricio2040/115218
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS TV CRICIÚMA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115219
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS TV CRICIÚMA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115220
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS TV PELOTAS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115221
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RBS TV PELOTAS HD
+http://familytv.net:80/fabricio2030/fabricio2040/115222
+#EXTINF:0 tvg-id="GloboPortoAlegre.br" group-title="CANAIS: GLOBO",GLOBO RBS TV PELOTAS HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115341
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO (CLOSED CAPTION) FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115299
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO (CLOSED CAPTION) HD
+http://familytv.net:80/fabricio2030/fabricio2040/115300
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO BAHIA  FULLHD (SALVADOR)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115182
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO BAHIA HD (SALVADOR)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115183
+#EXTINF:0 tvg-id="Globorecife.br" group-title="CANAIS: GLOBO",GLOBO CEARÁ HD
+http://familytv.net:80/fabricio2030/fabricio2040/115305
+#EXTINF:0 tvg-id="Centroamerica.br" group-title="CANAIS: GLOBO",GLOBO CENTRO AMÉRICA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115306
+#EXTINF:0 tvg-id="Centroamerica.br" group-title="CANAIS: GLOBO",GLOBO CENTRO AMÉRICA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115308
+#EXTINF:0 tvg-id="Centroamerica.br" group-title="CANAIS: GLOBO",GLOBO CENTRO AMÉRICA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115309
+#EXTINF:0 tvg-id="GloboEPTVCampinas.br" group-title="CANAIS: GLOBO",GLOBO EPTV CAMPINAS HD
+http://familytv.net:80/fabricio2030/fabricio2040/115312
+#EXTINF:0 tvg-id="GloboEPTVCampinas.br" group-title="CANAIS: GLOBO",GLOBO EPTV CAMPINAS HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115313
+#EXTINF:0 tvg-id="GloboEPTVCampinas.br" group-title="CANAIS: GLOBO",GLOBO EPTV CAMPINAS HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115331
+#EXTINF:0 tvg-id="GloboEPTVCampinas.br" group-title="CANAIS: GLOBO",GLOBO EPTV CAMPINAS SD³
+http://familytv.net:80/fabricio2030/fabricio2040/115332
+#EXTINF:0 tvg-id="GloboEPTVCampinas.br" group-title="CANAIS: GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD³
+http://familytv.net:80/fabricio2030/fabricio2040/115333
+#EXTINF:0 tvg-id="Globominas.br" group-title="CANAIS: GLOBO",GLOBO EPTV SUL MINAS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115314
+#EXTINF:0 tvg-id="Globominas.br" group-title="CANAIS: GLOBO",GLOBO EPTV SUL MINAS HD
+http://familytv.net:80/fabricio2030/fabricio2040/115315
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS: GLOBO",GLOBO GAZETA SUL ALEGRE ES FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115316
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS: GLOBO",GLOBO GAZETA SUL ALEGRE ES HD
+http://familytv.net:80/fabricio2030/fabricio2040/115317
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS: GLOBO",GLOBO GAZETA SUL ES HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115334
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV ALTO LITORAL FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115318
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV ALTO LITORAL HD
+http://familytv.net:80/fabricio2030/fabricio2040/115319
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV CABUGI FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115320
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV CABUGI HD
+http://familytv.net:80/fabricio2030/fabricio2040/115321
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV DOS VALES FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115322
+#EXTINF:0 tvg-id="Intertvgminas.br" group-title="CANAIS: GLOBO",GLOBO INTER TV GRANDE MINAS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115323
+#EXTINF:0 tvg-id="Intertvgminas.br" group-title="CANAIS: GLOBO",GLOBO INTER TV GRANDE MINAS HD
+http://familytv.net:80/fabricio2030/fabricio2040/115324
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV SERRA E MAR FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115325
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTER TV SERRA E MAR HD
+http://familytv.net:80/fabricio2030/fabricio2040/115326
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO INTERNACIONAL HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115171
+#EXTINF:0 tvg-id="Inttvcabugi.br" group-title="CANAIS: GLOBO",GLOBO INTERTV CABUGI RN³
+http://familytv.net:80/fabricio2030/fabricio2040/115335
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO MANAUS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115192
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO MG FULLHD H265¹
+http://familytv.net:80/fabricio2030/fabricio2040/115189
+#EXTINF:0 tvg-id="Globominas.br" group-title="CANAIS: GLOBO",GLOBO MINAS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115327
+#EXTINF:0 tvg-id="Globominas.br" group-title="CANAIS: GLOBO",GLOBO MINAS HD
+http://familytv.net:80/fabricio2030/fabricio2040/115329
+#EXTINF:0 tvg-id="Globominas.br" group-title="CANAIS: GLOBO",GLOBO MINAS HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115330
+#EXTINF:0 tvg-id="Globominas.br" group-title="CANAIS: GLOBO",GLOBO MINAS HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115336
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO MINAS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115193
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NACIONAL FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115195
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NACIONAL HD
+http://familytv.net:80/fabricio2030/fabricio2040/115196
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NORDESTE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115197
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NORDESTE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115199
+#EXTINF:0 tvg-id="Globonordeste.br" group-title="CANAIS: GLOBO",GLOBO NORDESTE HD+
+http://familytv.net:80/fabricio2030/fabricio2040/115164
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC FLORIANOPOLIS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115200
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC FLORIANOPOLIS HD
+http://familytv.net:80/fabricio2030/fabricio2040/115202
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC FLORIANOPOLIS HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115203
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC FLORIANOPOLIS SD
+http://familytv.net:80/fabricio2030/fabricio2040/115204
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC JOINVILLE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115205
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC JOINVILLE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115206
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC SANTA CATARINA HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115338
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC TV BLUMENAU FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115207
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC TV BLUMENAU HD
+http://familytv.net:80/fabricio2030/fabricio2040/115209
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO NSC TV FLORIANOPOLIS HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115339
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO PARAIBA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115187
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO PORTO VELHO HD
+http://familytv.net:80/fabricio2030/fabricio2040/115210
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO REDE AMAZONICA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115224
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RIO SUL FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115225
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RIO SUL HD
+http://familytv.net:80/fabricio2030/fabricio2040/115227
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RIO SUL HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115228
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC CURITIBA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115234
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC CURITIBA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115236
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC CURITIBA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115237
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC FOZ DO IGUAÇU FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115238
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC FOZ DO IGUAÇU HD
+http://familytv.net:80/fabricio2030/fabricio2040/115239
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC PARANAENSE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115240
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC PARANAENSE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115241
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC PARANAVAÍ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115242
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO RPC PARANAVAÍ HD
+http://familytv.net:80/fabricio2030/fabricio2040/115243
+#EXTINF:0 tvg-id="Rpccuritiba.br" group-title="CANAIS: GLOBO",GLOBO RPC TV HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115344
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SERGIPE - TV SERGIPE HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115173
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SERGIPE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115244
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SERGIPE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115246
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SERGIPE HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115345
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO SÃO JOSÉ DO RIO PREOTO FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115252
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV ANHANGUERA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115253
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV ANHANGUERA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115255
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV ANHANGUERA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115256
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV ASA BRANCA PE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115257
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV ASA BRANCA PE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115258
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV BAHIA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115259
+#EXTINF:0 tvg-id="Tvbahia.br" group-title="CANAIS: GLOBO",GLOBO TV BAHIA FULLHD³
+http://familytv.net:80/fabricio2030/fabricio2040/115348
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV BAHIA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115261
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV BAHIA HD+
+http://familytv.net:80/fabricio2030/fabricio2040/115167
+#EXTINF:0 tvg-id="Tvbahia.br" group-title="CANAIS: GLOBO",GLOBO TV BAHIA HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115349
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV CABO BRANCO FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115262
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV CABO BRANCO HD
+http://familytv.net:80/fabricio2030/fabricio2040/115263
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV CLUBE PIAUÍ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115264
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV CLUBE PIAUÍ HD
+http://familytv.net:80/fabricio2030/fabricio2040/115265
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV DIÁRIO MOGI DAS CRUZES FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115266
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV FRONTEIRA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115267
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV GAZETA ALAGOAS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115268
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV GAZETA ES FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115270
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV GAZETA ES HD
+http://familytv.net:80/fabricio2030/fabricio2040/115271
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV GAZETA VITÓRIA HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115350
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV INTEGRAÇÃO ARAXÁ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115272
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV INTEGRAÇÃO ARAXÁ HD
+http://familytv.net:80/fabricio2030/fabricio2040/115273
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115274
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115275
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV LIBERAL BELEM FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115276
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV LIBERAL BELEM HD
+http://familytv.net:80/fabricio2030/fabricio2040/115278
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV LIBERAL BELEM HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115279
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV MIRANTE MARANHÃO FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115280
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV MIRANTE MARANHÃO HD
+http://familytv.net:80/fabricio2030/fabricio2040/115282
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV MIRANTE MARANHÃO HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115283
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV MORENA CAMPO GRANDE FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115284
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
+http://familytv.net:80/fabricio2030/fabricio2040/115285
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD³
+http://familytv.net:80/fabricio2030/fabricio2040/115351
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV SANTA CRUZ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115286
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV SANTA CRUZ HD
+http://familytv.net:80/fabricio2030/fabricio2040/115288
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV SUBAE BAHIA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115289
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV TEM BAURU FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115290
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV TEM BAURU HD
+http://familytv.net:80/fabricio2030/fabricio2040/115291
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV TEM SOROCABA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115292
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV TRIBUNA DE SANTOS FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115293
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV VANGUARDA TAUBATÉ FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115294
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV VERDES MARES FORTALEZA FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/115295
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV VERDES MARES FORTALEZA HD
+http://familytv.net:80/fabricio2030/fabricio2040/115297
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO TV VERDES MARES FORTALEZA HD²
+http://familytv.net:80/fabricio2030/fabricio2040/115298
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO VITORIA ES. FULLHD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115170
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO VITORIA ES¹
+http://familytv.net:80/fabricio2030/fabricio2040/115169
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",GLOBO VITORIA HD ES¹
+http://familytv.net:80/fabricio2030/fabricio2040/115181
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",NSCTV FLORIANOPOLIS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115194
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",RBS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/115175
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",TV ASA BRANCA HD (GLOBO-CARUARU - PE)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115186
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",TV CLUBE HD ( GLOBO PIAUI)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115185
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",TV MIRANTE HD ( GLOBO MARANHAO)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115190
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",TV RIO SUL HD ( GLOBO INTERIOR RJ)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115191
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",TV SANTA CRUZ TV BAHIA HD -GLOBO-¹
+http://familytv.net:80/fabricio2030/fabricio2040/115176
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: GLOBO",TV SUBAE (GLOBO BAHIA HD)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115177
+#EXTINF:0 tvg-id="Vangsaojchd.br" group-title="CANAIS: GLOBO",TV VANGUARDA HD (SAO JOSE DOS CAMPOS)¹
+http://familytv.net:80/fabricio2030/fabricio2040/115380
+
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS: HBO",HBO FAMILY FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99055
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS: HBO",HBO FAMILY HD
+http://familytv.net:80/fabricio2030/fabricio2040/39966
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS: HBO",HBO FAMILY HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57142
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS: HBO",HBO FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99052
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS: HBO",HBO HD
+http://familytv.net:80/fabricio2030/fabricio2040/39967
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS: HBO",HBO HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57143
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS: HBO",HBO 2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99053
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS: HBO",HBO 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/39965
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS: HBO",HBO 2 HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57141
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS: HBO",HBO MUNDI FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99057
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS: HBO",HBO MUNDI HD
+http://familytv.net:80/fabricio2030/fabricio2040/39970
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS: HBO",HBO MUNDI HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57146
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS: HBO",HBO PLUS FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99054
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS: HBO",HBO PLUS HD
+http://familytv.net:80/fabricio2030/fabricio2040/39968
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS: HBO",HBO PLUS HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57139
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS: HBO",HBO POP FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99059
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS: HBO",HBO POP HD
+http://familytv.net:80/fabricio2030/fabricio2040/39972
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS: HBO",HBO POP HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57145
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS: HBO",HBO SIGNATURE FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99056
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS: HBO",HBO SIGNATURE HD
+http://familytv.net:80/fabricio2030/fabricio2040/39969
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS: HBO",HBO SIGNATURE HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57144
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS: HBO",HBO XTREAME FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99058
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS: HBO",HBO XTREAME HD
+http://familytv.net:80/fabricio2030/fabricio2040/39971
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS: HBO",HBO XTREAME HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57147
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",IURD TV
+http://familytv.net:80/fabricio2030/fabricio2040/95053
+#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="CANAIS: RELIGIOSOS",NOVO TEMPO
+http://familytv.net:80/fabricio2030/fabricio2040/39863
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",REDE GOSPEL FULLHD
+http://familytv.net:80/fabricio2030/fabricio2040/39869
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="CANAIS: RELIGIOSOS",REDE SUPER
+http://familytv.net:80/fabricio2030/fabricio2040/39868
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS: RELIGIOSOS",REDE VIDA
+http://familytv.net:80/fabricio2030/fabricio2040/39866
+#EXTINF:0 tvg-id="Rit.br" group-title="CANAIS: RELIGIOSOS",RIT
+http://familytv.net:80/fabricio2030/fabricio2040/95052
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",TV EVAGILIZAR ES
+http://familytv.net:80/fabricio2030/fabricio2040/39906
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO
+http://familytv.net:80/fabricio2030/fabricio2040/39865
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",CBTV Now
+http://familytv.net:80/fabricio2030/fabricio2040/67334
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS: RELIGIOSOS",CANCAO NOVA
+http://familytv.net:80/fabricio2030/fabricio2040/42474
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",GOSPEL MOVIE TV
+http://familytv.net:80/fabricio2030/fabricio2040/67337
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",LBV BOA VONTADE
+http://familytv.net:80/fabricio2030/fabricio2040/95767
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",TV APARECIDA LIVRE
+http://familytv.net:80/fabricio2030/fabricio2040/67335
+
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIER CLUBE FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99034
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
+http://familytv.net:80/fabricio2030/fabricio2040/40153
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD**
+http://familytv.net:80/fabricio2030/fabricio2040/95616
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE 1 CLUBES HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95614
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS: PREMIERE",PREMIERE 1 CLUBES HD³
+http://familytv.net:80/fabricio2030/fabricio2040/95615
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99075
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40147
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS: PREMIERE",PREMIERE 2 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95618
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS: PREMIERE",PREMIERE 2 HD³
+http://familytv.net:80/fabricio2030/fabricio2040/95619
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS: PREMIERE",PREMIERE 2 UHD
+http://familytv.net:80/fabricio2030/fabricio2040/95617
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS: PREMIERE",PREMIERE 3 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99074
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40148
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS: PREMIERE",PREMIERE 3 HD**
+http://familytv.net:80/fabricio2030/fabricio2040/95624
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS: PREMIERE",PREMIERE 3 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95622
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS: PREMIERE",PREMIERE 3 HD³
+http://familytv.net:80/fabricio2030/fabricio2040/95623
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS: PREMIERE",PREMIERE 3 UHD
+http://familytv.net:80/fabricio2030/fabricio2040/95621
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99073
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40149
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 HD**
+http://familytv.net:80/fabricio2030/fabricio2040/95628
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95626
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 HD³
+http://familytv.net:80/fabricio2030/fabricio2040/95627
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS: PREMIERE",PREMIERE 4 SD
+http://familytv.net:80/fabricio2030/fabricio2040/95625
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS: PREMIERE",PREMIERE 5 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99072
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40150
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS: PREMIERE",PREMIERE 5 HD**
+http://familytv.net:80/fabricio2030/fabricio2040/95632
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS: PREMIERE",PREMIERE 5 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95630
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS: PREMIERE",PREMIERE 5 HD³
+http://familytv.net:80/fabricio2030/fabricio2040/95631
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS: PREMIERE",PREMIERE 6 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99071
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40151
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS: PREMIERE",PREMIERE 6 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95633
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS: PREMIERE",PREMIERE 6 HD³
+http://familytv.net:80/fabricio2030/fabricio2040/95634
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS: PREMIERE",PREMIERE 7 FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99070
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
+http://familytv.net:80/fabricio2030/fabricio2040/40152
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS: PREMIERE",PREMIERE 7 HD²
+http://familytv.net:80/fabricio2030/fabricio2040/95635
+#EXTINF:0 tvg-id="Premiere8.br" group-title="CANAIS: PREMIERE",PREMIERE 8 SD²
+http://familytv.net:80/fabricio2030/fabricio2040/95636
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD BAHIA¹
+http://familytv.net:80/fabricio2030/fabricio2040/100156
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD BELEM HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100148
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD BH MINAS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100152
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD BRASILIA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100136
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD CAMPINAS HD2²
+http://familytv.net:80/fabricio2030/fabricio2040/100153
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD GOIANIA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100157
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD LITORAL HD SANTOS
+http://familytv.net:80/fabricio2030/fabricio2040/100149
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD MANAUS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100155
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD MG HD²
+http://familytv.net:80/fabricio2030/fabricio2040/100151
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD MINAS HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100150
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD PARANA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100154
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD RJ HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100143
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD RS HD
+http://familytv.net:80/fabricio2030/fabricio2040/100141
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD RS HD²
+http://familytv.net:80/fabricio2030/fabricio2040/100142
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD SANTA CATARINA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100158
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD SAO JOSE RIO PRETO HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100146
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORD SERGIPE - TV ATALAIA HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100147
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS: RECORD",RECORD SP HD²
+http://familytv.net:80/fabricio2030/fabricio2040/100140
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS: RECORD",RECORD SP HD¹
+http://familytv.net:80/fabricio2030/fabricio2040/100138
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RECORD",RECORDTV RJ HD³
+http://familytv.net:80/fabricio2030/fabricio2040/100145
+
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS: TELECINE",TELECINE ACTION FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99047
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+http://familytv.net:80/fabricio2030/fabricio2040/39951
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS: TELECINE",TELECINE ACTION HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57126
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS: TELECINE",TELECINE FUN FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99050
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS: TELECINE",TELECINE FUN HD
+http://familytv.net:80/fabricio2030/fabricio2040/39953
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS: TELECINE",TELECINE FUN HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57128
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS: TELECINE",TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99049
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD
+http://familytv.net:80/fabricio2030/fabricio2040/39954
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57129
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS: TELECINE",TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99046
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD
+http://familytv.net:80/fabricio2030/fabricio2040/39955
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57130
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS: TELECINE",TELECINE TOUCH FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99048
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
+http://familytv.net:80/fabricio2030/fabricio2040/39956
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS: TELECINE",TELECINE TOUCH HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57131
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS: TELECINE",TELECINE CULT FULLHD H264
+http://familytv.net:80/fabricio2030/fabricio2040/99051
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS: TELECINE",TELECINE CULT HD
+http://familytv.net:80/fabricio2030/fabricio2040/39952
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS: TELECINE",TELECINE CULT HD*
+http://familytv.net:80/fabricio2030/fabricio2040/57127
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD[1]
+http://familytv.net:80/fabricio2030/fabricio2040/115784
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD[1]
+http://familytv.net:80/fabricio2030/fabricio2040/115785
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 03 HD[1]
+http://familytv.net:80/fabricio2030/fabricio2040/115786
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 04 HD[1]
+http://familytv.net:80/fabricio2030/fabricio2040/115787
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115788
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD[2]²
+http://familytv.net:80/fabricio2030/fabricio2040/115789
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 SD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115790
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115791
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 1 HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115792
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 2 HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115793
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 3 HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115794
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 4 HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115795
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV FHD (JOGO 1)
+http://familytv.net:80/fabricio2030/fabricio2040/115796
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV FHD (JOGO 2)
+http://familytv.net:80/fabricio2030/fabricio2040/115797
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD (JOGO 1)
+http://familytv.net:80/fabricio2030/fabricio2040/115798
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD (JOGO 2)
+http://familytv.net:80/fabricio2030/fabricio2040/115799
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV FHD (JOGO 3)
+http://familytv.net:80/fabricio2030/fabricio2040/115800
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD (JOGO 3)
+http://familytv.net:80/fabricio2030/fabricio2040/115801
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 1)
+http://familytv.net:80/fabricio2030/fabricio2040/115802
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 4)
+http://familytv.net:80/fabricio2030/fabricio2040/115803
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 3)
+http://familytv.net:80/fabricio2030/fabricio2040/115804
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 2)
+http://familytv.net:80/fabricio2030/fabricio2040/115805
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 4K[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115806
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 FHD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115807
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 FHD[2]²
+http://familytv.net:80/fabricio2030/fabricio2040/115808
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115809
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 02 FHD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115810
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 02 FHD[2]²
+http://familytv.net:80/fabricio2030/fabricio2040/115811
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 02 HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115812
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 03 FHD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115813
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 03 FHD[2]²
+http://familytv.net:80/fabricio2030/fabricio2040/115814
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 03 HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115815
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 04 FHD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115816
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 04 FHD[2]²
+http://familytv.net:80/fabricio2030/fabricio2040/115817
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 04 HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115818
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115819
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115820
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115821
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115822
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",Ei Plus HD[1]
+http://familytv.net:80/fabricio2030/fabricio2040/115823
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS SD[1]
+http://familytv.net:80/fabricio2030/fabricio2040/115824
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115825
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD[2]²
+http://familytv.net:80/fabricio2030/fabricio2040/115826
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",ESPORTE INTERATIVO 2[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115827
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",ESPORTE INTERATIVO 1[2]
+http://familytv.net:80/fabricio2030/fabricio2040/115828
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",ESPORTE INTERATIVO HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115829
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115830
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD[3]²
+http://familytv.net:80/fabricio2030/fabricio2040/115831
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS 2 HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115832
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS 3 HD[3]
+http://familytv.net:80/fabricio2030/fabricio2040/115833
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",A&E FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100790
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",AMC FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100791
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS: FULLHD H265",ANIMAL PLANET FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100792
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",AXN FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100793
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",BAND SPORTS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100794
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",BIS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100795
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",BOOMERANG FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100796
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",CANAL SONY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100797
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",CARTOON NETWORK FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100798
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",CINEMAX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100799
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",COMBATE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100800
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",COMEDY CENTRAL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100801
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY CHANNEL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100802
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY HOME & HEALTH FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100804
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY KIDS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100805
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY SCIENCE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100806
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY THEATER FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100807
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY TURBO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100808
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISCOVERY WORLD FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100809
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISNEY CHANNEL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100810
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",DISNEY JUNIOR FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100811
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",E! FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100812
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",ESPN 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100815
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",ESPN BRASIL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100816
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",ESPN EXTRA FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100813
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",ESPN FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100814
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FISHTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100817
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FOODNETWORK FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100818
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FOX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100819
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FOX PREMIUM 1 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100820
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FOX PREMIUM 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100821
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FOX SPORTS 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100823
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FOX SPORTS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100822
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",FX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100824
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",GNT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100826
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",H2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100833
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO 2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100829
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO FAMILLY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100827
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100828
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO MUNDI FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100837
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO PLUS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100830
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO POP FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100839
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO SIGNATURE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100831
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HBO XTREME FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100838
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HGTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100803
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",HISTORY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100832
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",INVESTIGATION DISCOVERY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100834
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",LIFETIME FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100835
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",MAISGLOBOSAT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100836
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",MEGAPIX FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100840
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",MTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100841
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",MULTISHOW FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100842
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",NATGEO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100843
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",NATGEO WILD FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100844
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",NATGEOKIDS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100845
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",NICKELODEON FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100846
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",NICKJR FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100847
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",OFF FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100848
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PARAMOUNT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100849
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE CLUBES FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100850
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100851
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE3 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100852
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE4 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100853
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE5 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100854
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE6 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100855
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",PREMIERE7 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100856
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",SPACE FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100857
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",SPORTV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100858
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",SPORTV2 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100859
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",SPORTV3 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100860
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",STUDIO UNIVERSAL FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100861
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",SYFY FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100862
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TBS FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100863
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TELECINE ACTION FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100864
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TELECINE CULT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100865
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TELECINE FUN FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100866
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TELECINE PIPOCA FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100867
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TELECINE PREMIUM FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100868
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TELECINE TOUCH FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100869
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TLC FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100870
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TNT FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100871
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",TNT SERIES FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100872
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",UNIVERSAL TV FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100873
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",VH1 FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100874
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",WARNER FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100875
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FULLHD H265",WOOHOO FHD H265
+http://familytv.net:80/fabricio2030/fabricio2040/100876
