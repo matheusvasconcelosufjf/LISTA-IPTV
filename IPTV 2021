@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E HD
 http://177.91.162.202:8000/play/AeE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
+http://177.20.208.58:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383" group-title="Filmes e Séries" ,AMC HD
 http://177.91.162.202:8000/play/AMC/index.m3u8
@@ -57,6 +60,9 @@ http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Abertos",CANAL DO BOI
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Abertos",CANAL DO BOI
+http://177.20.208.58:8000/play/a024/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Abertos",REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
@@ -78,8 +84,14 @@ http://177.91.162.202:8000/play/Combate/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento" ,Comedy Central HD
 http://177.91.162.202:8000/play/ComedyCentral/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Entreterimento" ,CNT HD
+http://177.20.208.58:8000/play/a04n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
 http://177.91.162.202:8000/play/Cultura/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
+http://177.20.208.58:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1" group-title="Entreterimento" ,Curta! HD
 http://177.91.162.202:8000/play/Curta/index.m3u8
@@ -438,4 +450,34 @@ http://177.91.162.202:8000/play/Warner/index.m3u8
 http://177.91.162.202:8000/play/Woohoo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="Desenhos" ,Zoomoo HD
-http://177.91.162.202:8000/play/Zoomoo/index.m3u8
+http://177.20.208.58:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Entreterimento" ,Fashion HD
+http://177.20.208.58:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Documentários" ,Love Nature 4K
+http://177.20.208.58:8000/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Documentários" ,Love Nature HD
+http://177.20.208.58:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/much-music-tv.svg" group-title="Entreterimento" ,Music HD
+http://177.20.208.58:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OcfsvAAO8HQ/VwGtvY0SMlI/AAAAAAAAM-U/m1pwMR1NCXcBU3Lcc9OtuFvG5d6DYxv3g/w1200-h630-p-k-no-nu/Logo%2BPoliTV.png" group-title="Entreterimento" ,POLI TV 2
+http://177.20.208.58:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime HD
+http://177.20.208.58:8000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png group-title="Abertos" ,Rede Vida HD
+http://177.20.208.58:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Abertos" ,RedeTV! HD1
+http://177.20.208.58:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Abertos" ,RedeTV! HD2
+http://177.20.208.58:8000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="Abertos" ,TERRAVIVA HD
+http://177.20.208.58:8000/play/a026/index.m3u8
