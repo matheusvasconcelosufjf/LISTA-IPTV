@@ -1,507 +1,507 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E HD
 http://177.91.162.202:8000/play/AeE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
 http://177.20.208.58:8000/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383" group-title="Filmes e Séries" ,AMC HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383" group-title="Filmes e Séries" ,AMC HD
 http://177.91.162.202:8000/play/AMC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png" group-title="Entreterimento" ,AXN HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png" group-title="Entreterimento" ,AXN HD
 http://177.91.162.202:8000/play/AXN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentários" ,Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentários" ,Animal Planet HD
 http://177.91.162.202:8000/play/AnimalPlanet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Entreterimento" ,Arte 1 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Entreterimento" ,Arte 1 HD
 http://177.91.162.202:8000/play/Arte1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entreterimento" ,BIS HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Entreterimento" ,BIS HD
 http://177.91.162.202:8000/play/BIS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Abertos" ,Band HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Abertos" ,Band HD
 http://177.91.162.202:8000/play/BandSP/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png"group-title="Abertos",BAND HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png"group-title="Abertos",BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias" ,Band News HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias" ,Band News HD
 http://177.91.162.202:8000/play/a041/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Esportes" ,Band Sports HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Esportes" ,Band Sports HD
 http://177.91.162.202:8000/play/a040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB HD
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21hd_10d293a9_b687ff75f5b62195edadb1cb76c2e0aba97c7641/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDcwMTM7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB MOSAICO HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB MOSAICO HD
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bbb21mosaico_6765c043_94d305f28a68ce505ca31077d2f6acde2bead495/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDcyMzY7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Desenhos" ,Boomerang HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Desenhos" ,Boomerang HD
 http://177.91.162.202:8000/play/Boomerang/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias" ,CNN Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias" ,CNN Brasil HD
 http://177.91.162.202:8000/play/CNNBrasil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png"group-title="Notícias",CNN Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png"group-title="Notícias",CNN Brasil HD
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="Filmes e Séries" ,Canal Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="Filmes e Séries" ,Canal Brasil HD
 http://177.91.162.202:8000/play/CanalBrasil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias" ,Canal do Boi HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias" ,Canal do Boi HD
 http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entreterimento" ,Canal Sony HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entreterimento" ,Canal Sony HD
 http://177.91.162.202:8000/play/Sony/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Abertos" ,Canal do Boi HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Abertos" ,Canal do Boi HD
 http://177.91.162.202:8000/play/CanaldoBoi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Abertos",CANAL DO BOI
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Abertos",CANAL DO BOI
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Abertos",CANAL DO BOI
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png"group-title="Abertos",CANAL DO BOI
 http://177.20.208.58:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Abertos",REDE VIDA HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Abertos",REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png"group-title="Abertos",CANÇÃO NOVA HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png"group-title="Abertos",CANÇÃO NOVA HD
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="Desenhos" ,Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="Desenhos" ,Cartoon Network HD
 http://177.91.162.202:8000/play/Cartoon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes e Séries" ,Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes e Séries" ,Cinemax HD
 http://177.91.162.202:8000/play/Cinemax/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Entreterimento" ,Com Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Entreterimento" ,Com Brasil HD
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Esportes" ,Combate HD
-http://177.91.162.202:8000/play/Combate/index.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate"  tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Esportes" ,Combate
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_207c5335647bb358a8299b9905abac2c14af6712/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNTIxODk7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento" ,Comedy Central HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento" ,Comedy Central HD
 http://177.91.162.202:8000/play/ComedyCentral/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Entreterimento" ,CNT HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Entreterimento" ,CNT HD
 http://177.20.208.58:8000/play/a04n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
 http://177.91.162.202:8000/play/Cultura/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png" group-title="Abertos" ,Cultura HD
 http://177.20.208.58:8000/play/a01x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1" group-title="Entreterimento" ,Curta! HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1" group-title="Entreterimento" ,Curta! HD
 http://177.91.162.202:8000/play/Curta/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Esportes" ,DAZN HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Esportes" ,DAZN HD
 http://149.62.177.130:3110
 
 
-#EXTINF:-1 tvg-logo="https://media.gazetadopovo.com.br/2017/11/df2fac8d93b3df97ea22a8f03dd607ea-gpLarge.png" group-title="Entreterimento" ,DOG TV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://media.gazetadopovo.com.br/2017/11/df2fac8d93b3df97ea22a8f03dd607ea-gpLarge.png" group-title="Entreterimento" ,DOG TV
 http://177.91.162.202:8000/play/DOG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png" group-title="Documentários" ,Disc. Home & Health HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png" group-title="Documentários" ,Disc. Home & Health HD
 http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="Documentários" ,Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="Documentários" ,Discovery Channel HD
 http://177.91.162.202:8000/play/DiscoveryChannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Desenhos" ,Discovery Kids HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Desenhos" ,Discovery Kids HD
 http://177.91.162.202:8000/play/DiscoveryKids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg" group-title="Documentários" ,Discovery Science HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg" group-title="Documentários" ,Discovery Science HD
 http://177.91.162.202:8000/play/DiscoveryScience/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="Documentários" ,Discovery Theater HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="Documentários" ,Discovery Theater HD
 http://177.91.162.202:8000/play/DiscoveryTheater/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Documentários" ,Discovery Turbo HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Documentários" ,Discovery Turbo HD
 http://177.91.162.202:8000/play/DiscoveryTurbo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="Documentários" ,Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="Documentários" ,Discovery World HD
 http://177.91.162.202:8000/play/DiscoveryWorld/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Infantil",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Infantil",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Intantil",Disney Júnior
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Intantil",Disney Júnior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="Intantil",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="Intantil",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Desenhos" ,Disney Channel HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo.png" group-title="Desenhos" ,Disney Channel HD
 http://177.91.162.202:8000/play/DisneyChannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="Desenhos" ,Disney Junior HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="Desenhos" ,Disney Junior HD
 http://177.91.162.202:8000/play/DisneyJunior/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="Entreterimento" ,E! HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="Entreterimento" ,E! HD
 http://177.91.162.202:8000/play/E/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes" ,ESPN Extra HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes" ,ESPN Extra HD
 http://177.91.162.202:8000/play/ESPNExtra/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Esportes" ,ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Esportes" ,ESPN HD
 http://177.91.162.202:8000/play/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png"group-title="Esportes",ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png"group-title="Esportes",ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png" group-title="Esportes" ,ESPN2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png" group-title="Esportes" ,ESPN2 HD
 http://177.91.162.202:8000/play/a03z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1200px-Logo_Eurochannel.png" group-title="Entreterimento" ,Eurochannel HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/1200px-Logo_Eurochannel.png" group-title="Entreterimento" ,Eurochannel HD
 http://177.91.162.202:8000/play/Eurochannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Filmes e Séries" ,FOX HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="Filmes e Séries" ,FOX HD
 http://177.91.162.202:8000/play/FOX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NCtbqB3QSwY/VxvdB1ZK9mI/AAAAAAAAqv0/Wr2ZqWP-m8oXkc2bNpuDevhXpsHP7kdHQCLcB/s1600/LOGO-FOX-Life.jpg" group-title="Filmes e Séries" ,FOX Life HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://2.bp.blogspot.com/-NCtbqB3QSwY/VxvdB1ZK9mI/AAAAAAAAqv0/Wr2ZqWP-m8oXkc2bNpuDevhXpsHP7kdHQCLcB/s1600/LOGO-FOX-Life.jpg" group-title="Filmes e Séries" ,FOX Life HD
 http://177.91.162.202:8000/play/FOXLife/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/D7OWkf8Pz4xdkCswUhwEPCsMkewJ49NcPr7dsaij02vodckmSA2TnE_AcwaQKhdXUncrDIK5rD27ARQJswcOCr18GV_zDBjfMBOOBjBJlvvkm3fz68id4-wI4HOf" group-title="Esportes" ,FOX Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://lh3.googleusercontent.com/proxy/D7OWkf8Pz4xdkCswUhwEPCsMkewJ49NcPr7dsaij02vodckmSA2TnE_AcwaQKhdXUncrDIK5rD27ARQJswcOCr18GV_zDBjfMBOOBjBJlvvkm3fz68id4-wI4HOf" group-title="Esportes" ,FOX Sports 2 HD
 http://177.91.162.202:8000/play/FOXSports2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports HD
 http://177.91.162.202:8000/play/FOXSports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports SD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports SD
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_4dfda796fd492c36c2a6d13f1bed83ef57a3b3b4/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDgxNDE7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg" group-title="Filmes e Séries" ,FX HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg" group-title="Filmes e Séries" ,FX HD
 http://177.91.162.202:8000/play/FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Entreterimento" ,Fashion TV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Entreterimento" ,Fashion TV HD
 http://177.91.162.202:8000/play/Fashion/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/film-arts.svg" group-title="Filmes e Séries" ,Film&Arts HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.worldvectorlogo.com/logos/film-arts.svg" group-title="Filmes e Séries" ,Film&Arts HD
 http://177.91.162.202:8000/play/FilmeArts/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg" group-title="Entreterimento" ,Fish TV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-930x530_c.jpg" group-title="Entreterimento" ,Fish TV HD
 http://177.91.162.202:8000/play/Fish/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Entreterimento" ,Food Network HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Entreterimento" ,Food Network HD
 http://177.91.162.202:8000/play/FoodNetwork/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/_QSOc0nwsQxpytBDSe6iBF9v60G_XdFP-698mwLA4KhGlksNmQvwrUtXe4RXJ-bR7X5HKmccyvEemrMfC2M1xGkvXyg" group-title="Filmes e Séries" ,Fox Premium 1 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://lh3.googleusercontent.com/proxy/_QSOc0nwsQxpytBDSe6iBF9v60G_XdFP-698mwLA4KhGlksNmQvwrUtXe4RXJ-bR7X5HKmccyvEemrMfC2M1xGkvXyg" group-title="Filmes e Séries" ,Fox Premium 1 HD
 http://177.91.162.202:8000/play/FoxPremium1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gSWkOMiZ_HU/XY9rxuNmMRI/AAAAAAAADBQ/xj52lutDzroU432WmRP_ZLw03-R-mAAJwCLcBGAsYHQ/w680/FOX%2BPREMIUM%2B2.png" group-title="Filmes e Séries" ,Fox Premium 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://1.bp.blogspot.com/-gSWkOMiZ_HU/XY9rxuNmMRI/AAAAAAAADBQ/xj52lutDzroU432WmRP_ZLw03-R-mAAJwCLcBGAsYHQ/w680/FOX%2BPREMIUM%2B2.png" group-title="Filmes e Séries" ,Fox Premium 2 HD
 http://177.91.162.202:8000/play/FoxPremium2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="Abertos" ,Futura HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="Abertos" ,Futura HD
 http://177.91.162.202:8000/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Entreterimento" ,GNT HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Entreterimento" ,GNT HD
 http://177.91.162.202:8000/play/GNT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Abertos" ,Globo SP HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Abertos" ,Globo SP HD
 http://177.91.162.202:8000/play/GloboSP/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias" ,GloboNews HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias" ,GloboNews HD
 http://177.91.162.202:8000/play/GloboNews/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Desenhos" ,Gloob HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Desenhos" ,Gloob HD
 http://177.91.162.202:8000/play/Gloob/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Entreterimento" ,HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Entreterimento" ,HBO Family HD
 http://177.91.162.202:8000/play/HBOFamily/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Entreterimento" ,HBO HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png" group-title="Entreterimento" ,HBO HD
 http://177.91.162.202:8000/play/a04b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Entreterimento" ,HBO MUNDI HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Entreterimento" ,HBO MUNDI HD
 http://177.91.162.202:8000/play/HBOMUNDI/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg" group-title="Entreterimento" ,HBO POP HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg" group-title="Entreterimento" ,HBO POP HD
 http://177.91.162.202:8000/play/HBOPOP/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Entreterimento" ,HBO Signature HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Entreterimento" ,HBO Signature HD
 http://177.91.162.202:8000/play/HBOSignature/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg" group-title="Entreterimento" ,HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg" group-title="Entreterimento" ,HBO XTREME HD
 http://177.91.162.202:8000/play/HBOXTREME/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="Entreterimento" ,HBO+ HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg" group-title="Entreterimento" ,HBO+ HD
 http://177.91.162.202:8000/play/HBOmais/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Entreterimento" ,HBO2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Entreterimento" ,HBO2 HD
 http://177.91.162.202:8000/play/HBO2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="Entreterimento" ,HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="Entreterimento" ,HGTV HD
 http://177.91.162.202:8000/play/HGTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentários" ,History 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Documentários" ,History 2 HD
 http://177.91.162.202:8000/play/History2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="Documentários" ,History HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="Documentários" ,History HD
 http://177.91.162.202:8000/play/History/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Entreterimento" ,ID HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Entreterimento" ,ID HD
 http://177.91.162.202:8000/play/ID/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="Entreterimento" ,Lifetime HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="Entreterimento" ,Lifetime HD
 http://177.91.162.202:8000/play/Lifetime/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png" group-title="Entreterimento" ,Love Nature HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png" group-title="Entreterimento" ,Love Nature HD
 http://177.91.162.202:8000/play/LoveNature/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg" group-title="Entreterimento" ,MTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg" group-title="Entreterimento" ,MTV HD
 http://177.91.162.202:8000/play/MTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Entreterimento" ,MTV LIVE HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Entreterimento" ,MTV LIVE HD
 http://177.91.162.202:8000/play/MTVLIVE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png" group-title="Entreterimento" ,Mais Globosat HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png" group-title="Entreterimento" ,Mais Globosat HD
 http://177.91.162.202:8000/play/MaisGlobosat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png" group-title="Entreterimento" ,Megapix HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png" group-title="Entreterimento" ,Megapix HD
 http://177.91.162.202:8000/play/Megapix/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow HD
 http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow SD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow SD
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/multishow_5f573b82_57e3e99f712ba842055c890988fb28ee978eb424/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDgwMzk7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Entreterimento" ,Music Box Brazil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Entreterimento" ,Music Box Brazil HD
 http://177.91.162.202:8000/play/MusicBox/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png" group-title="Desenhos" ,Nat Geo Kids HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png" group-title="Desenhos" ,Nat Geo Kids HD
 http://177.91.162.202:8000/play/NatGeoKids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="Entreterimento" ,NatGeo Wild HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="Entreterimento" ,NatGeo Wild HD
 http://177.91.162.202:8000/play/NatGeoWild/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Documentários" ,National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Documentários" ,National Geographic HD
 http://177.91.162.202:8000/play/NatGeo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d67ac7b06de63d793bf1.png" group-title="Desenhos" ,Nick Jr. HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d67ac7b06de63d793bf1.png" group-title="Desenhos" ,Nick Jr. HD
 http://177.91.162.202:8000/play/NickJr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5699/full-664x664/56701c4c/664px-Nickelodeon_logo.png?resolution=0" group-title="Desenhos" ,Nickelodeon HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5699/full-664x664/56701c4c/664px-Nickelodeon_logo.png?resolution=0" group-title="Desenhos" ,Nickelodeon HD
 http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png" group-title="Entreterimento" ,OFF HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png" group-title="Entreterimento" ,OFF HD
 http://177.91.162.202:8000/play/OFF/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhun4onLfGYyvE5RgJUrlCP-IOtCx7iq8w8fNNPnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Abertos" ,Pai Eterno HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhun4onLfGYyvE5RgJUrlCP-IOtCx7iq8w8fNNPnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Abertos" ,Pai Eterno HD
 http://177.91.162.202:8000/play/PaiEterno/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/walljobs/image/upload/v1533913915/mramefzfwzxtasquslgw.png" group-title="Filmes e Séries" ,Paramount HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://res.cloudinary.com/walljobs/image/upload/v1533913915/mramefzfwzxtasquslgw.png" group-title="Filmes e Séries" ,Paramount HD
 http://177.91.162.202:8000/play/Paramount/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="Entreterimento" ,Playboy TV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="Entreterimento" ,Playboy TV HD
 http://177.91.162.202:8000/play/Playboy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2 HD
 http://177.91.162.202:8000/play/PFC2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2 SD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere2_f5b68d74_48bf5f12bee5d3300883ad84f8bd4f85ee082073/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDc4OTk7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo-366x205.png" group-title="Esportes" ,Premiere 3 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo-366x205.png" group-title="Esportes" ,Premiere 3 HD
 http://177.91.162.202:8000/play/PFC3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/11/cd/1811cda98b4659813491d9b172b7132d.png" group-title="Esportes" ,Premiere 4 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/18/11/cd/1811cda98b4659813491d9b172b7132d.png" group-title="Esportes" ,Premiere 4 HD
 http://177.91.162.202:8000/play/PFC4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png" group-title="Esportes" ,Premiere 5 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png" group-title="Esportes" ,Premiere 5 HD
 http://177.91.162.202:8000/play/PFC5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="Esportes" ,Premiere 6 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="Esportes" ,Premiere 6 HD
 http://177.91.162.202:8000/play/PFC6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes" ,Premiere 7 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes" ,Premiere 7 HD
 http://177.91.162.202:8000/play/PFC7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes HD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes HD
 http://177.91.162.202:8000/play/PFC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes SD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_56f0d6542133bc9e1df332111c625926c5227d2d/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDc0MjY7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes SD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_56f0d6542133bc9e1df332111c625926c5227d2d/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDc1MzY7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes SD
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_56f0d6542133bc9e1df332111c625926c5227d2d/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDc2NDE7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime Box Brazil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime Box Brazil HD
 http://177.91.162.202:8000/play/PrimeBox/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Abertos" ,RecordTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Abertos" ,RecordTV HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Abertos",RecordTV HD
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Abertos" ,Record News HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Abertos" ,Record News HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Abertos",RedeTV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Abertos",RedeTV
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png"group-title="Abertos",RedeTV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png"group-title="Abertos",RedeTV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png"group-title="Abertos",RedeTV
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png"group-title="Abertos",RedeTV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Abertos" ,Rede Vida HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Abertos" ,Rede Vida HD
 http://177.91.162.202:8000/play/RedeVida/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png" group-title="Abertos" ,SBT HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png" group-title="Abertos" ,SBT HD
 http://177.91.162.202:8000/play/SBTSP/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="Entreterimento" ,SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="Entreterimento" ,SYFY HD
 http://177.91.162.202:8000/play/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png" group-title="Documentários" ,Smithsonian HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png" group-title="Documentários" ,Smithsonian HD
 http://177.91.162.202:8000/play/Smithsonian/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="Filmes e Séries" ,Space HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="Filmes e Séries" ,Space HD
 http://177.91.162.202:8000/play/Space/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV HD
 http://177.91.162.202:8000/play/SporTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV SD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV SD
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_a55a47bd906905b466d0a13e7710a6a68e5c2475/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDc4MjM7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg" group-title="Esportes" ,SporTV2 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg" group-title="Esportes" ,SporTV2 HD
 http://177.91.162.202:8000/play/SporTV2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/cd/Sportv3-1.jpg/revision/latest?cb=20200209162422&path-prefix=pt-br" group-title="Esportes" ,SporTV3 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/cd/Sportv3-1.jpg/revision/latest?cb=20200209162422&path-prefix=pt-br" group-title="Esportes" ,SporTV3 HD
 http://177.91.162.202:8000/play/SporTV3/index.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Filmes e Séries" ,Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="data:image/png;base64,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" group-title="Filmes e Séries" ,Studio Universal HD
 http://177.91.162.202:8000/play/StudioUniversal/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Entreterimento" ,TBS HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Entreterimento" ,TBS HD
 http://177.91.162.202:8000/play/TBS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entreterimento" ,TLC HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entreterimento" ,TLC HD
 http://177.91.162.202:8000/play/TLC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Filmes e Séries" ,TNT HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Filmes e Séries" ,TNT HD
 http://177.91.162.202:8000/play/TNT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="Filmes e Séries" ,TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://1.bp.blogspot.com/-S7RFmA_w17s/XRe6xpCvLpI/AAAAAAABWng/bjnhzZsev3MN8zrjmvEvMFIKVtiEJHbUACLcBGAs/s1600/TNTSeries_Color_POR_Hor.jpg" group-title="Filmes e Séries" ,TNT Series HD
 http://177.91.162.202:8000/play/TNTSeries/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.a12.com/source/files/c/2058/682-483-0-0.jpg" group-title="Abertos" ,TV Aparecida
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://images.a12.com/source/files/c/2058/682-483-0-0.jpg" group-title="Abertos" ,TV Aparecida
 http://177.91.162.202:8000/play/TVAparecida/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png" group-title="Abertos" ,TV Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png" group-title="Abertos" ,TV Brasil HD
 http://177.91.162.202:8000/play/TVBrasil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png"group-title="Abertos",TV CÂMARA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png"group-title="Abertos",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-470x246.png"group-title="Abertos",TV GAZETA
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-470x246.png"group-title="Abertos",TV GAZETA
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fEUVPffm6yM/maxresdefault.jpg" group-title="Abertos" ,TV Novo Tempo HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ytimg.com/vi/fEUVPffm6yM/maxresdefault.jpg" group-title="Abertos" ,TV Novo Tempo HD
 http://177.91.162.202:8000/play/TVNovoTempo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Abertos",TV Novo Tempo HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Abertos",TV Novo Tempo HD
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Entreterimento" ,TV RÆ Tim Bum HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Entreterimento" ,TV RÆ Tim Bum HD
 http://177.91.162.202:8000/play/TVRATIMBUM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/600x315/04/bc/c9/04bcc9f062ef063e9ca6116eeb749d0f.jpg" group-title="Filmes e Séries" ,Telecine Action HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/600x315/04/bc/c9/04bcc9f062ef063e9ca6116eeb749d0f.jpg" group-title="Filmes e Séries" ,Telecine Action HD
 http://177.91.162.202:8000/play/TCAction/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Pqh6urVKRR0/UzdjvfnfDBI/AAAAAAAAh4Q/xqCFFP7Hb_k/s1600/CULT_preto_gato.png" group-title="Filmes e Séries" ,Telecine Cult HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://2.bp.blogspot.com/-Pqh6urVKRR0/UzdjvfnfDBI/AAAAAAAAh4Q/xqCFFP7Hb_k/s1600/CULT_preto_gato.png" group-title="Filmes e Séries" ,Telecine Cult HD
 http://177.91.162.202:8000/play/TCCult/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Filmes e Séries" ,Telecine Fun HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Filmes e Séries" ,Telecine Fun HD
 http://177.91.162.202:8000/play/TCFun/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg" group-title="Filmes e Séries" ,Telecine Pipoca HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg" group-title="Filmes e Séries" ,Telecine Pipoca HD
 http://177.91.162.202:8000/play/TCPipoca/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png" group-title="Filmes e Séries" ,Telecine Premium HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png" group-title="Filmes e Séries" ,Telecine Premium HD
 http://177.91.162.202:8000/play/TCPremium/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Filmes e Séries" ,Telecine Touch HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Filmes e Séries" ,Telecine Touch HD
 http://177.91.162.202:8000/play/TCTouch/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png" group-title="Entreterimento" ,Travel Box Brazil HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-travel.png" group-title="Entreterimento" ,Travel Box Brazil HD
 http://177.91.162.202:8000/play/TravelBox/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes e Séries" ,Universal TV HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes e Séries" ,Universal TV HD
 http://177.91.162.202:8000/play/Universal/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Entreterimento" ,VH1 HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Entreterimento" ,VH1 HD
 http://177.91.162.202:8000/play/VH1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Entreterimento" ,Viva HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Entreterimento" ,Viva HD
 http://177.91.162.202:8000/play/Viva/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBgCLcBGAsYHQ/s640/Warner.jpg" group-title="Entreterimento" ,Warner Channel HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBgCLcBGAsYHQ/s640/Warner.jpg" group-title="Entreterimento" ,Warner Channel HD
 http://177.91.162.202:8000/play/Warner/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="Entreterimento" ,Woohoo HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="Entreterimento" ,Woohoo HD
 http://177.91.162.202:8000/play/Woohoo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="Desenhos" ,Zoomoo HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="Desenhos" ,Zoomoo HD
 http://177.20.208.58:8000/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Entreterimento" ,Fashion HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Entreterimento" ,Fashion HD
 http://177.20.208.58:8000/play/a04h/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Documentários" ,Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Documentários" ,Love Nature 4K
 http://177.20.208.58:8000/play/a04o/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Documentários" ,Love Nature HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Documentários" ,Love Nature HD
 http://177.20.208.58:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/much-music-tv.svg" group-title="Entreterimento" ,Music HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://cdn.worldvectorlogo.com/logos/much-music-tv.svg" group-title="Entreterimento" ,Music HD
 http://177.20.208.58:8000/play/a04g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OcfsvAAO8HQ/VwGtvY0SMlI/AAAAAAAAM-U/m1pwMR1NCXcBU3Lcc9OtuFvG5d6DYxv3g/w1200-h630-p-k-no-nu/Logo%2BPoliTV.png" group-title="Entreterimento" ,POLI TV 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://2.bp.blogspot.com/-OcfsvAAO8HQ/VwGtvY0SMlI/AAAAAAAAM-U/m1pwMR1NCXcBU3Lcc9OtuFvG5d6DYxv3g/w1200-h630-p-k-no-nu/Logo%2BPoliTV.png" group-title="Entreterimento" ,POLI TV 2
 http://177.20.208.58:8000/play/a02y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime HD
 http://177.20.208.58:8000/play/a04f/index.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png group-title="Abertos" ,Rede Vida HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png group-title="Abertos" ,Rede Vida HD
 http://177.20.208.58:8000/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Abertos" ,RedeTV! HD1
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Abertos" ,RedeTV! HD1
 http://177.20.208.58:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Abertos" ,RedeTV! HD2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="Abertos" ,RedeTV! HD2
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="Abertos" ,TERRAVIVA HD
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="Abertos" ,TERRAVIVA HD
 http://177.20.208.58:8000/play/a026/index.m3u8
