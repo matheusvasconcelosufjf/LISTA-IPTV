@@ -42,6 +42,12 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21hd_10d293a9_b687ff75f5b
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB MOSAICO HD
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bbb21mosaico_6765c043_94d305f28a68ce505ca31077d2f6acde2bead495/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDcyMzY7fQ%3D%3D
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB HD
+https://qn-10052-apcachespoju03-2.globo-live-1.qwilted-cds.cqloud.com/qsig=eyJjbnQiOjMsImV4cCI6MTYxMzA2NDQ0NCwiaHNoIjoiNzk5N2FiZjlkNjZhMDlhYWU3NjNhNzgxNDU0ZTk0ODQiLCJraWQiOjAsInR5cCI6InNnbiJ9.Ym1xB_z_JQUrP5DA1cdhoiJLiMSpf1ButKpEflEnGew/d/s/hls-bbb01/hls-bbb01_1573/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB HD
+https://qn-10052-apcachespoju01-2.globo-live-1.qwilted-cds.cqloud.com/qsig=eyJjbnQiOjQsImV4cCI6MTYxMzA2NDU4MCwiaHNoIjoiZjVkZGQyZmJhMjgyNTc5NzdjN2M1OTY2MWI2ODc2MTUiLCJraWQiOjAsInR5cCI6InNnbiJ9.27Wp8UvnMaNhxYEiJqeSgz2d_HUoXrMx5H_7bCRwYRg/d/nl/s/hls-bbb11/hls-bbb11_1573/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Desenhos" ,Boomerang HD
 http://177.91.162.202:8000/play/Boomerang/index.m3u8
 
@@ -278,6 +284,9 @@ http://177.91.162.202:8000/play/Megapix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow HD
 http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
 
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow
+https://qn-10052-apcachespoju01-2.globo-live-1.qwilted-cds.cqloud.com/qsig=eyJjbnQiOjMsImV4cCI6MTYxMzA2NTQ3NywiaHNoIjoiOGFkOGI2YTU4ZWZhN2JmNzYxNmIwZDUyZGE1MjRiZGYiLCJraWQiOjAsInR5cCI6InNnbiJ9.jQgzf-ZD7kM3IuTUQecbpFKPxm6AZ1Ms58zvmGkF8_A/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow SD
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/multishow_5f573b82_57e3e99f712ba842055c890988fb28ee978eb424/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDgwMzk7fQ%3D%3D
 
@@ -331,6 +340,9 @@ http://177.91.162.202:8000/play/PFC6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes" ,Premiere 7 HD
 http://177.91.162.202:8000/play/PFC7/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes HD
+https://qn-10052-apcachespoju03-2.globo-live-1.qwilted-cds.cqloud.com/qsig=eyJjbnQiOjMsImV4cCI6MTYxMzA2NTMzNSwiaHNoIjoiYjExNmM4ZGQ2Yzg2MWYxYTAwNzU5Mzc4Nzg5NzQ3ODEiLCJraWQiOjAsInR5cCI6InNnbiJ9.cPccrhpXL1_1bN2rT2uUWn9ISVuR7y7bdGeptmQurp8/d/s/hls-pfc124ha/hls-pfc124ha_2126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24163
