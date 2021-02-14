@@ -45,7 +45,7 @@ http://187.32.214.221:8002/play/a0fa/index.m3u8
 http://187.32.214.221:8002/play/a0f9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB Câmera 1
-http://187.32.214.221:8004/play/a0f9/index.m3u8
+http://grtsvk.life:8080/leotb0001/888777555/62319
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB Câmera 2
 http://187.32.214.221:8004/play/a0fa/index.m3u8
@@ -342,7 +342,7 @@ http://177.91.162.202:8000/play/Paramount/index.m3u8
 http://177.91.162.202:8000/play/Playboy/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2
-http://187.32.214.221:8002/play/a0es/index.m3u8
+http://198.255.22.164:7283/PREMIERE-2-HD-BR/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=ZLoml0QaFHGNnsDAbljNlV2guZz
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo-366x205.png" group-title="Esportes" ,Premiere 3
 http://187.32.214.221:8003/play/a03r/index.m3u8
@@ -360,7 +360,7 @@ http://177.91.162.202:8000/play/PFC6/index.m3u8
 http://177.91.162.202:8000/play/PFC7/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
-http://187.32.214.221:8002/play/a0er/index.m3u8
+http://198.255.22.164:7283/PREMIERE-1-HD-BR/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=GLwOu1T2IBpc23qW8Lxkc5wjAQt
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime Box Brazil
 http://177.91.162.202:8000/play/PrimeBox/index.m3u8
