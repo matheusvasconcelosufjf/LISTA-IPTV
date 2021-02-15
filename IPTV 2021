@@ -6,7 +6,7 @@ LINKS ENCONTRADOS NA INTERNET E ATUALIZADOS DIARIAMENTE
 ÚLTIMA ATUALIZAÇÃO: 13/02/2021
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="Ae.br"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E
-http://187.32.214.221:8002/play/a0e9/index.m3u8
+http://198.255.22.164:7283/HY-645/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=DSAdovyxMkOn9WG212ru2j6l6wb
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -21,7 +21,7 @@ http://187.32.214.221:8002/play/a0dp/index.m3u8
 http://187.32.214.221:8003/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animalplanet.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentários" ,Animal Planet
-http://187.32.214.221:8002/play/a0fe/index.m3u8
+http://grtsvk.life:8080/leotb0001/888777555/71313
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="AArte 1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Entreterimento" ,Arte 1
 http://187.32.214.221:8003/play/a02x/index.m3u8
@@ -45,7 +45,7 @@ http://187.32.214.221:8002/play/a0fa/index.m3u8
 http://187.32.214.221:8002/play/a0f9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB Câmera 1
-http://grtsvk.life:8080/leotb0001/888777555/62319
+http://grtsvk.life:8080/leotb0001/888777555/64038
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB Câmera 2
 http://187.32.214.221:8004/play/a0fa/index.m3u8
@@ -111,10 +111,10 @@ http://187.32.214.221:8002/play/a0ez/index.m3u8
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate"  tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="Esportes" ,Combate
-http://187.32.214.221:8002/play/a0em/index.m3u8
+http://198.255.22.164:7283/COMBATE-BR-4K/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=U2KgWg0vAdxwXfVumKB8ZPS10AL
 
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento" ,Comedy Central
-http://187.32.214.221:8003/play/a01y/index.m3u8
+http://grtsvk.life:8080/leotb0001/888777555/71321
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Entreterimento" ,CNT (offline)
 http://177.20.208.58:8000/play/a04n/index.m3u8
@@ -180,7 +180,7 @@ http://187.32.214.221:8003/play/a029/index.m3u8
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
-http://187.32.214.221:8003/play/a02a/index.m3u8
+http://198.255.22.164:7283/ESPN-BRASIL/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=Dq0UBTvkpsNLA5B1qW7OfnpuBZa
 
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN+"  tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes" ,ESPN Extra
 http://187.32.214.221:8002/play/a0dv/index.m3u8
@@ -297,7 +297,7 @@ http://187.32.214.221:8003/play/a01w/index.m3u8
 http://187.32.214.221:8004/play/a0dr/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png" group-title="Entreterimento" ,Mais Globosat
-http://177.91.162.202:8000/play/MaisGlobosat/index.m3u8
+http://grtsvk.life:8080/leotb0001/888777555/71346
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png" group-title="Entreterimento" ,Megapix
 http://177.91.162.202:8000/play/Megapix/index.m3u8
@@ -306,7 +306,7 @@ http://177.91.162.202:8000/play/Megapix/index.m3u8
 http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow
-https://qn-10052-apcachespoju01-2.globo-live-1.qwilted-cds.cqloud.com/qsig=eyJjbnQiOjMsImV4cCI6MTYxMzA2NTQ3NywiaHNoIjoiOGFkOGI2YTU4ZWZhN2JmNzYxNmIwZDUyZGE1MjRiZGYiLCJraWQiOjAsInR5cCI6InNnbiJ9.jQgzf-ZD7kM3IuTUQecbpFKPxm6AZ1Ms58zvmGkF8_A/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
+http://grtsvk.life:8080/leotb0001/888777555/71363
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow SD
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/multishow_5f573b82_57e3e99f712ba842055c890988fb28ee978eb424/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDgwMzk7fQ%3D%3D
@@ -345,18 +345,18 @@ http://177.91.162.202:8000/play/Playboy/index.m3u8
 http://198.255.22.164:7283/PREMIERE-2-HD-BR/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=ZLoml0QaFHGNnsDAbljNlV2guZz
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo-366x205.png" group-title="Esportes" ,Premiere 3
-http://187.32.214.221:8003/play/a03r/index.m3u8
+http://198.255.22.164:7283/PREMIERE-3-HD-BR/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=YJWcSwkjs34wUQgt1ohJ3FyElhK
 
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4"  tvg-logo="https://i.pinimg.com/originals/18/11/cd/1811cda98b4659813491d9b172b7132d.png" group-title="Esportes" ,Premiere 4
 http://187.32.214.221:8003/play/a022/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png" group-title="Esportes" ,Premiere 5
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5"  tvg-logo="https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png" group-title="Esportes" ,Premiere 5
 http://177.91.162.202:8000/play/PFC5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="Esportes" ,Premiere 6
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="Esportes" ,Premiere 6
 http://177.91.162.202:8000/play/PFC6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes" ,Premiere 7
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7"  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes" ,Premiere 7
 http://177.91.162.202:8000/play/PFC7/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
@@ -410,8 +410,8 @@ http://177.91.162.202:8000/play/Space/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24160
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV SD
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_a55a47bd906905b466d0a13e7710a6a68e5c2475/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDc4MjM7fQ%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV
+http://198.255.22.164:7283/SPORTV-1-HD-BR/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=4K8m0UoZaQADwGEdBXO9LHIoOSa
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg" group-title="Esportes" ,SporTV2
 http://177.91.162.202:8000/play/SporTV2/index.m3u8
