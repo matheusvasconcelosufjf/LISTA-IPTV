@@ -3,7 +3,7 @@
 USOU E GOSTOU? DOE:
 https://mpago.la/23oFBGo
 LINKS ENCONTRADOS NA INTERNET E ATUALIZADOS DIARIAMENTE
-ÚLTIMA ATUALIZAÇÃO: 13/02/2021
+ÚLTIMA ATUALIZAÇÃO: 23/03/2021
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="Ae.br"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E
 http://grtsvk.life:8080/leotb0001/888777555/71092
@@ -18,10 +18,10 @@ http://grtsvk.life:8080/leotb0001/888777555/71093
 http://grtsvk.life:8080/leotb0001/888777555/71314
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animalplanet.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentários" ,Animal Planet
-http://grtsvk.life:8080/leotb0001/888777555/71313
+http://187.95.149.94:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="AArte 1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="Entreterimento" ,Arte 1
-http://187.32.214.221:8003/play/a02x/index.m3u8
+http://187.95.149.94:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Reality" ,Baby TV
 http://grtsvk.life:8080/leotb0001/888777555/71078
@@ -36,10 +36,10 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BandNews"  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias" ,Band News
-http://grtsvk.life:8080/leotb0001/888777555/71428
+http://187.95.149.94:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BandSports"  tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="Esportes" ,Band Sports
-http://grtsvk.life:8080/leotb0001/888777555/71315
+http://187.95.149.94:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://midias.agazeta.com.br/2021/01/19/article-059kh4dag6zc.png" group-title="Reality" ,BBB Câmera 1
 http://grtsvk.life:8080/leotb0001/888777555/64038
@@ -48,7 +48,7 @@ http://grtsvk.life:8080/leotb0001/888777555/64038
 http://grtsvk.life:8080/leotb0001/888777555/64069
 
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Desenhos" ,Boomerang
-http://grtsvk.life:8080/leotb0001/888777555/71079
+http://187.95.149.94:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1280px-Bloomberg_logo.svg.png" group-title="Notícias" ,Bloomberg
 http://187.32.214.221:8004/play/a0ec/index.m3u8
@@ -108,7 +108,7 @@ http://grtsvk.life:8080/leotb0001/888777555/71119
 http://grtsvk.life:8080/leotb0001/888777555/71321
 
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento" ,Comedy Central
-https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/playlist.m3u8
+http://187.95.149.94:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Entreterimento" ,CNT
 http://grtsvk.life:8080/leotb0001/888777555/71550
@@ -117,7 +117,7 @@ http://grtsvk.life:8080/leotb0001/888777555/71550
 http://grtsvk.life:8080/leotb0001/888777555/71558
 
 #EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!"  tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1" group-title="Entreterimento" ,Curta!
-http://187.32.214.221:8002/play/a0du/index.m3u8
+http://187.95.149.94:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Esportes" ,DAZN 
 http://grtsvk.life:8080/leotb0001/888777555/71481
@@ -171,16 +171,16 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 http://grtsvk.life:8080/leotb0001/888777555/71338
 
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life"  tvg-logo="https://2.bp.blogspot.com/-NCtbqB3QSwY/VxvdB1ZK9mI/AAAAAAAAqv0/Wr2ZqWP-m8oXkc2bNpuDevhXpsHP7kdHQCLcB/s1600/LOGO-FOX-Life.jpg" group-title="Filmes e Séries" ,FOX Life
-http://grtsvk.life:8080/leotb0001/888777555/71339
+http://187.95.149.94:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2"  tvg-logo="https://lh3.googleusercontent.com/proxy/D7OWkf8Pz4xdkCswUhwEPCsMkewJ49NcPr7dsaij02vodckmSA2TnE_AcwaQKhdXUncrDIK5rD27ARQJswcOCr18GV_zDBjfMBOOBjBJlvvkm3fz68id4-wI4HOf" group-title="Esportes" ,FOX Sports 2
-http://grtsvk.life:8080/leotb0001/888777555/71342
+http://187.95.149.94:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports
-http://grtsvk.life:8080/leotb0001/888777555/71343
+http://187.95.149.94:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX"  tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg" group-title="Filmes e Séries" ,FX
-http://grtsvk.life:8080/leotb0001/888777555/71344
+http://187.95.149.94:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="film-arts" tvg-name="Film &amp; Arts"  tvg-logo="https://cdn.worldvectorlogo.com/logos/film-arts.svg" group-title="Filmes e Séries" ,Film&Arts
 http://grtsvk.life:8080/leotb0001/888777555/71461
@@ -197,11 +197,11 @@ http://grtsvk.life:8080/leotb0001/888777555/71202
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Entreterimento" ,GNT
 http://187.32.214.221:8003/play/a020/index.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP"  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Abertos" ,Globo SP
-http://grtsvk.life:8080/leotb0001/888777555/71496
-
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo MG"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo MG
+http://187.95.149.94:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias" ,GloboNews
 http://grtsvk.life:8080/leotb0001/888777555/71345
@@ -252,7 +252,7 @@ http://187.32.214.221:8003/play/a036/index.m3u8
 http://177.91.162.202:8000/play/LoveNature/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa44a2c13df943a99df8b913f60f.jpg" group-title="Entreterimento" ,MTV
-http://187.32.214.221:8003/play/a01w/index.m3u8
+http://187.95.149.94:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Entreterimento" ,MTV LIVE
 http://187.32.214.221:8004/play/a0dr/index.m3u8
@@ -272,26 +272,23 @@ http://tv.minhalista.me/live/Karolayne/karolayne/36957.mpegts
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow
 http://grtsvk.life:8080/leotb0001/888777555/71363
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Entreterimento" ,Multishow SD
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/multishow_5f573b82_57e3e99f712ba842055c890988fb28ee978eb424/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTg3LjE5LjIyLjUwIjtpOjE7czo3NzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0OyBydjo4NS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg1LjAiO2k6MjtpOjE2MTMwNDgwMzk7fQ%3D%3D
-
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Entreterimento" ,Music Box Brazil
-http://177.91.162.202:8000/play/MusicBox/index.m3u8
+http://187.95.149.94:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png" group-title="Desenhos" ,Nat Geo Kids
-http://177.91.162.202:8000/play/NatGeoKids/index.m3u8
+http://187.95.149.94:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="Entreterimento" ,NatGeo Wild
-http://177.91.162.202:8000/play/NatGeoWild/index.m3u8
+http://187.95.149.94:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Documentários" ,National Geographic
-http://177.91.162.202:8000/play/NatGeo/index.m3u8
+http://187.95.149.94:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d67ac7b06de63d793bf1.png" group-title="Desenhos" ,Nick Jr.
-http://177.91.162.202:8000/play/NickJr/index.m3u8
+http://187.95.149.94:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5699/full-664x664/56701c4c/664px-Nickelodeon_logo.png?resolution=0" group-title="Desenhos" ,Nickelodeon
-http://177.91.162.202:8000/play/Nickelodeon/index.m3u8
+http://187.95.149.94:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png" group-title="Entreterimento" ,OFF
 http://177.91.162.202:8000/play/OFF/index.m3u8
@@ -300,10 +297,10 @@ http://177.91.162.202:8000/play/OFF/index.m3u8
 http://177.91.162.202:8000/play/PaiEterno/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel"  tvg-logo="https://res.cloudinary.com/walljobs/image/upload/v1533913915/mramefzfwzxtasquslgw.png" group-title="Filmes e Séries" ,Paramount
-http://198.255.22.164:7283/PARAMOUNT-BR-HD/index.m3u8?un=ga0a8g6310569&tm=1613272149&sn=BpIbbsjmOLTp0PKvxQjfnl0c38f
+http://187.95.149.94:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="Entreterimento" ,Playboy TV
-http://177.91.162.202:8000/play/Playboy/index.m3u8
+http://187.95.149.94:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2
 http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72263.ts
@@ -327,7 +324,7 @@ http://grtsvk.life:8080/leotb0001/888777555/71110
 http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72265.ts
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime Box Brazil
-http://177.91.162.202:8000/play/PrimeBox/index.m3u8
+http://187.95.149.94:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Abertos" ,RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
@@ -370,6 +367,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT"  tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png" group-title="Abertos" ,SBT MA
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT"  tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png" group-title="Abertos" ,SBT
+http://187.95.149.94:8000/play/e7e0/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name=""  tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="Entreterimento" ,SYFY
 http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/24.ts
@@ -455,8 +455,8 @@ http://177.91.162.202:8000/play/TravelBox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes e Séries" ,Universal TV
 http://177.91.162.202:8000/play/Universal/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Entreterimento" ,VH1
-http://177.91.162.202:8000/play/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VH1.br" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Entreterimento" ,VH1
+http://187.95.149.94:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Entreterimento" ,Viva
 http://95.141.32.158:8081/loadbalance/viva/chunks.m3u8
