@@ -6,7 +6,7 @@ LINKS ENCONTRADOS NA INTERNET E ATUALIZADOS DIARIAMENTE
 ÚLTIMA ATUALIZAÇÃO: 23/03/2021
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="Ae.br"  tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png" group-title="Entreterimento" ,A&E
-http://grtsvk.life:8080/leotb0001/888777555/71092
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460121.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="Abertos" ,Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
@@ -15,7 +15,7 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://grtsvk.life:8080/leotb0001/888777555/71093
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN"  tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png" group-title="Entreterimento" ,AXN
-http://grtsvk.life:8080/leotb0001/888777555/71314
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460141.m3u8
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animalplanet.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentários" ,Animal Planet
 http://187.95.149.94:8000/play/a01b/index.m3u8
@@ -96,7 +96,10 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 http://grtsvk.life:8080/leotb0001/888777555/71080
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes e Séries" ,Cinemax
-http://grtsvk.life:8080/leotb0001/888777555/71094
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359100.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Filmes e Séries" ,Cinemax
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358935.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://sollutio.com/img/img/canais-abertos/tv-comunitaria.png" group-title="Entreterimento" ,Com Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
@@ -138,7 +141,7 @@ http://187.32.214.221:8003/play/a02w/index.m3u8
 http://grtsvk.life:8080/leotb0001/888777555/71052
 
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater"  tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg" group-title="Documentários" ,Discovery Theater
-http://grtsvk.life:8080/leotb0001/888777555/71053
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460290.m3u8
 
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Documentários" ,Discovery Turbo
 http://grtsvk.life:8080/leotb0001/888777555/71054
@@ -303,13 +306,13 @@ http://187.95.149.94:8000/play/a016/index.m3u8
 http://187.95.149.94:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2
-http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72263.ts
+http://noah.tvdns.tech:80/live/claudiofera/Fera20
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo-366x205.png" group-title="Esportes" ,Premiere 3
-http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72266.ts
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460716.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4"  tvg-logo="https://i.pinimg.com/originals/18/11/cd/1811cda98b4659813491d9b172b7132d.png" group-title="Esportes" ,Premiere 4
-http://tvaz.top:80/martins/123456/69092
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460723.m3u8
 
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5"  tvg-logo="https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png" group-title="Esportes" ,Premiere 5
 http://grtsvk.life:8080/leotb0001/888777555/71115
@@ -321,7 +324,7 @@ http://grtsvk.life:8080/leotb0001/888777555/71109
 http://grtsvk.life:8080/leotb0001/888777555/71110
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
-http://dnsx.co:80/live/andrea.fleming3/a1aw5s/72265.ts
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460747.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime Box Brazil
 http://187.95.149.94:8000/play/a010/index.m3u8
@@ -384,13 +387,13 @@ http://51.222.16.139:25461/live/YU16iB17jE/Y3FvuLwz56/23.ts
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=v_cbCAsyLQkLyutv8JiE9g&3U1G7qaTxrPbalZnEx=1613443260
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV"  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV
-http://grtsvk.life:8080/leotb0001/888777555/71120
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460831.m3u8
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2"  tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg" group-title="Esportes" ,SporTV2
-http://grtsvk.life:8080/leotb0001/888777555/71121
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460817.m3u8
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3"  tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/cd/Sportv3-1.jpg/revision/latest?cb=20200209162422&path-prefix=pt-br" group-title="Esportes" ,SporTV3
-http://grtsvk.life:8080/leotb0001/888777555/71122
+http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460823.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="data:image/png;base64,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" group-title="Filmes e Séries" ,Studio Universal
 http://177.91.162.202:8000/play/StudioUniversal/index.m3u8
