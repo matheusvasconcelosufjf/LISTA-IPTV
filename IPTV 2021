@@ -159,7 +159,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
-http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+http://rec2.distv.net:80/damaris/123456/144
 
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN+"  tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="Esportes" ,ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
@@ -180,7 +180,7 @@ http://187.95.149.94:8000/play/a00b/index.m3u8
 http://187.95.149.94:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports
-http://187.95.149.94:8000/play/a017/index.m3u8
+http://rec2.distv.net:80/damaris/123456/152
 
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX"  tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg" group-title="Filmes e Séries" ,FX
 http://187.95.149.94:8000/play/a00a/index.m3u8
@@ -309,25 +309,25 @@ http://187.95.149.94:8000/play/a016/index.m3u8
 http://187.95.149.94:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="Esportes" ,Premiere 2
-http://noah.tvdns.tech:80/live/claudiofera/Fera20
+http://rec2.distv.net:80/damaris/123456/179
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo-366x205.png" group-title="Esportes" ,Premiere 3
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460716.m3u8
+http://rec2.distv.net:80/damaris/123456/180
 
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4"  tvg-logo="https://i.pinimg.com/originals/18/11/cd/1811cda98b4659813491d9b172b7132d.png" group-title="Esportes" ,Premiere 4
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460723.m3u8
+http://rec2.distv.net:80/damaris/123456/181
 
 #EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5"  tvg-logo="https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png" group-title="Esportes" ,Premiere 5
-http://grtsvk.life:8080/leotb0001/888777555/71115
+http://rec2.distv.net:80/damaris/123456/182
 
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6"  tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png" group-title="Esportes" ,Premiere 6
 http://grtsvk.life:8080/leotb0001/888777555/71109
 
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7"  tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg" group-title="Esportes" ,Premiere 7
-http://grtsvk.life:8080/leotb0001/888777555/71110
+http://rec2.distv.net:80/damaris/123456/237
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes"  tvg-logo="https://i0.wp.com/allansimon.com.br/wp-content/uploads/2019/09/Premiere-Canal-Globosat.jpg?fit=1200%2C600&ssl=1" group-title="Esportes" ,Premiere Clubes
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460747.m3u8
+http://rec2.distv.net:80/damaris/123456/184
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png" group-title="Entreterimento" ,Prime Box Brazil
 http://187.95.149.94:8000/play/a010/index.m3u8
@@ -491,3 +491,11 @@ http://177.20.208.58:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://2.bp.blogspot.com/-OcfsvAAO8HQ/VwGtvY0SMlI/AAAAAAAAM-U/m1pwMR1NCXcBU3Lcc9OtuFvG5d6DYxv3g/w1200-h630-p-k-no-nu/Logo%2BPoliTV.png" group-title="Entreterimento" ,POLI TV 2
 http://177.20.208.58:8000/play/a02y/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/Portugal_FPF.png" group-title="Esportes" ,Portugal Esportes
+https://google-br.cdn.booyah.live/hls/1000085/71486811.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/Portugal_FPF.png" group-title="Esportes" ,Tigo Sports
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="Esportes", 2- TIGO SPORTS +
+http://gooserace.xyz:2052/live/batman1/batman1/2605684.ts
